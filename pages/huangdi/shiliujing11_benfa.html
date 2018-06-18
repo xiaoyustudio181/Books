@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>十六经 - 本伐</title>
+    <style>
+        @import "../../dist/css/bootstrap.min.css";
+        @import "../../css/common.css";
+        .open_content{
+            float: right;
+        }
+        .head {
+            border-top: 2px solid;
+            border-bottom: 2px solid;
+        }
+        .content{
+            border-bottom: 2px solid;
+        }
+        .open_content:hover{
+            color:red;
+            cursor: pointer;
+        }
+    </style>
+    <script src="../../js/jquery-3.0.0.min.js"></script>
+</head>
+<body>
+<div id="menu">
+    <p><a href="catalog.html" class="btn btn-default">返回目录</a></p>
+    <p><a href="shiliujing10_sanjin.html" class="btn btn-default">上一节</a></p>
+    <p><a href="shiliujing12_qiandao.html" class="btn btn-default">下一节</a></p>
+</div>
+<div class="container">
+    <div class="jumbotron">
+        <h1>十六经 - 本伐</h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 myfont">
+            <p class="head pre-line">原文<span class="open_content">展开原文</span></p>
+            <p class="content">　　诸库臧（藏）兵之国，皆有兵道。世兵道三，有为利者，有为义者，有为忿者。所胃（谓）为利者，见□□□饥，国家不暇，上下不当，举兵而□之，唯（虽）无大利，亦无大害焉。所胃（谓）为义者，伐乱禁暴，起贤废不宵。所胃（谓）义也，□者，众之所死也。是故以一国（攻）天下，万乘（之）主□□希自此时始，鲜能冬（终）之，非心之恒也，穷而反矣。所胃（谓）行忿者，心唯忿，不能徒怒。怒必有为也，成功而无以求也，即兼始逆矣。非道也，道之行也，由不得巳。由不得巳，则无穷。故□者，也。禁者，使者也。是以方行不留。</p>
+            <p class="pre-line">[译文]
+            　　蓄兵征战的国家，都有自己不同的用兵原则。这些用兵的原则归纳起来有三类：有为谋利而征战的，有为道义而征战的，有为逞泄愤怒而征战的。所谓为了谋图利益而征战的，是指在别的国家正逢荒年，国家不安定，君臣上下又不和睦的情况下，而乘机发兵去诛伐。这种原则指导下的用兵结果，虽然并不能获得什么大的利益，然而也不会有什么大的灾害。
+                　　所谓为正议而征战的含义，便是为讨伐他国的叛乱和禁止君主的暴行而出兵，这是正义之战。为正义而战，人们都会为之献身的。因此以一国的力量去功伐天下的叛乱和暴虐，超级大国的君主在兼并他国时最初都是打着正义的旗号，但很少有能把为了正义而征战的原则贯彻到底的；如果没有持之以恒的决心去为正义而战，就会最终得到相反的结果。
+                　　所谓为了逞泄私愤而发动战争的，说的是内心如果怀有愤怒，就不会仅仅是愤怒而已，它一定会由内心之怒而外化为战争。这种战争不会取得成功，这是因为这种兼并战争一开始就是违背常理的，这是不符合用兵之道的。
+                　　用兵之道，是出于不得已。因为出于不得已，所以用兵就会成功而不会有困穷的时候。因此用兵的具体策略优势就应该采用通过退却让地而更好地进攻夺取；通过对军队的刑罚立禁而更好地以庆赏促使其立功。做到了这些，挥师出征，就可以畅行无阻。
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    $('.content').each(function () {
+        $(this).hide();
+    });
+    $('.open_content').each(function () {
+        $(this).on('click',function () {
+            if($(this).text()=='展开原文'){
+                $(this).text('折叠原文');
+            }else{
+                $(this).text('展开原文');
+            }
+            $(this).parent().next().slideToggle(100);
+        });
+    });
+</script>
+</html>
