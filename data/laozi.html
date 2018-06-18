@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <title>老子</title>
     <style>
-        @import "dist/css/bootstrap.min.css";
-        @import "css/common.css";
+        @import "../dist/css/bootstrap.min.css";
+        @import "../css/common.css";
 
         .jumbotron ~ div {
             font-family: 楷体;
             font-size: 36px;
-            font-weight: 900 !important;
+            font-weight: 900;
         }
 
         .chapter {
@@ -39,12 +39,11 @@
             color: red;
         }
     </style>
-    <script src="js/helper.js"></script>
-    <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="../js/jquery-3.0.0.min.js"></script>
 </head>
 <body>
 <div id="menu">
-    <p><a href="index.html" class="btn btn-default">返回书库</a></p>
+    <p><a href="../index.html" class="btn btn-default">返回书库</a></p>
     <p><a id="open_all" class="btn btn-default">展开所有译文</a></p>
     <p><a id="close_all" class="btn btn-default">折叠所有译文</a></p>
 </div>

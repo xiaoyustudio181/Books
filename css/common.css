@@ -3,3 +3,13 @@
     top: 10px;
     left: 10px;
 }
+
+.myfont{
+    font-family: 楷体;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.pre-line{
+    white-space: pre-line;
+}
