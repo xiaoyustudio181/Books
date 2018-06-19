@@ -22,11 +22,12 @@
         }
     </style>
     <script src="../../js/jquery-3.0.0.min.js"></script>
+    <script src="../../js/common.js"></script>
 </head>
 <body>
 <div id="menu">
     <p><a href="catalog.html" class="btn btn-default">返回目录</a></p>
-    <p><a href="shiliujing7_cixiongjie.html" class="btn btn-default">上一节</a></p>
+    <p><a href="shiliujing8_bingrong.html" class="btn btn-default">上一节</a></p>
     <p><a href="shiliujing10_sanjin.html" class="btn btn-default">下一节</a></p>
 </div>
 <div class="container">
@@ -46,19 +47,4 @@
     </div>
 </div>
 </body>
-<script>
-    $('.content').each(function () {
-        $(this).hide();
-    });
-    $('.open_content').each(function () {
-        $(this).on('click',function () {
-            if($(this).text()=='展开原文'){
-                $(this).text('折叠原文');
-            }else{
-                $(this).text('展开原文');
-            }
-            $(this).parent().next().slideToggle(100);
-        });
-    });
-</script>
 </html>
