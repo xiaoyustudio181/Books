@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>黄帝</title>
+    <style>
+        @import "../../dist/css/bootstrap.min.css";
+        @import "../../css/common.css";
+        .open_content{
+            float: right;
+        }
+        .title{
+            text-align: center;
+        }
+        .head {
+            border-top: 2px solid;
+            border-bottom: 2px solid;
+        }
+        .content{
+            border-bottom: 2px solid;
+        }
+        .open_content:hover{
+            color:red;
+            cursor: pointer;
+        }
+    </style>
+    <script src="../../js/jquery-3.0.0.min.js"></script>
+</head>
+<body>
+<div id="menu">
+    <p><a href="catalog.html" class="btn btn-default">返回目录</a></p>
+    <p><a href="huangdi11.html" class="btn btn-default">上一节</a></p>
+    <p><a href="huangdi13.html" class="btn btn-default">下一节</a></p>
+</div>
+<div class="container">
+    <div class="jumbotron">
+        <h1>黄帝</h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 myfont">
+            <p class="title">赵襄子率徒十万，狩于中山，藉仍燔林</p>
+            <p class="head pre-line">原文<span class="open_content">展开原文</span></p>
+            <p class="content">　　赵襄子率徒十万，狩于中山，藉仍燔林，扇赫百里，有一人从石壁中出，随烟烬上下，众谓鬼物。火过，徐行而出，若无所经涉者，襄子怪而留之，徐而察之：形色七窍，人也；气息音声，人也。问奚道而处石？奚道而入火？其人曰：“奚物而谓石？奚物而谓火？”襄子曰：“而向之所出者，石也；而向之所涉者，火也。”其人曰：“不知也。”魏文侯闻之，问子夏曰：“彼何人哉？”　子夏曰：“以商所闻夫子之言，和者大同于物，物无得伤阂者，游金石，蹈水火，皆可也。”文侯曰：“吾子奚不为之？”子夏曰：“刳心去智，商未之能。虽然，试语之有暇矣。”文侯曰：“夫子奚不为之？”子夏曰：“夫子能之而能不为者也。”文侯大说。</p>
+            <p class="pre-line">[译文]
+            　　赵襄子率领仆从十万人在中山打猎，践踏杂草，烧毁树林，烈炎烧及百里之远。有个人从石壁中走出来，跟随着烟火忽上忽下，大家以为是鬼。火势过去以后，他慢慢地走出来，像什么也没有经历过一样。赵襄子感到奇怪，便留住他。慢慢地观察他，看他的形貌、肤色与七窍是人，气息声音也是人，于是问他：“什么道术使你能住在石壁中？什么道术使你能进入火焰中？”那人说：“什么东西叫做石壁？什么东西叫做火焰？”赵襄子说：“你刚才出来的地方就是石壁，你刚才所踩过的东西就是火焰。”那人说：“我不知道。”魏文侯听说后，问子夏说：“那是个什么样的人？”子夏说：“以我从孔子那里听来的话说，中和之人与万物完全混同，因而万物不能伤害与阻碍他，在金石中游玩，在水火中行走，都是可以的。”魏文侯又问：“你为什么不这样做呢？”子夏说：“挖掉心肺，抛弃思虑，我不能办到。即使这样，姑且说一说还是有可能的。”文侯说：“孔子为什么不这样做呢？”子夏说：“他老人家能办得到，但是不愿意这样做。”文侯十分高兴。
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    $('.content').each(function () {
+        $(this).hide();
+    });
+    $('.open_content').each(function () {
+        $(this).on('click',function () {
+            if($(this).text()=='展开原文'){
+                $(this).text('折叠原文');
+            }else{
+                $(this).text('展开原文');
+            }
+            $(this).parent().next().slideToggle(100);
+        });
+    });
+</script>
+</html>
