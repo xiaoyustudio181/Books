@@ -1,4 +1,4 @@
-打开 index.html 即可。
+打开 home.html 即可。
 
 开发者邮箱：
 xiaoyustudio@foxmail.com
