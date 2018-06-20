@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>庄子</title>
+    <style>
+        @import "../../dist/css/bootstrap.min.css";
+        @import "../../css/common.css";
+
+        .panel-heading{
+            cursor: pointer;
+        }
+    </style>
+    <script src="../../js/jquery-3.0.0.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div id="menu">
+    <p><a href="../../index.html" class="btn btn-default">返回书库</a></p>
+</div>
+<div class="container">
+    <div class="jumbotron">
+        <h1>庄子</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+            <div class="panel-group" role="tablist" aria-multiselectable="true">
+                <div class="panel panel-default">
+                    <div  class="panel-heading" role="tab" id="xiaoyaoyou">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1" class="collapsed xiaoyaoyou">
+                                逍遥游
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
+                        <div class="panel-body">
+                            <div class="list-group">
+                                <a href="xiaoyaoyou1.html" class="list-group-item">北冥有鱼，其名曰鲲</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</body>
+<script>
+    document.getElementById('xiaoyaoyou').addEventListener('click',function () {
+        $('a.xiaoyaoyou').trigger('click');
+    });
+</script>
+</html>
