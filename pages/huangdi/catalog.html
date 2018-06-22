@@ -16,7 +16,7 @@
 </head>
 <body>
 <div id="menu">
-    <p><a href="../../index.html" class="btn btn-default">返回书库</a></p>
+    <p><a href="../../index.html" class="btn btn-default" id='back'>返回书库</a></p>
 </div>
 <div class="container">
     <div class="jumbotron">
@@ -121,5 +121,11 @@
     document.getElementById('daoyuanjing').addEventListener('click',function () {
         location.href='daoyuanjing.html';
     });
+    //快捷键
+    document.onkeydown=function (e){
+        if(e.key=='s'){//返回
+            document.getElementById('back').click();
+        }
+    };
 </script>
 </html>

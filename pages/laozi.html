@@ -43,7 +43,7 @@
 </head>
 <body>
 <div id="menu">
-    <p><a href="../index.html" class="btn btn-default">返回书库</a></p>
+    <p><a href="../index.html" class="btn btn-default" id="back">返回书库</a></p>
     <p><a id="open_all" class="btn btn-default">展开所有译文</a></p>
     <p><a id="close_all" class="btn btn-default">折叠所有译文</a></p>
 </div>
@@ -122,5 +122,12 @@
             $(this).text('展开译文');
         });
     });
+
+    //快捷键
+    document.onkeydown=function (e){
+        if(e.key=='s'){//返回
+            document.getElementById('back').click();
+        }
+    };
 </script>
 </html>
