@@ -16,7 +16,7 @@
 </head>
 <body>
 <div id="menu">
-    <p><a href="../../index.html" class="btn btn-default" id='back'>返回书库</a></p>
+    <p><a href="../../index.html" class="btn btn-default" id='back'>返回书库(S)</a></p>
 </div>
 <div class="container">
     <div class="jumbotron">
@@ -331,6 +331,31 @@
                         <div class="panel-body">
                             <div class="list-group">
                                 <a href="tianyun1.html" class="list-group-item">天其运乎？地其处乎</a>
+                                <a href="tianyun2.html" class="list-group-item">商大宰荡问仁于庄子</a>
+                                <a href="tianyun3.html" class="list-group-item">北门成问于黄帝曰</a>
+                                <a href="tianyun4.html" class="list-group-item">孔子西游于卫。颜渊问师金曰</a>
+                                <a href="tianyun5.html" class="list-group-item">孔子行年五十有一而不闻道</a>
+                                <a href="tianyun6.html" class="list-group-item">孔子见老聃而语仁义</a>
+                                <a href="tianyun7.html" class="list-group-item">孔子谓老聃曰</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel panel-default">
+                    <div  class="panel-heading" role="tab" id="keyi">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse15" aria-expanded="false" aria-controls="collapse1" class="collapsed keyi">
+                                刻意
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse15" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
+                        <div class="panel-body">
+                            <div class="list-group">
+                                <a href="keyi1.html" class="list-group-item">刻意尚行，离世异俗</a>
+                                <a href="keyi2.html" class="list-group-item">故曰，夫恬惔寂漠</a>
+                                <a href="keyi3.html" class="list-group-item">夫有干越之剑者，柙而藏之</a>
                             </div>
                         </div>
                     </div>
@@ -384,6 +409,11 @@
     document.getElementById('tianyun').addEventListener('click',function () {
         $('a.tianyun').trigger('click');
     });
+    document.getElementById('keyi').addEventListener('click',function () {
+        $('a.keyi').trigger('click');
+    });
+
+
     //快捷键
     document.onkeydown=function (e){
         if(e.key=='s'){//返回

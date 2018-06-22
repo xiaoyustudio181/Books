@@ -28,6 +28,7 @@
 
         .translation {
             margin-bottom: 50px;
+            display: none;
         }
 
         .open_translation {
@@ -43,7 +44,7 @@
 </head>
 <body>
 <div id="menu">
-    <p><a href="../index.html" class="btn btn-default" id="back">返回书库</a></p>
+    <p><a href="../index.html" class="btn btn-default" id="back">返回书库(S)</a></p>
     <p><a id="open_all" class="btn btn-default">展开所有译文</a></p>
     <p><a id="close_all" class="btn btn-default">折叠所有译文</a></p>
 </div>
@@ -94,10 +95,6 @@
 </div>
 </body>
 <script>
-    $('.translation').each(function () {
-        $(this).hide();
-    });
-
     $('.open_translation').each(function () {
         $(this).on('click', function () {
             $(this).parent().next().next().slideToggle(100);
