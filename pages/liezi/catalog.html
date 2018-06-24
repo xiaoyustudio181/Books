@@ -304,30 +304,14 @@
 
 </body>
 <script>
-    document.getElementById('tianrui').addEventListener('click',function () {
-        $('a.tianrui').trigger('click');
+    var titles=['tianrui','huangdi','zhoumuwang','zhongni','tangwen','liming','yangzhu','shuofu'];
+    //绑定点击事件
+    titles.forEach(function (title) {
+        document.getElementById(title).addEventListener('click',function () {
+            $('a.'+title).trigger('click');
+        });
     });
-    document.getElementById('huangdi').addEventListener('click',function () {
-        $('a.huangdi').trigger('click');
-    });
-    document.getElementById('zhoumuwang').addEventListener('click',function () {
-        $('a.zhoumuwang').trigger('click');
-    });
-    document.getElementById('zhongni').addEventListener('click',function () {
-        $('a.zhongni').trigger('click');
-    });
-    document.getElementById('tangwen').addEventListener('click',function () {
-        $('a.tangwen').trigger('click');
-    });
-    document.getElementById('liming').addEventListener('click',function () {
-        $('a.liming').trigger('click');
-    });
-    document.getElementById('yangzhu').addEventListener('click',function () {
-        $('a.yangzhu').trigger('click');
-    });
-    document.getElementById('shuofu').addEventListener('click',function () {
-        $('a.shuofu').trigger('click');
-    });
+
     //快捷键
     document.onkeydown=function (e){
         if(e.key=='s'){//返回
