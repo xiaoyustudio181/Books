@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>亢仓子</title>
+    <style>
+        @import "../../dist/css/bootstrap.min.css";
+        @import "../../css/common.css";
+
+        .panel-heading{
+            cursor: pointer;
+        }
+    </style>
+    <script src="../../js/jquery-3.0.0.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div id="menu">
+    <p><a href="../../index.html" class="btn btn-default" id='back'>返回书库(S)</a></p>
+</div>
+<div class="container">
+    <div class="jumbotron">
+        <h1>亢仓子</h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+            <div class="list-group">
+                <a href="kangcangzi.html?1" class="list-group-item">全道</a>
+                <a href="kangcangzi.html?2" class="list-group-item">用道</a>
+                <a href="kangcangzi.html?3" class="list-group-item">政道篇</a>
+                <a href="kangcangzi.html?4" class="list-group-item">君道</a>
+                <a href="kangcangzi.html?5" class="list-group-item">臣道</a>
+                <a href="kangcangzi.html?6" class="list-group-item">贤道</a>
+                <a href="kangcangzi.html?7" class="list-group-item">顺训道</a>
+                <a href="kangcangzi.html?8" class="list-group-item">农道</a>
+                <a href="kangcangzi.html?9" class="list-group-item">兵道</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    //快捷键
+    document.onkeydown=function (e){
+        if(e.key=='s'){//返回
+            document.getElementById('back').click();
+        }
+    };
+</script>
+</html>

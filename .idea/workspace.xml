@@ -11,12 +11,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="zhuangzi.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/zhuangzi/zhuangzi.html">
+      <file leaf-file-name="catalog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/kangcangzi/catalog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="539">
+              <caret line="36" column="70" lean-forward="false" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/guanyin/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="101" column="4" lean-forward="true" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+              <folding>
+                <element signature="e#13#2502#0" expanded="false" />
+                <element signature="e#2506#3975#0" expanded="false" />
+                <element signature="e#3979#6435#0" expanded="false" />
+                <element signature="e#6439#9272#0" expanded="false" />
+                <element signature="e#9276#11667#0" expanded="false" />
+                <element signature="e#11671#13427#0" expanded="false" />
+                <element signature="e#13431#14913#0" expanded="false" />
+                <element signature="e#14917#15760#0" expanded="false" />
+                <element signature="e#15764#18508#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kangcangzi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/kangcangzi/kangcangzi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-109">
+              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/kangcangzi/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding>
+                <element signature="e#13#1399#0" expanded="false" />
+                <element signature="e#1403#2173#0" expanded="false" />
+                <element signature="e#2177#4315#0" expanded="false" />
+                <element signature="e#4319#5289#0" expanded="false" />
+                <element signature="e#5293#5957#0" expanded="false" />
+                <element signature="e#5961#7311#0" expanded="false" />
+                <element signature="e#7315#8915#0" expanded="false" />
+                <element signature="e#8919#10282#0" expanded="false" />
+                <element signature="e#10286#11330#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,9 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pages/wenzi/daode9.html" />
-        <option value="$PROJECT_DIR$/pages/wenzi/daode10.html" />
-        <option value="$PROJECT_DIR$/pages/wenzi/daode11.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/daode12.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/daode13.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/daode14.html" />
@@ -126,7 +183,6 @@
         <option value="$PROJECT_DIR$/pages/liezi/shuofu34.html" />
         <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/css/liezi.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/pages/zhuangzi/dazongshi8.html" />
         <option value="$PROJECT_DIR$/pages/zhuangzi/zeyang2.html" />
@@ -146,6 +202,10 @@
         <option value="$PROJECT_DIR$/pages/zhuangzi/zhuangzi.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/wenzi.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/data.js" />
+        <option value="$PROJECT_DIR$/pages/kangcangzi/kangcangzi.html" />
+        <option value="$PROJECT_DIR$/pages/kangcangzi/data.js" />
+        <option value="$PROJECT_DIR$/pages/kangcangzi/catalog.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -195,6 +255,18 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="guanyin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="kangcangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,6 +282,9 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Books\pages\kangcangzi" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\xampp\htdocs\Books\pages\wenzi" />
       <recent name="E:\xampp\htdocs\Books\pages\zhuangzi" />
@@ -266,12 +341,12 @@
       <workItem from="1530705981082" duration="3777000" />
       <workItem from="1530711358279" duration="28000" />
       <workItem from="1530935609634" duration="21085000" />
-      <workItem from="1531011688954" duration="20195000" />
+      <workItem from="1531011688954" duration="21460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147244000" />
+    <option name="totallyTimeSpent" value="148509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -330,41 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/fuyan29.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="29" column="165" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="165" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/fuyan30.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="29" column="132" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="132" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/fuyan31.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="29" column="225" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="225" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="347" column="58" lean-forward="true" selection-start-line="347" selection-start-column="58" selection-end-line="347" selection-end-column="58" />
-          <folding>
-            <element signature="e#780#21853#0" expanded="false" />
-            <marker date="1531034807965" expanded="true" signature="23502:23514" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/liezi/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="587">
@@ -655,22 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/guanyin/guanyin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/guanyin/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="207" column="42" lean-forward="true" selection-start-line="207" selection-start-column="42" selection-end-line="207" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/huangdi/huangdi.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
@@ -711,14 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/wenzi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -737,9 +753,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/zhuangzi/zhuangzi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="384">
+          <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/wenzi/wenzi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
           <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/wenzi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="347" column="58" lean-forward="true" selection-start-line="347" selection-start-column="58" selection-end-line="347" selection-end-column="58" />
+          <folding>
+            <element signature="e#780#21853#0" expanded="false" />
+            <marker date="1531034807965" expanded="true" signature="23502:23514" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/kangcangzi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding>
+            <element signature="e#13#1399#0" expanded="false" />
+            <element signature="e#1403#2173#0" expanded="false" />
+            <element signature="e#2177#4315#0" expanded="false" />
+            <element signature="e#4319#5289#0" expanded="false" />
+            <element signature="e#5293#5957#0" expanded="false" />
+            <element signature="e#5961#7311#0" expanded="false" />
+            <element signature="e#7315#8915#0" expanded="false" />
+            <element signature="e#8919#10282#0" expanded="false" />
+            <element signature="e#10286#11330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="36" column="70" lean-forward="false" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/guanyin/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="101" column="4" lean-forward="true" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+          <folding>
+            <element signature="e#13#2502#0" expanded="false" />
+            <element signature="e#2506#3975#0" expanded="false" />
+            <element signature="e#3979#6435#0" expanded="false" />
+            <element signature="e#6439#9272#0" expanded="false" />
+            <element signature="e#9276#11667#0" expanded="false" />
+            <element signature="e#11671#13427#0" expanded="false" />
+            <element signature="e#13431#14913#0" expanded="false" />
+            <element signature="e#14917#15760#0" expanded="false" />
+            <element signature="e#15764#18508#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
