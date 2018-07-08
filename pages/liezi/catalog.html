@@ -7,7 +7,7 @@
         @import "../../dist/css/bootstrap.min.css";
         @import "../../css/common.css";
 
-        .panel-heading{
+        .panel-heading {
             cursor: pointer;
         }
     </style>
@@ -27,7 +27,7 @@
         <div class="col-sm-2"></div>
         <div class="col-sm-8">
             <div class="panel-group" role="tablist" aria-multiselectable="true">
-                <div class="panel panel-default">
+                <!--<div class="panel panel-default">
                     <div  class="panel-heading" role="tab" id="tianrui">
                         <h4 class="panel-title">
                             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1" class="collapsed tianrui">
@@ -38,264 +38,48 @@
                     <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
                         <div class="panel-body">
                             <div class="list-group">
-                                <a href="tianrui1.html" class="list-group-item">子列子居郑圃，四十年人无识者</a>
-                                <a href="tianrui2.html" class="list-group-item">子列子曰：昔者圣人因阴阳以统天地</a>
-                                <a href="tianrui3.html" class="list-group-item">子列子曰：天地无全功，圣人无全能</a>
-                                <a href="tianrui4.html" class="list-group-item">子列子适卫，食于道，从者见百岁髑髅</a>
-                                <a href="tianrui5.html" class="list-group-item">《黄帝书》曰：形动不生形而生影</a>
-                                <a href="tianrui6.html" class="list-group-item">人自生至终，大化有四</a>
-                                <a href="tianrui7.html" class="list-group-item">孔子游于太山，见荣启期行乎郕之野</a>
-                                <a href="tianrui8.html" class="list-group-item">林类年且百岁，底春被裘，拾遗穗于故畦</a>
-                                <a href="tianrui9.html" class="list-group-item">子贡倦于学，告仲尼曰：愿有所息</a>
-                                <a href="tianrui10.html" class="list-group-item">或谓子列子曰：子奚贵虚</a>
-                                <a href="tianrui11.html" class="list-group-item">鬻熊曰：运转亡已，天地密移，畴觉之哉</a>
-                                <a href="tianrui12.html" class="list-group-item">杞国有人忧天地崩坠，身亡所寄，废寝食者</a>
-                                <a href="tianrui13.html" class="list-group-item">舜问乎烝曰：道可得而有乎</a>
-                                <a href="tianrui14.html" class="list-group-item">齐之国氏大富，宋之向氏大贫</a>
+                                <a href="liezi.html?1" class="list-group-item">子列子居郑圃，四十年人无识者</a>
+                                <a href="liezi.html?2" class="list-group-item">子列子曰：昔者圣人因阴阳以统天地</a>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
+                <script src="data.js"></script>
+                <script>
+                  var datum = null;
+                  var title = '';
+                  var chapter_counter = 0;
+                  var links = '';
 
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="huangdi">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2" class="collapsed huangdi">
-                                黄帝
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="huangdi1.html" class="list-group-item">黄帝即位十有五年，喜天五戴己</a>
-                                <a href="huangdi2.html" class="list-group-item">列姑射山在海河洲中，山上有神人焉</a>
-                                <a href="huangdi3.html" class="list-group-item">列子师老商氏，友伯高子，进二子之道</a>
-                                <a href="huangdi4.html" class="list-group-item">列子问关尹曰：至人潜行不空，蹈火不热</a>
-                                <a href="huangdi5.html" class="list-group-item">列御寇为伯昏无人射，引之盈贯</a>
-                                <a href="huangdi6.html" class="list-group-item">范氏有子曰子华，善养私名，举国服之</a>
-                                <a href="huangdi7.html" class="list-group-item">周宣王文牧正有役人梁鸯者，能养野禽兽</a>
-                                <a href="huangdi8.html" class="list-group-item">颜回问乎仲尼曰：吾尝济乎觞深之渊矣</a>
-                                <a href="huangdi9.html" class="list-group-item">孔子观于吕梁，悬水三十仞，流沫三十里</a>
-                                <a href="huangdi10.html" class="list-group-item">仲尼适楚，出于林中，见佝偻者承蜩</a>
-                                <a href="huangdi11.html" class="list-group-item">海上之人有好沤鸟者，每旦之海上</a>
-                                <a href="huangdi12.html" class="list-group-item">赵襄子率徒十万，狩于中山，藉仍燔林</a>
-                                <a href="huangdi13.html" class="list-group-item">有神巫自齐来处于郑，命曰季咸</a>
-                                <a href="huangdi14.html" class="list-group-item">子列子之齐，中道而反，遇伯昏瞀人</a>
-                                <a href="huangdi15.html" class="list-group-item">杨朱南之沛，老聃西游于秦</a>
-                                <a href="huangdi16.html" class="list-group-item">杨朱过宋，东之于逆旅</a>
-                                <a href="huangdi17.html" class="list-group-item">天下有常胜之道，有不常胜之道</a>
-                                <a href="huangdi18.html" class="list-group-item">状不必童而智童；智不必童而状童</a>
-                                <a href="huangdi19.html" class="list-group-item">宋有狙公者，爱狙</a>
-                                <a href="huangdi20.html" class="list-group-item">纪渻子为周宣王养斗鸡，十日而问</a>
-                                <a href="huangdi21.html" class="list-group-item">惠盎见宋康王。康王蹀足謦欬</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                  for (var i = 0; i < data.length; i++) {
+                    datum = data[i];
+                    if (datum.title !== title && i !== 0 || i === (data.length - 1)) {//上一章完结
+                      chapter_counter++;
+                      if (i === (data.length - 1)) {//最后一章
+                        links += '<a href="liezi.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
+                      }
+                      document.write('<div class="panel panel-default">\n' +
+                          '                    <div  class="panel-heading" role="tab" id="num' + chapter_counter + '">\n' +
+                          '                        <h4 class="panel-title">\n' +
+                          '                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse' + chapter_counter + '" aria-expanded="false" aria-controls="collapse1" class="collapsed num' + chapter_counter + '">\n' +
+                          '                                ' + title + '\n' +
+                          '                            </a>\n' +
+                          '                        </h4>\n' +
+                          '                    </div>\n' +
+                          '                    <div id="collapse' + chapter_counter + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="" aria-expanded="false" style="height: 0px;">\n' +
+                          '                        <div class="panel-body">\n' +
+                          '                            <div class="list-group">\n' + links +
+                          '                            </div>\n' +
+                          '                        </div>\n' +
+                          '                    </div>\n' +
+                          '                </div>');
+                      links = '';
+                    }
+                    title = datum.title;
+                    links += '<a href="liezi.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
+                  }
+                </script>
 
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="zhoumuwang">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse2" class="collapsed zhoumuwang">
-                                周穆王
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="zhoumuwang1.html" class="list-group-item">周穆王时，西极之国有化人来</a>
-                                <a href="zhoumuwang2.html" class="list-group-item">老成子学幻于尹文先生，三年不告</a>
-                                <a href="zhoumuwang3.html" class="list-group-item">觉有八徵，梦有六侯。奚谓八徵</a>
-                                <a href="zhoumuwang4.html" class="list-group-item">西极之南隅有国焉，不知境界之所接</a>
-                                <a href="zhoumuwang5.html" class="list-group-item">周之尹氏大治产，其下趣役者侵晨昏而弗息</a>
-                                <a href="zhoumuwang6.html" class="list-group-item">郑人有薪于野者，遇骇鹿</a>
-                                <a href="zhoumuwang7.html" class="list-group-item">宋阳里华子中年病忘，朝取而夕忘</a>
-                                <a href="zhoumuwang8.html" class="list-group-item">秦人逄氏有子，少而惠</a>
-                                <a href="zhoumuwang9.html" class="list-group-item">燕人生于燕，长于楚，及老而还本国</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="zhongni">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse2" class="collapsed zhongni">
-                                仲尼
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="zhongni1.html" class="list-group-item">仲尼闲居，子贡入待，而有忧色</a>
-                                <a href="zhongni2.html" class="list-group-item">陈大夫聘鲁，私见叔孙氏</a>
-                                <a href="zhongni3.html" class="list-group-item">商太宰见孔子曰：丘圣者欤</a>
-                                <a href="zhongni4.html" class="list-group-item">子夏问孔子曰：颜回之为人奚若</a>
-                                <a href="zhongni5.html" class="list-group-item">子列子既师壶丘子林，友伯昏瞀人</a>
-                                <a href="zhongni6.html" class="list-group-item">子列子学也，三年之后，心不敢念是非</a>
-                                <a href="zhongni7.html" class="list-group-item">初，子列子好游</a>
-                                <a href="zhongni8.html" class="list-group-item">龙叔谓文挚曰：子之术微矣</a>
-                                <a href="zhongni9.html" class="list-group-item">无所由而常生者，道也</a>
-                                <a href="zhongni10.html" class="list-group-item">季梁之死，杨朱望其门而歌</a>
-                                <a href="zhongni11.html" class="list-group-item">郑之圃泽多贤，东里多才</a>
-                                <a href="zhongni12.html" class="list-group-item">公仪伯以力闻诸侯，堂谿公言之于周宣王</a>
-                                <a href="zhongni13.html" class="list-group-item">中山公子牟者，魏国之贤公子也</a>
-                                <a href="zhongni14.html" class="list-group-item">尧治天下五十年，不知天下治欤</a>
-                                <a href="zhongni15.html" class="list-group-item">关尹喜曰：在己无居，形物其著</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="tangwen">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse2" class="collapsed tangwen">
-                                汤问
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="tangwen1.html" class="list-group-item">殷汤问于夏革曰：古初有物乎</a>
-                                <a href="tangwen2.html" class="list-group-item">太形王屋二山，方七百里，同万仞</a>
-                                <a href="tangwen3.html" class="list-group-item">夸父不量力，欲追日影</a>
-                                <a href="tangwen4.html" class="list-group-item">大禹曰：六合之间，四海之内</a>
-                                <a href="tangwen5.html" class="list-group-item">禹之治水土也，迷而失途，谬之一国</a>
-                                <a href="tangwen6.html" class="list-group-item">南国之人祝发而裸；北国之人鞨巾而裘</a>
-                                <a href="tangwen7.html" class="list-group-item">孔子东游，见两小儿辩斗</a>
-                                <a href="tangwen8.html" class="list-group-item">均，天下之至理也</a>
-                                <a href="tangwen9.html" class="list-group-item">鲁公扈赵齐婴二人有疾，同请扁鹊求治</a>
-                                <a href="tangwen10.html" class="list-group-item">匏巴鼓琴而鸟舞鱼跃，郑师文闻之</a>
-                                <a href="tangwen11.html" class="list-group-item">薛谭学讴于秦青，未穷青之技</a>
-                                <a href="tangwen12.html" class="list-group-item">伯牙善鼓琴，钟子期善听</a>
-                                <a href="tangwen13.html" class="list-group-item">周穆王西巡狩，越昆仑，不至弇山</a>
-                                <a href="tangwen14.html" class="list-group-item">甘蝇，古之善射者，彀弓而兽伏鸟下</a>
-                                <a href="tangwen15.html" class="list-group-item">造父之师曰泰豆氏</a>
-                                <a href="tangwen16.html" class="list-group-item">魏黑卵以暱嫌杀丘邴章</a>
-                                <a href="tangwen17.html" class="list-group-item">周穆王大征西戎，西戎献锟铻之剑</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="liming">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse2" class="collapsed liming">
-                                力命
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="liming1.html" class="list-group-item">力谓命曰：若之功奚若我哉</a>
-                                <a href="liming2.html" class="list-group-item">北宫子谓西门子曰：朕与子并世也</a>
-                                <a href="liming3.html" class="list-group-item">管夷吾、鲍叔牙二人相友甚戚</a>
-                                <a href="liming4.html" class="list-group-item">邓析操两可之说，设无穷之辞</a>
-                                <a href="liming5.html" class="list-group-item">可以生而生，天福也</a>
-                                <a href="liming6.html" class="list-group-item">杨朱之友曰季梁。季梁得疾</a>
-                                <a href="liming7.html" class="list-group-item">生非贵之所能存，身非爱之所能厚</a>
-                                <a href="liming8.html" class="list-group-item">杨布问曰：有人于此，年兄弟也</a>
-                                <a href="liming9.html" class="list-group-item">墨杘、单至、啴咺、憋懯四人相与游于世</a>
-                                <a href="liming10.html" class="list-group-item">佹佹成者，俏成也，初非成也</a>
-                                <a href="liming11.html" class="list-group-item">齐景公游于牛山，北临其国城而流涕曰</a>
-                                <a href="liming12.html" class="list-group-item">魏人有东门吴者，其子死而不忧</a>
-                                <a href="liming13.html" class="list-group-item">农赴时，商趣利，工追术</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="yangzhu">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse2" class="collapsed yangzhu">
-                                杨朱
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="yangzhu1.html" class="list-group-item">杨朱游于鲁，舍于孟氏</a>
-                                <a href="yangzhu2.html" class="list-group-item">百年，寿之大齐</a>
-                                <a href="yangzhu3.html" class="list-group-item">万物所异者生也，所同者死也</a>
-                                <a href="yangzhu4.html" class="list-group-item">伯夷非亡欲，矜清之邮</a>
-                                <a href="yangzhu5.html" class="list-group-item">原宪窭于鲁，子贡殖于卫</a>
-                                <a href="yangzhu6.html" class="list-group-item">古语有之：生相怜，死相捐</a>
-                                <a href="yangzhu7.html" class="list-group-item">晏平仲问养生于管夷吾</a>
-                                <a href="yangzhu8.html" class="list-group-item">子产相郑，专国之政</a>
-                                <a href="yangzhu9.html" class="list-group-item">卫端木叔者，子贡之世也</a>
-                                <a href="yangzhu10.html" class="list-group-item">孟孙阳问杨朱曰：有人于此，贵生爱身</a>
-                                <a href="yangzhu11.html" class="list-group-item">伯成子高不以一毫利物，舍国而隐耕</a>
-                                <a href="yangzhu12.html" class="list-group-item">天下之美归之舜、禹、周、孔</a>
-                                <a href="yangzhu13.html" class="list-group-item">杨朱见梁王，言治天下如运诸掌</a>
-                                <a href="yangzhu14.html" class="list-group-item">太古之事灭矣，孰志之哉</a>
-                                <a href="yangzhu15.html" class="list-group-item">人肖天地之类，怀五常之性</a>
-                                <a href="yangzhu16.html" class="list-group-item">生民之不得休息，为四事故</a>
-                                <a href="yangzhu17.html" class="list-group-item">丰屋美服，厚味姣色</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="shuofu">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse2" class="collapsed shuofu">
-                                说符
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="jingfa" aria-expanded="false" style="height: 0px;">
-                        <div class="panel-body">
-                            <div class="list-group">
-                                <a href="shuofu1.html" class="list-group-item">子列子学于壶丘子林</a>
-                                <a href="shuofu2.html" class="list-group-item">关尹谓子列子曰：言美则响美</a>
-                                <a href="shuofu3.html" class="list-group-item">严恢曰：所为问道者为富</a>
-                                <a href="shuofu4.html" class="list-group-item">列子学射中矣，请于关尹子</a>
-                                <a href="shuofu5.html" class="list-group-item">列子曰：色盛者骄，力盛者奋</a>
-                                <a href="shuofu6.html" class="list-group-item">宋人有为其君以玉为楮叶者</a>
-                                <a href="shuofu7.html" class="list-group-item">子列子穷，容貌有饥色</a>
-                                <a href="shuofu8.html" class="list-group-item">鲁施氏有二子，其一好学，其一好兵</a>
-                                <a href="shuofu9.html" class="list-group-item">晋文公出会，欲伐卫</a>
-                                <a href="shuofu10.html" class="list-group-item">晋国苦盗，有郄雍者</a>
-                                <a href="shuofu11.html" class="list-group-item">孔子自卫反鲁，息驾乎河梁而观焉</a>
-                                <a href="shuofu12.html" class="list-group-item">白公问孔子问：人可与微言乎</a>
-                                <a href="shuofu13.html" class="list-group-item">赵襄子使新稚穆子攻翟</a>
-                                <a href="shuofu14.html" class="list-group-item">宋人有好行仁义者，三世不懈</a>
-                                <a href="shuofu15.html" class="list-group-item">宋有兰子者，以技干宋元</a>
-                                <a href="shuofu16.html" class="list-group-item">秦穆公谓伯乐曰：子之年长矣</a>
-                                <a href="shuofu17.html" class="list-group-item">楚庄王问詹何曰：治国奈何</a>
-                                <a href="shuofu18.html" class="list-group-item">狐丘丈人谓孙叔敖曰：人有三怨</a>
-                                <a href="shuofu19.html" class="list-group-item">孙叔敖疾将死，戒其子曰</a>
-                                <a href="shuofu20.html" class="list-group-item">牛缺者，上地之大儒也</a>
-                                <a href="shuofu21.html" class="list-group-item">虞氏者，梁之富人也</a>
-                                <a href="shuofu22.html" class="list-group-item">东方有人焉，曰爰旌目</a>
-                                <a href="shuofu23.html" class="list-group-item">柱厉叔事莒敖公，自为不知己</a>
-                                <a href="shuofu24.html" class="list-group-item">杨朱曰：利出者实及，怨往者害来</a>
-                                <a href="shuofu25.html" class="list-group-item">杨子之邻人亡羊，既率其党</a>
-                                <a href="shuofu26.html" class="list-group-item">杨朱之弟曰布，衣素衣而出</a>
-                                <a href="shuofu27.html" class="list-group-item">杨朱曰：行善不以为名</a>
-                                <a href="shuofu28.html" class="list-group-item">昔人言有知不死之道者</a>
-                                <a href="shuofu29.html" class="list-group-item">邯郸之民，以正月之旦献鸠于简子</a>
-                                <a href="shuofu30.html" class="list-group-item">齐田氏祖于庭，食客千人</a>
-                                <a href="shuofu31.html" class="list-group-item">齐有贫者，常乞于城市</a>
-                                <a href="shuofu32.html" class="list-group-item">宋人有游于道，得人遗契者</a>
-                                <a href="shuofu33.html" class="list-group-item">人有枯梧树者，其邻父言枯梧之树不祥</a>
-                                <a href="shuofu34.html" class="list-group-item">人有亡鈇者，意者邻之子</a>
-                                <a href="shuofu35.html" class="list-group-item">白公胜虑乱，罢朝而立</a>
-                                <a href="shuofu36.html" class="list-group-item">昔齐人有欲金者，清旦请冠而之市</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
 
@@ -304,19 +88,22 @@
 
 </body>
 <script>
-    var titles=['tianrui','huangdi','zhoumuwang','zhongni','tangwen','liming','yangzhu','shuofu'];
-    //绑定点击事件
-    titles.forEach(function (title) {
-        document.getElementById(title).addEventListener('click',function () {
-            $('a.'+title).trigger('click');
-        });
+  var titles = [];
+  for (var i = 1; i <= chapter_counter; i++) {
+    titles.push('num' + i);
+  }
+  //绑定点击事件
+  titles.forEach(function (title) {
+    document.getElementById(title).addEventListener('click', function () {
+      $('a.' + title).trigger('click');
     });
+  });
 
-    //快捷键
-    document.onkeydown=function (e){
-        if(e.key=='s'){//返回
-            document.getElementById('back').click();
-        }
-    };
+  //快捷键
+  document.onkeydown = function (e) {
+    if (e.key == 's') {//返回
+      document.getElementById('back').click();
+    }
+  };
 </script>
 </html>

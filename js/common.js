@@ -1,29 +1,47 @@
 //等待html文档载入完成后执行
 $(function () {
-
-    //展开与折叠（原文）按钮的功能
-    $('.open_content').each(function () {
-        $(this).on('click',function () {
-            if($(this).text()=='展开原文'){
-                $(this).text('折叠原文');
-            }else{
-                $(this).text('展开原文');
-            }
-            $(this).parent().next().slideToggle(100);
-        });
+  /***********************************************************************/
+  //展开与折叠（原文）按钮的功能
+  $('.open_content').each(function () {
+    $(this).on('click', function () {
+      if ($(this).text() == '展开原文') {
+        $(this).text('折叠原文');
+      } else {
+        $(this).text('展开原文');
+      }
+      $(this).parent().next().slideToggle(100);
     });
-
-    //快捷键
-    document.onkeydown=function (e){
-        if(e.key=='s'){//返回
-            document.getElementById('back').click();
-        }
-        if(e.key=='a'){//上一节
-            document.getElementById('previous').click();
-        }
-        if(e.key=='d'){//下一节
-            document.getElementById('next').click();
-        }
-    };
-
+  });
+  /***********************************************************************/
+  //按钮
+  $('#previous').on('click', function () {//上一章
+    search--;
+    location.search = '?' + search;
+  });
+  $('#next').on('click', function () {//下一章
+    search++;
+    location.search = '?' + search;
+  });
+  if (search == 1) {//已在第一章
+    $('#previous').addClass('disabled');
+    $('#previous').unbind('click');
+  }
+  if (search == data.length) {//已在最后一章
+    $('#next').addClass('disabled');
+    $('#next').unbind('click');
+  }
+  /***********************************************************************/
+  //热键
+  document.onkeydown = function (e) {
+    if (e.key == 's') {
+      document.getElementById('back').click();
+    }
+    if (e.key == 'a') {
+      document.getElementById('previous').click();
+    }
+    if (e.key == 'd') {
+      document.getElementById('next').click();
+    }
+  };
+  /***********************************************************************/
 });
