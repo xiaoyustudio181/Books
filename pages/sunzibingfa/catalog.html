@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>孙子兵法</title>
+    <style>
+        @import "../../dist/css/bootstrap.min.css";
+        @import "../../css/common.css";
+
+        .panel-heading {
+            cursor: pointer;
+        }
+    </style>
+    <script src="../../js/jquery-3.0.0.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div id="menu">
+    <p><a href="../../index.html" class="btn btn-default" id='back'>返回书库(S)</a></p>
+</div>
+<div class="container">
+    <div class="jumbotron">
+        <h1>孙子兵法</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8">
+            <div class="list-group">
+                <a href="sunzibingfa.html?1" class="list-group-item">计篇</a>
+                <a href="sunzibingfa.html?2" class="list-group-item">作战篇</a>
+                <a href="sunzibingfa.html?3" class="list-group-item">谋攻篇</a>
+                <a href="sunzibingfa.html?4" class="list-group-item">形篇</a>
+                <a href="sunzibingfa.html?5" class="list-group-item">势篇</a>
+                <a href="sunzibingfa.html?6" class="list-group-item">虚实篇</a>
+                <a href="sunzibingfa.html?7" class="list-group-item">军争篇</a>
+                <a href="sunzibingfa.html?8" class="list-group-item">九变篇</a>
+                <a href="sunzibingfa.html?9" class="list-group-item">行军篇</a>
+                <a href="sunzibingfa.html?10" class="list-group-item">地形篇</a>
+                <a href="sunzibingfa.html?11" class="list-group-item">九地篇</a>
+                <a href="sunzibingfa.html?12" class="list-group-item">火攻篇</a>
+                <a href="sunzibingfa.html?13" class="list-group-item">用间篇</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</body>
+<script>
+  //快捷键
+  document.onkeydown = function (e) {
+    if (e.key == 's') {//返回
+      document.getElementById('back').click();
+    }
+  };
+</script>
+</html>
