@@ -10,52 +10,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="catalog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/dizangjing/catalog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="984">
-              <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dizangjing.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/dizangjing/dizangjing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/dizangjing/data.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="593">
-              <caret line="346" column="17" lean-forward="false" selection-start-line="346" selection-start-column="9" selection-end-line="346" selection-end-column="17" />
-              <folding />
+              <caret line="376" column="7" lean-forward="false" selection-start-line="376" selection-start-column="7" selection-end-line="376" selection-end-column="7" />
+              <folding>
+                <element signature="e#602#3857#0" expanded="false" />
+                <element signature="e#3861#4811#0" expanded="false" />
+                <element signature="e#4815#6284#0" expanded="false" />
+                <element signature="e#6288#9544#0" expanded="false" />
+                <element signature="e#9548#10799#0" expanded="false" />
+                <element signature="e#10803#13445#0" expanded="false" />
+                <element signature="e#13449#14847#0" expanded="false" />
+                <element signature="e#14851#17204#0" expanded="false" />
+                <element signature="e#17208#18397#0" expanded="false" />
+                <element signature="e#18401#19812#0" expanded="false" />
+                <element signature="e#19816#20599#0" expanded="false" />
+                <element signature="e#20603#24100#0" expanded="false" />
+                <element signature="e#24104#25662#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xinjing.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="xinjing.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/xinjing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="37" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="576">
+              <caret line="27" column="181" lean-forward="false" selection-start-line="27" selection-start-column="181" selection-end-line="27" selection-end-column="181" />
               <folding />
             </state>
           </provider>
@@ -74,7 +58,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>jingfa</find>
       <find>collapse1</find>
       <find>head pre-line</find>
       <find>&gt;下一章</find>
@@ -104,6 +87,7 @@
       <find>，</find>
       <find>第五</find>
       <find>地藏王菩萨摩诃萨</find>
+      <find>巨鱼无所还其体，而鲵</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -153,7 +137,6 @@
         <option value="$PROJECT_DIR$/pages/wenzi/shangde11.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/shangde12.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/weiming1.html" />
-        <option value="$PROJECT_DIR$/pages/guanyin/catalog.html" />
         <option value="$PROJECT_DIR$/pages/huangdi/catalog.html" />
         <option value="$PROJECT_DIR$/pages/liezi/shuofu34.html" />
         <option value="$PROJECT_DIR$/css/liezi.css" />
@@ -165,14 +148,11 @@
         <option value="$PROJECT_DIR$/pages/wenzi/jingcheng17.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/fuyan25.html" />
         <option value="$PROJECT_DIR$/pages/liezi/catalog.html" />
-        <option value="$PROJECT_DIR$/pages/wenzi/catalog.html" />
         <option value="$PROJECT_DIR$/pages/guanyin/data.js" />
         <option value="$PROJECT_DIR$/pages/huangdi/data.js" />
         <option value="$PROJECT_DIR$/pages/liezi/data.js" />
         <option value="$PROJECT_DIR$/pages/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/pages/kangcangzi/data.js" />
-        <option value="$PROJECT_DIR$/pages/kangcangzi/catalog.html" />
-        <option value="$PROJECT_DIR$/pages/sunzibingfa/catalog.html" />
         <option value="F:/百家经典/道家经典/孙子兵法/译文.txt" />
         <option value="$PROJECT_DIR$/pages/sunzibingfa/data.js" />
         <option value="$PROJECT_DIR$/pages/wenzi/wenzi.html" />
@@ -184,14 +164,18 @@
         <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/pages/laozi.html" />
         <option value="$PROJECT_DIR$/css/xinjing.css" />
-        <option value="$PROJECT_DIR$/pages/xinjing.html" />
         <option value="$PROJECT_DIR$/pages/wenzi/data.js" />
         <option value="$PROJECT_DIR$/pages/zhuangzi/zhuangzi.html" />
         <option value="$PROJECT_DIR$/pages/dizangjing/guanyin.html" />
-        <option value="$PROJECT_DIR$/pages/dizangjing/catalog.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/dizangjing/dizangjing.html" />
+        <option value="$PROJECT_DIR$/pages/wenzi/catalog.html" />
+        <option value="$PROJECT_DIR$/pages/kangcangzi/catalog.html" />
+        <option value="$PROJECT_DIR$/pages/dizangjing/catalog.html" />
+        <option value="$PROJECT_DIR$/pages/guanyin/catalog.html" />
+        <option value="$PROJECT_DIR$/pages/sunzibingfa/catalog.html" />
         <option value="$PROJECT_DIR$/pages/dizangjing/data.js" />
+        <option value="$PROJECT_DIR$/pages/xinjing.html" />
       </list>
     </option>
   </component>
@@ -228,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,16 +224,11 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dizangjing" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -328,28 +306,29 @@
       <workItem from="1531534682599" duration="3969000" />
       <workItem from="1531561435942" duration="782000" />
       <workItem from="1531577099181" duration="1367000" />
-      <workItem from="1531578599803" duration="455000" />
+      <workItem from="1531578599803" duration="606000" />
+      <workItem from="1531621235553" duration="2784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163135000" />
+    <option name="totallyTimeSpent" value="166070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17864807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18133047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -392,9 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/daode13.html" />
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/daode14.html" />
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/daode15.html" />
     <entry file="file://$PROJECT_DIR$/pages/wenzi/daode16.html" />
     <entry file="file://$PROJECT_DIR$/pages/wenzi/daode17.html" />
     <entry file="file://$PROJECT_DIR$/pages/wenzi/daode18.html" />
@@ -436,38 +412,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generator.html" />
-    <entry file="file://$PROJECT_DIR$/pages/wenzi/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="347" column="58" lean-forward="true" selection-start-line="347" selection-start-column="58" selection-end-line="347" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/guanyin/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="126" column="4" lean-forward="true" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/sunzibingfa/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -528,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/laozi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/xinjing.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -570,34 +511,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/dizangjing/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/xinjing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/dizangjing/dizangjing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="-157">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3" column="192" lean-forward="false" selection-start-line="3" selection-start-column="192" selection-end-line="3" selection-end-column="192" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/sunzibingfa/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/wenzi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1132">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+          <folding>
+            <marker date="1531621664298" expanded="true" signature="2412:2424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/laozi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/dizangjing/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/guanyin/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/kangcangzi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/liezi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1531034792768" expanded="true" signature="3475:3487" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/huangdi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -605,7 +605,29 @@
     <entry file="file://$PROJECT_DIR$/pages/dizangjing/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
-          <caret line="346" column="17" lean-forward="false" selection-start-line="346" selection-start-column="9" selection-end-line="346" selection-end-column="17" />
+          <caret line="376" column="7" lean-forward="false" selection-start-line="376" selection-start-column="7" selection-end-line="376" selection-end-column="7" />
+          <folding>
+            <element signature="e#602#3857#0" expanded="false" />
+            <element signature="e#3861#4811#0" expanded="false" />
+            <element signature="e#4815#6284#0" expanded="false" />
+            <element signature="e#6288#9544#0" expanded="false" />
+            <element signature="e#9548#10799#0" expanded="false" />
+            <element signature="e#10803#13445#0" expanded="false" />
+            <element signature="e#13449#14847#0" expanded="false" />
+            <element signature="e#14851#17204#0" expanded="false" />
+            <element signature="e#17208#18397#0" expanded="false" />
+            <element signature="e#18401#19812#0" expanded="false" />
+            <element signature="e#19816#20599#0" expanded="false" />
+            <element signature="e#20603#24100#0" expanded="false" />
+            <element signature="e#24104#25662#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/xinjing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="27" column="181" lean-forward="false" selection-start-line="27" selection-start-column="181" selection-end-line="27" selection-end-column="181" />
           <folding />
         </state>
       </provider>
