@@ -2,18 +2,16 @@
 $(function () {
   /***********************************************************************/
   //展开与折叠（原文）按钮的功能
-  $('.open_content').each(function () {
-    $(this).on('click', function () {
-      if ($(this).text() == '展开原文') {
-        $(this).text('折叠原文');
-      } else {
-        $(this).text('展开原文');
-      }
-      $(this).parent().next().slideToggle(100);
-    });
+  $('.open_content').on('click', function () {
+    if ($(this).text() === '展开原文') {
+      $(this).text('折叠原文');
+    } else {
+      $(this).text('展开原文');
+    }
+    $(this).parent().next().slideToggle(100);
   });
   /***********************************************************************/
-  //按钮
+//按钮
   $('#previous').on('click', function () {//上一章
     search--;
     location.search = '?' + search;
@@ -31,7 +29,7 @@ $(function () {
     $('#next').unbind('click');
   }
   /***********************************************************************/
-  //热键
+//热键
   document.onkeydown = function (e) {
     if (e.key == 's') {
       document.getElementById('back').click();
@@ -44,4 +42,5 @@ $(function () {
     }
   };
   /***********************************************************************/
-});
+})
+;
