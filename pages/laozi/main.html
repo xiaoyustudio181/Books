@@ -30,17 +30,14 @@
             cursor: pointer;
         }
 
-        .open_translation:hover {
-            color: red;
-        }
     </style>
     <script src="../../js/jquery-3.0.0.min.js"></script>
 </head>
 <body>
 <div id="menu">
     <p><a href="../../index.html" class="btn btn-default" id="back">返回书库(S)</a></p>
-    <p><a id="open_all" class="btn btn-default">展开所有译文</a></p>
-    <p><a id="close_all" class="btn btn-default">折叠所有译文</a></p>
+    <p><a id="open_all" class="btn btn-default">展开所有(D)</a></p>
+    <p><a id="close_all" class="btn btn-default">折叠所有(A)</a></p>
 </div>
 <div class="container">
     <div class="jumbotron">
@@ -92,6 +89,12 @@
   document.onkeydown = function (e) {
     if (e.key === 's') {//返回
       document.getElementById('back').click();
+    }
+    if (e.key === 'a') {//折叠所有
+      document.getElementById('close_all').click();
+    }
+    if (e.key === 'd') {//展开所有
+      document.getElementById('open_all').click();
     }
   };
 </script>

@@ -3,7 +3,6 @@
     float: right;
 }
 .open_content:hover{
-    color:red;
     cursor: pointer;
 }
 

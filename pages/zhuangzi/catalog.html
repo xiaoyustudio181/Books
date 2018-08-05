@@ -40,7 +40,7 @@
                     if (datum.title !== title && i !== 0 || i === (data.length - 1)) {//上一章完结
                       chapter_counter++;
                       if (i === (data.length - 1)) {//最后一章
-                        links += '<a href="zhuangzi.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
+                        links += '<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
                       }
                       document.write('<div class="panel panel-default">\n' +
                           '                    <div  class="panel-heading" role="tab" id="num' + chapter_counter + '">\n' +
@@ -60,7 +60,7 @@
                       links = '';
                     }
                     title = datum.title;
-                    links += '<a href="zhuangzi.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
+                    links += '<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
                   }
                 </script>
 

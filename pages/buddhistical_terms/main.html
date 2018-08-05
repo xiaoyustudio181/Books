@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>佛学名词</title>
+  <script src="../../js/vue.min.js"></script>
+  <script src="../../js/jquery-3.0.0.min.js"></script>
+  <style>
+    @import "../../dist/css/bootstrap.min.css";
+    @import "../../css/common.css";
+
+    dl {
+      font-family: 楷体;
+      font-weight: bolder;
+      font-size: 25px;
+      text-align: justify;
+    }
+
+    dt {
+      font-size: 30px;
+      border-top: 2px solid lightgrey;
+      padding-left: 5px;
+    }
+    dt:hover{
+      cursor: pointer;
+    }
+    li:last-child{
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+<div id="menu">
+  <p><a href="../../index.html" class="btn btn-default" id="back">返回书库(S)</a></p>
+  <p>
+    <button id="open_all_" class="btn btn-default">展开所有(D)</button>
+  </p>
+  <p>
+    <button id="close_all_" class="btn btn-default">折叠所有(A)</button>
+  </p>
+</div>
+<div id="container" class="container">
+  <button class="hide" id="open_all" @click="open_all"></button>
+  <button class="hide" id="close_all" @click="close_all"></button>
+  <terms :terms="terms" ref="terms"></terms>
+</div>
+</body>
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<script type="x-template" id="explanation">
+  <dd v-show="show">
+    <ul>
+      <li v-for="each in explanations">{{each}}</li>
+    </ul>
+  </dd>
+</script>
+<script>
+  Vue.component('explanation', {
+    template: '#explanation',
+    props: ['explanations'],
+    methods: {
+      toggle: function () {
+        this.show = !this.show;
+      }
+    },
+    data: function () {
+      return {
+        show: false
+      };
+    }
+  });
+</script>
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<script type="x-template" id="terms">
+  <dl>
+    <template v-for="(term,index) in terms">
+      <dt @click="toggle(index)">{{term.name}}</dt>
+      <explanation ref="explanation" :explanations="term.explanations"></explanation>
+    </template>
+  </dl>
+</script>
+<script>
+  Vue.component('terms', {
+    template: '#terms',
+    props: ['terms'],
+    methods: {
+      toggle: function (index) {
+        this.$refs.explanation[index].toggle();
+      },
+      close_all: function () {
+        this.$refs.explanation.forEach(function (each) {
+          each.show = false;
+        });
+      },
+      open_all: function () {
+        this.$refs.explanation.forEach(function (each) {
+          each.show = true;
+        });
+      }
+    }
+  });
+</script>
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<script src="data.js"></script>
+<script>
+  var app = new Vue({
+    el: '#container',
+    data: {
+      terms: terms
+    },
+    methods:{
+      close_all: function () {
+        this.$refs.terms.close_all();
+      },
+      open_all: function () {
+        this.$refs.terms.open_all();
+      }
+    }
+  });
+
+  $('#open_all_').on('click', function () {
+    document.getElementById('open_all').click();
+  });
+
+  $('#close_all_').on('click', function () {
+    document.getElementById('close_all').click();
+  });
+
+  //快捷键
+  document.onkeydown = function (e) {
+    if (e.key === 's') {//返回
+      document.getElementById('back').click();
+    }
+    if (e.key === 'a') {//折叠所有
+      document.getElementById('close_all').click();
+    }
+    if (e.key === 'd') {//展开所有
+      document.getElementById('open_all').click();
+    }
+  };
+</script>
+</html>
