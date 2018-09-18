@@ -6,3 +6,5 @@
 向下翻页 [Page Down]
 到页面顶部 [Ctrl] + [Home]
 到页面底部 [Ctrl] + [End]
+缩小字体 [Ctrl] + 鼠标滑轮下滑
+放大字体 [Ctrl] + 鼠标滑轮上滑
