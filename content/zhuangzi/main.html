@@ -37,6 +37,7 @@
   var search = location.search;
   search = search.substr(1);
   var datum = data[search - 1];
+  $('title').text($('title').text()+' - '+datum.title);
   $('.jumbotron h1').text(datum.title);
   $('.title').text(datum.title2);
   $('.content').text('　　'+datum.content);
