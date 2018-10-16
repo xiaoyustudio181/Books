@@ -17,6 +17,7 @@
 <body>
 <div id="menu">
     <p><a href="../../index.html" class="btn btn-default" id='back'>返回书库(S)</a></p>
+    <p><a href="./all.html" class="btn btn-default" id='all'>全书一览(D)</a></p>
 </div>
 <div class="container">
     <div class="jumbotron">
@@ -45,6 +46,9 @@
         if(e.key=='s'){//返回
             document.getElementById('back').click();
         }
+      if(e.key=='d'){//全书一览
+        document.getElementById('all').click();
+      }
     };
 </script>
 </html>
