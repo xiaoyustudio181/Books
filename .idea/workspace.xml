@@ -21,11 +21,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="all.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/laozi/all.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="19" column="50" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="19" selection-end-column="50" />
+            <state relative-caret-position="288">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/zhuangzi/all.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/zhuangzi/catalog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <marker date="1539663339088" expanded="true" signature="2489:2501" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/zhuangzi/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="445" column="240" lean-forward="true" selection-start-line="445" selection-start-column="240" selection-end-line="445" selection-end-column="240" />
               <folding />
             </state>
           </provider>
@@ -114,9 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pages/dizangjing/dizangjing.html" />
-        <option value="$PROJECT_DIR$/pages/xinjing.html" />
-        <option value="$PROJECT_DIR$/pages/guanyin/data.js" />
         <option value="$PROJECT_DIR$/pages/laozi.html" />
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/pages/laozi/data.js" />
@@ -165,6 +194,9 @@
         <option value="$PROJECT_DIR$/content/guanyin/catalog.html" />
         <option value="$PROJECT_DIR$/content/laozi/all.html" />
         <option value="$PROJECT_DIR$/content/guanyin/all.html" />
+        <option value="$PROJECT_DIR$/content/zhuangzi/all.html" />
+        <option value="$PROJECT_DIR$/content/zhuangzi/catalog.html" />
+        <option value="$PROJECT_DIR$/content/zhuangzi/data.js" />
       </list>
     </option>
   </component>
@@ -217,13 +249,13 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="guanyin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="laozi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="laozi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -246,11 +278,11 @@
       <recent name="E:\xampp\htdocs\Books\pages\kangcangzi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Books\content\zhuangzi" />
       <recent name="E:\xampp\htdocs\Books\content\guanyin" />
       <recent name="E:\xampp\htdocs\Books\content\laozi" />
       <recent name="E:\xampp\htdocs\Books\pages\yaoshijing" />
       <recent name="E:\xampp\htdocs\Books\pages\jingangjing" />
-      <recent name="E:\xampp\htdocs\Books\pages\amituojing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -335,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198667000" />
+    <option name="totallyTimeSpent" value="199093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -409,14 +441,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://G:/git_space/Web-Frontend/JavaScript/string.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/buddhistical_terms/terms.md" />
     <entry file="file://$PROJECT_DIR$/pages/guanyin/catalog.html" />
     <entry file="file://$PROJECT_DIR$/pages/kangcangzi/catalog.html" />
     <entry file="file://$PROJECT_DIR$/pages/huangdi/catalog.html" />
@@ -449,13 +473,6 @@
     <entry file="file://$PROJECT_DIR$/pages/wenzi/data.js" />
     <entry file="file://$PROJECT_DIR$/pages/kangcangzi/data.js" />
     <entry file="file://$PROJECT_DIR$/content/buddhistical_terms/generate_data.js" />
-    <entry file="file://$PROJECT_DIR$/content/zhuangzi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="57" column="98" lean-forward="true" selection-start-line="57" selection-start-column="98" selection-end-line="57" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -599,8 +616,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/laozi/all.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="19" selection-end-column="50" />
+        <state relative-caret-position="288">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhuangzi/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhuangzi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1539663339088" expanded="true" signature="2489:2501" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhuangzi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="445" column="240" lean-forward="true" selection-start-line="445" selection-start-column="240" selection-end-line="445" selection-end-column="240" />
           <folding />
         </state>
       </provider>
