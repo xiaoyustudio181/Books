@@ -12,6 +12,7 @@
         @import "dist/css/bootstrap.min.css";
     </style>
     <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
     <style>
         a{
             cursor: pointer;
@@ -77,20 +78,59 @@
     <div class="row">
         <div class="col-sm-12">
             <div class="list-group">
-                <a class="list-group-item disabled">《山海经》</a>
+                <a href="content/shanhaijing/catalog.html" class="list-group-item">《山海经》</a>
                 <a class="list-group-item disabled">《黄帝内经》</a>
                 <a href="content/sunzibingfa/catalog.html" class="list-group-item">《孙子兵法》</a>
                 <a class="list-group-item disabled">《墨子》</a>
                 <a class="list-group-item disabled">《韩非子》</a>
                 <a class="list-group-item disabled">......</a>
             </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="list-group">
+                <a id="about" class="list-group-item" data-toggle="modal" data-target="#about_">关于书库</a>
+            </div>
+        </div>
+    </div>
 
-
+    <div id="about_" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">关于书库</h4>
+                </div>
+                <div class="modal-body">
+                    <h4>热键</h4>
+                    <p>向上翻页 <kbd>Page Up</kbd></p>
+                    <p>向下翻页 <kbd>Page Down</kbd></p>
+                    <p>到页面顶部 <kbd>Ctrl + Home</kbd></p>
+                    <p>到页面底部 <kbd>Ctrl + End</kbd></p>
+                    <p>缩小字体 <kbd>Ctrl + 鼠标滑轮下滑</kbd></p>
+                    <p>放大字体 <kbd>Ctrl + 鼠标滑轮上滑</kbd></p>
+                    <hr/>
+                    <h4>其他</h4>
+                    <p>书库版本号：20181022.2036</p>
+                    <p>开发者微博：studio181</p>
+                    <p>开发者邮箱：studio181@sina.com</p>
+                    <p>本书库的译文摘自正版权威实体书籍的译文。</p>
+                    <p>旧的书籍正在订正中，新的书籍正在加入进来。</p>
+                    <p>暂无译文的书：《关尹子》、《亢仓子》、《杂阿含经》、《金刚经》、《山海经》。</p>
+                    <p>若读者有此书库缺少的译文，或发现书库内容存在错误，可以通过微博或邮箱告诉我。</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                </div>
+            </div>
         </div>
     </div>
 </div>
 </body>
 <script>
-    
+  $('#about').on('click',function () {
+
+  });
 </script>
 </html>
