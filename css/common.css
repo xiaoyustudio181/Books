@@ -6,7 +6,7 @@
 
 .myfont{
     font-family: 楷体;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 900;
     text-align: justify;/*使行尾对齐*/
 }
@@ -14,4 +14,3 @@
 .pre-line{
     white-space: pre-line;
 }
-
