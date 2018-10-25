@@ -23,16 +23,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>back</find>
-      <find>问臧奚事，则挟</find>
-      <find>[鸟句]</find>
-      <find>　　</find>
-      <find>卷第二十三</find>
-      <find />
-      <find>[</find>
-      <find>带标题的面版</find>
-      <find>标签</find>
-      <find>Example heading</find>
       <find>如果识知之心能够辨别出来，可见眼和心不是相知相干的</find>
       <find>常常说道，心的知觉认识的本性</find>
       <find>界如微尘一样多</find>
@@ -53,6 +43,16 @@
       <find>虚空是出是人</find>
       <find>，你的见阗觉知也</find>
       <find>“ 矩之道”</find>
+      <find>富楼那说：如果以不明来称名觉，那么</find>
+      <find>其巳经是妄乱的</find>
+      <find>受生。由于这种种因</find>
+      <find>关于因缘与自在自然、其道里到此为止</find>
+      <find>为比丘尼，与罗侯</find>
+      <find>罗侯</find>
+      <find>母亲耶输陀罗</find>
+      <find>二相的剌潋，于圆妙</find>
+      <find>亿想思念</find>
+      <find>（有书作“小人之反中庸</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -95,10 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/zhuangzi/all.html" />
-        <option value="$PROJECT_DIR$/content/zhuangzi/catalog.html" />
-        <option value="$PROJECT_DIR$/content/zhuangzi/data.js" />
-        <option value="$PROJECT_DIR$/content/liezi/catalog.html" />
         <option value="$PROJECT_DIR$/content/liezi/all.html" />
         <option value="$PROJECT_DIR$/content/liezi/data.js" />
         <option value="$PROJECT_DIR$/content/wenzi/all.html" />
@@ -140,12 +136,16 @@
         <option value="$PROJECT_DIR$/content/yijing/catalog.html" />
         <option value="$PROJECT_DIR$/content/yijing/main.html" />
         <option value="$PROJECT_DIR$/content/yijing/data.js" />
-        <option value="$PROJECT_DIR$/content/lengyanjing/data.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content/daxue/catalog.html" />
         <option value="$PROJECT_DIR$/content/daxue/data.js" />
         <option value="$PROJECT_DIR$/content/daxue/main.html" />
         <option value="$PROJECT_DIR$/content/daxue/all.html" />
+        <option value="$PROJECT_DIR$/content/lengyanjing/data.js" />
+        <option value="$PROJECT_DIR$/content/zhongyong/all.html" />
+        <option value="$PROJECT_DIR$/content/zhongyong/catalog.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/content/zhongyong/data.js" />
+        <option value="$PROJECT_DIR$/content/zhongyong/main.html" />
       </list>
     </option>
   </component>
@@ -182,6 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,8 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,17 +210,17 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\xampp\htdocs\Books\content" />
-      <recent name="E:\xampp\htdocs\Books\pages\laozi" />
-      <recent name="E:\xampp\htdocs\Books\pages\kangcangzi" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Books\content\zhongyong" />
       <recent name="E:\xampp\htdocs\Books\content\daxue" />
       <recent name="E:\xampp\htdocs\Books\content\yijing" />
       <recent name="E:\xampp\htdocs\Books\content\shanhaijing" />
       <recent name="E:\xampp\htdocs\Books\content" />
-      <recent name="E:\xampp\htdocs\Books\content\zaahanjing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Books\content" />
+      <recent name="E:\xampp\htdocs\Books\pages\laozi" />
+      <recent name="E:\xampp\htdocs\Books\pages\kangcangzi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,27 +312,29 @@
       <workItem from="1540256858963" duration="2730000" />
       <workItem from="1540302045758" duration="4712000" />
       <workItem from="1540342387256" duration="3696000" />
-      <workItem from="1540388597292" duration="2363000" />
+      <workItem from="1540388597292" duration="2381000" />
+      <workItem from="1540429881495" duration="2956000" />
+      <workItem from="1540477668097" duration="1100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243086000" />
+    <option name="totallyTimeSpent" value="247160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17596567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18025751" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -379,28 +381,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/dizangjing/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/dizangjing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="338" column="54" lean-forward="false" selection-start-line="338" selection-start-column="54" selection-end-line="338" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/xinjing.css" />
-    <entry file="file://G:/git_space/Web-Frontend/bootstrap.css/components.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6816">
-          <caret line="284" column="38" lean-forward="false" selection-start-line="284" selection-start-column="38" selection-end-line="284" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/dizangjing/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -681,27 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/lengyanjing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="221" column="1040" lean-forward="true" selection-start-line="221" selection-start-column="1040" selection-end-line="221" selection-end-column="1040" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/zhuangzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="34" column="112" lean-forward="false" selection-start-line="34" selection-start-column="112" selection-end-line="34" selection-end-column="112" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -717,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="587">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -725,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="54" column="226" lean-forward="true" selection-start-line="54" selection-start-column="226" selection-end-line="54" selection-end-column="226" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,6 +693,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="57" column="34" lean-forward="true" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/lengyanjing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="304" column="754" lean-forward="false" selection-start-line="304" selection-start-column="754" selection-end-line="304" selection-end-column="754" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhongyong/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhongyong/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="57" column="42" lean-forward="false" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhongyong/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/zhongyong/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
       </provider>
