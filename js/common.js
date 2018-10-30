@@ -3,10 +3,10 @@ $(function () {
   /***********************************************************************/
   //展开与折叠（原文）按钮的功能
   $('.open_content').on('click', function () {
-    if ($(this).text() === '展开原文') {
-      $(this).text('折叠原文');
+    if ($(this).text() === '显示原文') {
+      $(this).text('隐藏原文');
     } else {
-      $(this).text('展开原文');
+      $(this).text('显示原文');
     }
     $(this).parent().next().slideToggle(100);
   });
