@@ -10,102 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/main.html">
+    <leaf>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/confucianism/daxue/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/confucianism/zhongyong/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/else/sunzibingfa/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/laozi/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="45" column="30" lean-forward="false" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/liezi/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="294">
+              <caret line="568" column="425" lean-forward="false" selection-start-line="568" selection-start-column="425" selection-end-line="568" selection-end-column="425" />
               <folding />
             </state>
           </provider>
@@ -124,18 +34,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>只是如空花一</find>
-      <find>地、人、水、风四大和合</find>
-      <find>虚空是出是人</find>
-      <find>，你的见阗觉知也</find>
-      <find>“ 矩之道”</find>
-      <find>富楼那说：如果以不明来称名觉，那么</find>
-      <find>其巳经是妄乱的</find>
-      <find>受生。由于这种种因</find>
-      <find>关于因缘与自在自然、其道里到此为止</find>
-      <find>为比丘尼，与罗侯</find>
-      <find>罗侯</find>
-      <find>母亲耶输陀罗</find>
       <find>二相的剌潋，于圆妙</find>
       <find>亿想思念</find>
       <find>（有书作“小人之反中庸</find>
@@ -154,6 +52,18 @@
       <find>使的我的身体具</find>
       <find>想澄成国士</find>
       <find>国土之中转动大法錀</find>
+      <find>十切诅咒</find>
+      <find>一旦忆念神咒、</find>
+      <find>让持这个神咒</find>
+      <find>兵难贼难</find>
+      <find>即使你们原本都是凡夫俗子</find>
+      <find>终将得获大涅槃</find>
+      <find>分别性是妄乱、</find>
+      <find>众生成沸的机会</find>
+      <find>有由于妄见而带来</find>
+      <find>多年成为</find>
+      <find>会在人道中之</find>
+      <find>，行事顺应而巳</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -183,6 +93,7 @@
       <replace>大法</replace>
       <replace>../../../</replace>
       <replace>../../</replace>
+      <replace>[合牛]</replace>
     </replaceStrings>
     <dirStrings>
       <dir>E:\xampp\htdocs\Books\pages\huangdi</dir>
@@ -241,7 +152,6 @@
         <option value="$PROJECT_DIR$/content/buddhism/yaoshijing.html" />
         <option value="$PROJECT_DIR$/content/buddhism/buddhism.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/main.html" />
         <option value="$PROJECT_DIR$/content/confucianism/daxue/main.html" />
         <option value="$PROJECT_DIR$/content/confucianism/zhongyong/main.html" />
@@ -251,6 +161,7 @@
         <option value="$PROJECT_DIR$/content/taoism/wenzi/main.html" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/main.html" />
         <option value="$PROJECT_DIR$/js/common.js" />
+        <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/data.js" />
       </list>
     </option>
   </component>
@@ -298,6 +209,19 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lengyanjing" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -431,17 +355,18 @@
       <workItem from="1540775401449" duration="1357000" />
       <workItem from="1540866303619" duration="21000" />
       <workItem from="1540905998474" duration="1718000" />
+      <workItem from="1540948229599" duration="3274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259717000" />
+    <option name="totallyTimeSpent" value="264048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20439914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20708154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -478,13 +403,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/buddhism/jingangjing/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/jingangjing/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -745,19 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="511" column="143" lean-forward="false" selection-start-line="511" selection-start-column="143" selection-end-line="511" selection-end-column="143" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="26" column="61" lean-forward="false" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
           <caret line="45" column="30" lean-forward="false" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -813,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="27" column="61" lean-forward="false" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,6 +737,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/双击【index.html】进入书库.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="568" column="425" lean-forward="false" selection-start-line="568" selection-start-column="425" selection-end-line="568" selection-end-column="425" />
           <folding />
         </state>
       </provider>
