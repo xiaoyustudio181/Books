@@ -118,9 +118,8 @@
     <div class="row">
         <div class="col-sm-12">
             <div class="list-group">
-                <a id="about" class="list-group-item" data-toggle="modal" data-target="#about_">关于书库</a>
-                <a class="list-group-item disabled">佛法总结</a>
-                <a class="list-group-item disabled">道术总结</a>
+                <a id="about" class="list-group-item" data-toggle="modal" data-target="#about_">关于书库(A)</a>
+                <a id="summary" href="content/summary/index.html" class="list-group-item">国学总结(D)</a>
             </div>
         </div>
     </div>
@@ -156,4 +155,14 @@
     </div>
 </div>
 </body>
+<script>
+  document.onkeydown = function (e) {
+    if (e.key == 'a') {
+      document.getElementById('about').click();
+    }
+    if (e.key == 'd') {
+      document.getElementById('summary').click();
+    }
+  };
+</script>
 </html>

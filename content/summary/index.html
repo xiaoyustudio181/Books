@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="国学, 哲学, 人生观, 世界观, 本体论, 宇宙起源论, 经书, 治国, 诸子百家, 传统, 传统文化, 传统哲学, 道家, 道家思想, 道家哲学, 道术, 道学, 道经, 得道, 悟道, 大道, 列子, 庄子, 老子, 黄帝四经, 关尹子, 文子, 亢仓子, 佛学, 佛法, 佛经, 地藏经, 佛说阿弥陀经, 心经, 般若波罗蜜多心经">
+    <meta name="description" content="这是一个关于国学的网站。">
+    <meta name="robots" content="all">
+    <meta name="revisit-after" content="7 days">
+    <meta name="author" content="xiaoyu,petezh@yeah.net">
+    <title>国学总结</title>
+    <style>
+        @import "../../dist/css/bootstrap.min.css";
+    </style>
+    <script src="../../js/jquery-3.0.0.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <style>
+        a{
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <h1>国学总结</h1>
+        <p>此总结的内容仅代表我个人观点</p>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="list-group">
+                <a id="back" href="../../index.html" class="list-group-item">返回书库(S)</a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="list-group">
+                <a class="list-group-item disabled">道术总结</a>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="list-group">
+                <a class="list-group-item disabled">佛法总结</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="list-group">
+                <a id="together" class="list-group-item disabled">道术与佛法共慧</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+  document.onkeydown = function (e) {
+    if (e.key == 's') {
+      document.getElementById('back').click();
+    }
+  };
+</script>
+</html>
