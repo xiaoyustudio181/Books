@@ -10,28 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="all2.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/all2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/all.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +23,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>让持这个神咒</find>
       <find>兵难贼难</find>
       <find>即使你们原本都是凡夫俗子</find>
       <find>终将得获大涅槃</find>
@@ -74,6 +52,7 @@
       <find>桓精舍</find>
       <find>桓</find>
       <find>陀林</find>
+      <find>&quot;\n&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -122,10 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/yijing/all.html" />
-        <option value="$PROJECT_DIR$/content/yijing/catalog.html" />
-        <option value="$PROJECT_DIR$/content/yijing/main.html" />
-        <option value="$PROJECT_DIR$/content/yijing/data.js" />
         <option value="$PROJECT_DIR$/content/daxue/catalog.html" />
         <option value="$PROJECT_DIR$/content/daxue/data.js" />
         <option value="$PROJECT_DIR$/content/daxue/main.html" />
@@ -137,7 +112,6 @@
         <option value="$PROJECT_DIR$/content/lengyanjing/main.html" />
         <option value="$PROJECT_DIR$/content/lengyanjing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism.html" />
-        <option value="$PROJECT_DIR$/content/buddhism/dizangjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/catalog.html" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/main.html" />
         <option value="$PROJECT_DIR$/content/buddhism/amituojing.html" />
@@ -173,6 +147,11 @@
         <option value="$PROJECT_DIR$/content/confucianism/zhongyong/all.html" />
         <option value="$PROJECT_DIR$/content/confucianism/daxue/all.html" />
         <option value="$PROJECT_DIR$/css/all.css" />
+        <option value="$PROJECT_DIR$/content/confucianism/yijing/all.html" />
+        <option value="$PROJECT_DIR$/content/else/shanhaijing/all.html" />
+        <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/all.html" />
+        <option value="$PROJECT_DIR$/content/buddhism/jingangjing/all.html" />
+        <option value="$PROJECT_DIR$/content/buddhism/dizangjing/all.html" />
       </list>
     </option>
   </component>
@@ -226,13 +205,6 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lengyanjing" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
@@ -377,18 +349,17 @@
       <workItem from="1541085139164" duration="2125000" />
       <workItem from="1541120649237" duration="1617000" />
       <workItem from="1541164648722" duration="1704000" />
-      <workItem from="1541206683618" duration="4192000" />
+      <workItem from="1541206683618" duration="4810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279412000" />
+    <option name="totallyTimeSpent" value="280030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14216739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14216739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -425,20 +396,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/confucianism/daxue/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="34" column="112" lean-forward="false" selection-start-line="34" selection-start-column="112" selection-end-line="34" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/daxue/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -460,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/confucianism/yijing/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -478,13 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -602,14 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/jingangjing/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -776,6 +711,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/confucianism/yijing/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/all2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -784,10 +735,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/all.css">
+    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/all.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="192">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/zaahanjing/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/jingangjing/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
