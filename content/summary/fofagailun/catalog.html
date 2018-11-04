@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>黄帝四经</title>
+    <title>佛法概论</title>
     <style>
         @import "../../../dist/css/bootstrap.min.css";
         @import "../../../css/common.css";
@@ -10,23 +10,47 @@
         .panel-heading{
             cursor: pointer;
         }
+        #special{
+            margin-bottom: 5px;
+        }
     </style>
     <script src="../../../js/jquery-3.0.0.min.js"></script>
     <script src="../../../dist/js/bootstrap.min.js"></script>
 </head>
 <body>
 <div id="menu">
-    <p><a href="../../../index.html" class="btn btn-default" id='back'>返回书库(S)</a></p>
+    <p><a href="../index.html" class="btn btn-default" id='back'>返回总结(S)</a></p>
     <p><a href="./all.html" class="btn btn-default" id='all'>全书一览(D)</a></p>
 </div>
 <div class="container">
     <div class="jumbotron">
-        <h1>黄帝四经</h1>
+        <h1>佛法概论</h1>
     </div>
     <div class="row">
         <div class="col-sm-2"></div>
         <div class="col-sm-8">
             <div class="panel-group" role="tablist" aria-multiselectable="true">
+
+                <div class="panel panel-default">
+                    <div  class="panel-heading" role="tab" id="zixu">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" aria-expanded="false" aria-controls="collapse1" class="collapsed shiliujing">
+                                自序
+                            </a>
+                        </h4>
+                    </div>
+                </div>
+
+                <div class="panel panel-default" id="special">
+                    <div  class="panel-heading" role="tab" id="xuyan">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" aria-expanded="false" aria-controls="collapse1" class="collapsed shiliujing">
+                                绪言
+                            </a>
+                        </h4>
+                    </div>
+                </div>
+
                 <script src="data.js"></script>
                 <script>
                   var datum = null;
@@ -34,10 +58,9 @@
                   var chapter_counter = 0;
                   var links = '';
 
-                  for (var i = 0; i < data.length; i++) {
-                    if (i === data.length || i === data.length - 1) continue;//忽略倒数第一二个数据块
+                  for (var i = 2; i < data.length; i++) {
                     datum = data[i];
-                    if (datum.title !== title && i !== 0 || i === (data.length - 1)) {//上一章完结
+                    if (datum.title !== title && i !== 2 || i === (data.length - 1)) {//上一章完结
                       chapter_counter++;
                       if (i === (data.length - 1)) {//最后一章
                         links += '<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
@@ -64,42 +87,21 @@
                   }
                 </script>
 
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="chengjing">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" aria-expanded="false" aria-controls="collapse1" class="collapsed shiliujing">
-                                称经
-                            </a>
-                        </h4>
-                    </div>
-                </div>
-
-                <div class="panel panel-default">
-                    <div  class="panel-heading" role="tab" id="daoyuanjing">
-                        <h4 class="panel-title">
-                            <a role="button" data-toggle="collapse" data-parent="#accordion" aria-expanded="false" aria-controls="collapse1" class="collapsed shiliujing">
-                                道原经
-                            </a>
-                        </h4>
-                    </div>
-                </div>
             </div>
         </div>
-
     </div>
 </div>
-
 </body>
 <script>
-  //快捷键
-  document.onkeydown = function (e) {
-    if (e.key == 's') {//返回
-      document.getElementById('back').click();
-    }
-    if (e.key == 'd') {//全书一览
-      document.getElementById('all').click();
-    }
-  };
+    //快捷键
+    document.onkeydown=function (e){
+        if(e.key=='s'){//返回
+            document.getElementById('back').click();
+        }
+      if(e.key=='d'){//全书一览
+        document.getElementById('all').click();
+      }
+    };
 
     var titles = [];
     for (var i = 1; i <= chapter_counter; i++) {
@@ -112,12 +114,11 @@
       });
     });
 
-
-    document.getElementById('chengjing').addEventListener('click',function () {
-      location.href='main.html?25';
+    document.getElementById('zixu').addEventListener('click',function () {
+      location.href='main.html?1';
     });
-    document.getElementById('daoyuanjing').addEventListener('click',function () {
-      location.href='main.html?26';
+    document.getElementById('xuyan').addEventListener('click',function () {
+      location.href='main.html?2';
     });
 </script>
 </html>
