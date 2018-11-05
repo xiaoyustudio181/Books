@@ -10,28 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="971">
-              <caret line="42" column="535" lean-forward="false" selection-start-line="42" selection-start-column="535" selection-end-line="42" selection-end-column="535" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,14 +23,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>众生成沸的机会</find>
-      <find>有由于妄见而带来</find>
-      <find>多年成为</find>
-      <find>会在人道中之</find>
-      <find>，行事顺应而巳</find>
-      <find>世间一切所有修心的</find>
-      <find>空净之中擭得</find>
-      <find>空和色都汲</find>
       <find>被摄入畜生之趣</find>
       <find>，我今天巳经对你们</find>
       <find>人烧刀砍而</find>
@@ -74,6 +45,14 @@
       <find>panel-heading</find>
       <find>此外，「世间一切微</find>
       <find>content</find>
+      <find>持颂著这个咒</find>
+      <find>那里是厌世者所</find>
+      <find>纷岐</find>
+      <find>合这七众弟子、</find>
+      <find>而生起。三不善根，即贪、嗔、痴</find>
+      <find>初，是「外现声闻身，内秘菩萨</find>
+      <find>有空。所以虽差</find>
+      <find>动；约明暗</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -131,7 +110,6 @@
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/../index.html" />
         <option value="$PROJECT_DIR$/content/index.html" />
-        <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/main.html" />
         <option value="$PROJECT_DIR$/css/all2.css" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/all.html" />
@@ -152,8 +130,6 @@
         <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/jingangjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/all.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/content/summary/fofagailun/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/catalog.html" />
         <option value="$PROJECT_DIR$/content/buddhism/jingangjing/catalog.html" />
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/catalog.html" />
@@ -171,8 +147,11 @@
         <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/huangdi/main.html" />
+        <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/data.js" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/main.html" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/all.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -209,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,25 +201,11 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jingangjing" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,18 +341,19 @@
       <workItem from="1541206683618" duration="4964000" />
       <workItem from="1541256966600" duration="1798000" />
       <workItem from="1541286593694" duration="1792000" />
-      <workItem from="1541321706885" duration="10457000" />
+      <workItem from="1541321706885" duration="11447000" />
+      <workItem from="1541380300619" duration="1951000" />
+      <workItem from="1541423571394" duration="4382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294231000" />
+    <option name="totallyTimeSpent" value="301554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14806867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17864807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -423,13 +390,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/liezi/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -500,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="78" column="60" lean-forward="false" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -560,15 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="141" column="30" lean-forward="false" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding>
-            <marker date="1541210066746" expanded="true" signature="2503:2515" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1540562059516" expanded="true" signature="2504:2516" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,9 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding>
-            <marker date="1540562060346" expanded="true" signature="3566:3578" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
           <caret line="860" column="2" lean-forward="true" selection-start-line="860" selection-start-column="2" selection-end-line="860" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3737">
           <caret line="251" column="2" lean-forward="true" selection-start-line="251" selection-start-column="2" selection-end-line="251" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,15 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="79" selection-end-line="31" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
-          <folding>
-            <marker date="1541333629741" expanded="true" signature="2580:2592" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -768,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <marker date="1541335528910" expanded="true" signature="3536:3548" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-397">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="659">
           <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,22 +702,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="29" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="14" selection-end-column="29" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/jingangjing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="509" column="189" lean-forward="false" selection-start-line="509" selection-start-column="189" selection-end-line="509" selection-end-column="189" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="96">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="144" column="42" lean-forward="false" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="971">
-          <caret line="42" column="535" lean-forward="false" selection-start-line="42" selection-start-column="535" selection-end-line="42" selection-end-column="535" />
+        <state relative-caret-position="294">
+          <caret line="85" column="145" lean-forward="false" selection-start-line="85" selection-start-column="145" selection-end-line="85" selection-end-column="145" />
           <folding />
         </state>
       </provider>
