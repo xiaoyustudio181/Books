@@ -10,7 +10,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="144" column="42" lean-forward="false" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,17 +34,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>被摄入畜生之趣</find>
-      <find>，我今天巳经对你们</find>
-      <find>人烧刀砍而</find>
-      <find>阿难，又那些在禅定中的善男子，</find>
-      <find>常忧愁。走入山林。不耐见人。失于正受。当从沦坠</find>
-      <find>则没有灾褐，</find>
-      <find>行成就，这时以自己的</find>
-      <find>在些境地中如果游动</find>
-      <find>于于其人之</find>
-      <find>造炸下深重的孽障</find>
-      <find>如佛你所说五蕴相中，五种虚妄，是本想心</find>
       <find>阿况现前虚空穷尽十方，</find>
       <find>liezi.css</find>
       <find>open_translation</find>
@@ -53,6 +53,17 @@
       <find>初，是「外现声闻身，内秘菩萨</find>
       <find>有空。所以虽差</find>
       <find>动；约明暗</find>
+      <find>有人执著「身表色」</find>
+      <find>集前后，教典己有</find>
+      <find>教典，同样是则重理智</find>
+      <find>趣中，平常以为天上最好，地狱</find>
+      <find>zixu</find>
+      <find>世间的苦迫纷乱，根本为「我见」在作</find>
+      <find>见」在作</find>
+      <find>的受生死者。命者</find>
+      <find>否则就会息灭</find>
+      <find>疽抟</find>
+      <find>段食不但直接</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -144,13 +155,13 @@
         <option value="$PROJECT_DIR$/content/taoism/kangcangzi/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/laozi/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/huangdi/catalog.html" />
-        <option value="$PROJECT_DIR$/content/summary/index.html" />
-        <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/huangdi/main.html" />
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/data.js" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/main.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/all.html" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
+        <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -188,7 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +216,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,16 +355,20 @@
       <workItem from="1541321706885" duration="11447000" />
       <workItem from="1541380300619" duration="1951000" />
       <workItem from="1541423571394" duration="4382000" />
+      <workItem from="1541465014426" duration="1903000" />
+      <workItem from="1541552870402" duration="1818000" />
+      <workItem from="1541595252285" duration="6295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301554000" />
+    <option name="totallyTimeSpent" value="311570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17864807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13519314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -390,13 +405,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/laozi/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -656,24 +664,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="31" column="81" lean-forward="true" selection-start-line="31" selection-start-column="79" selection-end-line="31" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="48" column="65" lean-forward="false" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -733,18 +727,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="144" column="42" lean-forward="false" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
+        <state relative-caret-position="600">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <marker date="1541597115962" expanded="true" signature="3536:3548" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/git_space/Web-Frontend/Css/selector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="85" column="145" lean-forward="false" selection-start-line="85" selection-start-column="145" selection-end-line="85" selection-end-column="145" />
+        <state relative-caret-position="326">
+          <caret line="143" column="91" lean-forward="false" selection-start-line="143" selection-start-column="91" selection-end-line="143" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="52" column="182" lean-forward="false" selection-start-line="52" selection-start-column="182" selection-end-line="52" selection-end-column="182" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="144" column="42" lean-forward="false" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
           <folding />
         </state>
       </provider>

@@ -107,10 +107,11 @@
     for (var i = 1; i <= chapter_counter; i++) {
       titles.push('num' + i);
     }
+
     //绑定点击事件
     titles.forEach(function (title) {
       document.getElementById(title).addEventListener('click', function () {
-        $('a.' + title).trigger('click');
+          $('a.' + title).trigger('click');
       });
     });
 
