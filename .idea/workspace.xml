@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="144" column="42" lean-forward="false" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
+            <state relative-caret-position="254">
+              <caret line="249" column="474" lean-forward="false" selection-start-line="249" selection-start-column="474" selection-end-line="249" selection-end-column="474" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/summary/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="64" column="311" lean-forward="false" selection-start-line="64" selection-start-column="311" selection-end-line="64" selection-end-column="311" />
               <folding />
             </state>
           </provider>
@@ -34,11 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>阿况现前虚空穷尽十方，</find>
-      <find>liezi.css</find>
-      <find>open_translation</find>
-      <find>桓精舍</find>
-      <find>桓</find>
       <find>陀林</find>
       <find>&quot;\n&quot;</find>
       <find>国学爱好者</find>
@@ -64,6 +69,11 @@
       <find>否则就会息灭</find>
       <find>疽抟</find>
       <find>段食不但直接</find>
+      <find>那知没</find>
+      <find>这那里是奇迹？</find>
+      <find>name</find>
+      <find>成和</find>
+      <find>进而有各种神</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -160,9 +170,9 @@
         <option value="$PROJECT_DIR$/content/summary/fofagailun/main.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/all.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/summary/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -211,6 +221,19 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fofagailun" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -357,18 +380,25 @@
       <workItem from="1541423571394" duration="4382000" />
       <workItem from="1541465014426" duration="1903000" />
       <workItem from="1541552870402" duration="1818000" />
-      <workItem from="1541595252285" duration="6295000" />
+      <workItem from="1541595252285" duration="6896000" />
+      <workItem from="1541639031728" duration="175000" />
+      <workItem from="1541726736950" duration="1811000" />
+      <workItem from="1541811358036" duration="74000" />
+      <workItem from="1541861556315" duration="1221000" />
+      <workItem from="1541924774105" duration="7000" />
+      <workItem from="1541947514203" duration="2725000" />
+      <workItem from="1541985017205" duration="34784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311570000" />
+    <option name="totallyTimeSpent" value="352968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13519314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13787554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -514,13 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -731,9 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding>
-            <marker date="1541597115962" expanded="true" signature="3536:3548" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,30 +761,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
           <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="143" column="91" lean-forward="false" selection-start-line="143" selection-start-column="91" selection-end-line="143" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="52" column="182" lean-forward="false" selection-start-line="52" selection-start-column="182" selection-end-line="52" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
-          <caret line="144" column="42" lean-forward="false" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
+          <caret line="144" column="46" lean-forward="false" selection-start-line="144" selection-start-column="46" selection-end-line="144" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="249" column="474" lean-forward="false" selection-start-line="249" selection-start-column="474" selection-end-line="249" selection-end-column="474" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="64" column="311" lean-forward="false" selection-start-line="64" selection-start-column="311" selection-end-line="64" selection-end-column="311" />
           <folding />
         </state>
       </provider>
