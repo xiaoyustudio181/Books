@@ -14,7 +14,7 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="6000">
               <caret line="249" column="474" lean-forward="false" selection-start-line="249" selection-start-column="474" selection-end-line="249" selection-end-column="474" />
               <folding />
             </state>
@@ -24,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/summary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="63" column="437" lean-forward="false" selection-start-line="63" selection-start-column="437" selection-end-line="63" selection-end-column="437" />
+            <state relative-caret-position="326">
+              <caret line="224" column="32" lean-forward="true" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>content</find>
-      <find>持颂著这个咒</find>
       <find>那里是厌世者所</find>
       <find>纷岐</find>
       <find>合这七众弟子、</find>
@@ -74,6 +72,8 @@
       <find>常之汙，巨鱼无所还其体，而鲵</find>
       <find>对于“道”的变化规律，总结便</find>
       <find>进而有种种神通，如</find>
+      <find>，进而有种种神通</find>
+      <find>书中找到</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -189,7 +189,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -209,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -253,6 +252,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,17 +403,19 @@
       <workItem from="1541985017205" duration="35532000" />
       <workItem from="1542071015707" duration="4564000" />
       <workItem from="1542116436988" duration="4309000" />
+      <workItem from="1542207419437" duration="937000" />
+      <workItem from="1542290847387" duration="4775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362589000" />
+    <option name="totallyTimeSpent" value="368301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14109442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1443133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -781,7 +783,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="6000">
           <caret line="249" column="474" lean-forward="false" selection-start-line="249" selection-start-column="474" selection-end-line="249" selection-end-column="474" />
           <folding />
         </state>
@@ -798,14 +800,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="3" column="192" lean-forward="false" selection-start-line="3" selection-start-column="192" selection-end-line="3" selection-end-column="192" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="63" column="437" lean-forward="false" selection-start-line="63" selection-start-column="437" selection-end-line="63" selection-end-column="437" />
+        <state relative-caret-position="326">
+          <caret line="224" column="32" lean-forward="true" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
           <folding />
         </state>
       </provider>
