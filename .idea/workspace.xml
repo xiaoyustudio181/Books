@@ -10,32 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="309" lean-forward="false" selection-start-line="5" selection-start-column="309" selection-end-line="5" selection-end-column="309" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/summary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="70" column="26" lean-forward="false" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="141" column="29" lean-forward="false" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
+            <state relative-caret-position="258">
+              <caret line="64" column="235" lean-forward="false" selection-start-line="64" selection-start-column="235" selection-end-line="64" selection-end-column="235" />
               <folding />
             </state>
           </provider>
@@ -54,9 +34,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>集前后，教典己有</find>
-      <find>教典，同样是则重理智</find>
-      <find>趣中，平常以为天上最好，地狱</find>
       <find>zixu</find>
       <find>世间的苦迫纷乱，根本为「我见」在作</find>
       <find>见」在作</find>
@@ -84,6 +61,9 @@
       <find>德信</find>
       <find>过会儿</find>
       <find>27</find>
+      <find>衣锦尚絅</find>
+      <find>16</find>
+      <find>误解</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -132,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/confucianism/zhongyong/main.html" />
         <option value="$PROJECT_DIR$/content/else/sunzibingfa/main.html" />
         <option value="$PROJECT_DIR$/content/taoism/liezi/main.html" />
         <option value="$PROJECT_DIR$/content/taoism/wenzi/main.html" />
@@ -182,6 +161,7 @@
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/kangcangzi/data.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/content/confucianism/zhongyong/data.js" />
         <option value="$PROJECT_DIR$/content/summary/index.html" />
       </list>
     </option>
@@ -232,6 +212,19 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="confucianism" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="confucianism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zhongyong" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
@@ -399,18 +392,19 @@
       <workItem from="1542375851960" duration="1308000" />
       <workItem from="1542467026256" duration="3189000" />
       <workItem from="1542503092593" duration="1106000" />
-      <workItem from="1542638720688" duration="1230000" />
+      <workItem from="1542638720688" duration="3938000" />
+      <workItem from="1542719794024" duration="3615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376685000" />
+    <option name="totallyTimeSpent" value="383008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14216739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14377682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -447,13 +441,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/kangcangzi/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -785,24 +772,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="144">
           <caret line="5" column="309" lean-forward="false" selection-start-line="5" selection-start-column="309" selection-end-line="5" selection-end-column="309" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/confucianism/zhongyong/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="342" column="22" lean-forward="false" selection-start-line="342" selection-start-column="22" selection-end-line="342" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="141" column="29" lean-forward="false" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="144" column="29" lean-forward="false" selection-start-line="144" selection-start-column="29" selection-end-line="144" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="70" column="26" lean-forward="false" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        <state relative-caret-position="258">
+          <caret line="64" column="235" lean-forward="false" selection-start-line="64" selection-start-column="235" selection-end-line="64" selection-end-column="235" />
           <folding />
         </state>
       </provider>
