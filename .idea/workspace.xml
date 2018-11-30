@@ -14,8 +14,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/summary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="68" column="257" lean-forward="false" selection-start-line="68" selection-start-column="257" selection-end-line="68" selection-end-column="257" />
+            <state relative-caret-position="384">
+              <caret line="69" column="262" lean-forward="false" selection-start-line="69" selection-start-column="262" selection-end-line="69" selection-end-column="262" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2928">
+              <caret line="121" column="157" lean-forward="false" selection-start-line="121" selection-start-column="157" selection-end-line="121" selection-end-column="157" />
               <folding />
             </state>
           </provider>
@@ -34,7 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>21</find>
       <find>无不为、</find>
       <find>无不为</find>
       <find>无为（无不为</find>
@@ -64,6 +73,7 @@
       <find>回头对弟子们说：“注上水</find>
       <find>在家众，首先应顾虑到经济生活的正常，因为有</find>
       <find>、无镇嗔</find>
+      <find>到三处观，即五蕴观，六处观、六界观</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -400,17 +410,21 @@
       <workItem from="1543244890501" duration="751000" />
       <workItem from="1543317583774" duration="4995000" />
       <workItem from="1543366843847" duration="903000" />
+      <workItem from="1543453209448" duration="752000" />
+      <workItem from="1543475520294" duration="2668000" />
+      <workItem from="1543501672897" duration="5014000" />
+      <workItem from="1543539119994" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402583000" />
+    <option name="totallyTimeSpent" value="412102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15504292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07886266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -777,13 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="515" column="388" lean-forward="true" selection-start-line="515" selection-start-column="388" selection-end-line="515" selection-end-column="388" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -791,10 +798,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2928">
+          <caret line="121" column="157" lean-forward="false" selection-start-line="121" selection-start-column="157" selection-end-line="121" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="68" column="257" lean-forward="false" selection-start-line="68" selection-start-column="257" selection-end-line="68" selection-end-column="257" />
+        <state relative-caret-position="384">
+          <caret line="69" column="262" lean-forward="false" selection-start-line="69" selection-start-column="262" selection-end-line="69" selection-end-column="262" />
           <folding />
         </state>
       </provider>
