@@ -14,8 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/summary/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="83" column="347" lean-forward="false" selection-start-line="83" selection-start-column="347" selection-end-line="83" selection-end-column="347" />
+            <state relative-caret-position="242">
+              <caret line="83" column="97" lean-forward="false" selection-start-line="83" selection-start-column="97" selection-end-line="83" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -24,7 +24,7 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="7680">
               <caret line="318" column="465" lean-forward="false" selection-start-line="318" selection-start-column="465" selection-end-line="318" selection-end-column="465" />
               <folding />
             </state>
@@ -44,7 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>无为（无不为</find>
       <find>20</find>
       <find>德信</find>
       <find>过会儿</find>
@@ -74,6 +73,7 @@
       <find>到三处观，即五蕴观，六处观、六界观</find>
       <find>23</find>
       <find>。一切有为法的本性是空寂的</find>
+      <find>无相</find>
     </findStrings>
     <replaceStrings>
       <replace>head</replace>
@@ -210,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -240,7 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -414,18 +414,19 @@
       <workItem from="1543475520294" duration="2668000" />
       <workItem from="1543501672897" duration="5014000" />
       <workItem from="1543539119994" duration="1243000" />
-      <workItem from="1543560886210" duration="3193000" />
+      <workItem from="1543560886210" duration="3354000" />
+      <workItem from="1543588383013" duration="3771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="415453000" />
+    <option name="totallyTimeSpent" value="419385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.079935625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08100858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -801,7 +802,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="7680">
           <caret line="318" column="465" lean-forward="false" selection-start-line="318" selection-start-column="465" selection-end-line="318" selection-end-column="465" />
           <folding />
         </state>
@@ -809,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="83" column="347" lean-forward="false" selection-start-line="83" selection-start-column="347" selection-end-line="83" selection-end-column="347" />
+        <state relative-caret-position="242">
+          <caret line="83" column="97" lean-forward="false" selection-start-line="83" selection-start-column="97" selection-end-line="83" selection-end-column="97" />
           <folding />
         </state>
       </provider>
