@@ -102,11 +102,13 @@
 
   //快捷键
   document.onkeydown = function (e) {
-    if (e.key == 's') {//返回
-      document.getElementById('back').click();
-    }
-    if (e.key == 'd') {//全书一览
-      document.getElementById('all').click();
+    if(!e.ctrlKey){
+      if (e.key == 's') {//返回
+        document.getElementById('back').click();
+      }
+      if (e.key == 'd') {//全书一览
+        document.getElementById('all').click();
+      }
     }
   };
 </script>

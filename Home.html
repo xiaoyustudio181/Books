@@ -143,12 +143,17 @@
                     <p>查找页内关键字：<kbd>Ctrl</kbd> + <kbd>F</kbd></p>
                     <hr/>
                     <h4>其他</h4>
-                    <p>书库版本号：20181210.2213</p>
+                    <p>书库版本号：20181212.1000</p>
                     <p>开发者微博：studio181</p>
                     <p>开发者邮箱：studio181@sina.com</p>
-                    <p>暂未找到译文的书籍：《关尹子》、《亢仓子》。</p>
-                    <p>书库更新中，更新的消息和版本会在我的微博中发布。</p>
-                    <p>开发书库的目的：一，开发便于阅读的书库；二，珍藏国学经典；三，传播国学经典。</p>
+                    <p>开发书库的目的：
+                        <ol>
+                            <li>开发便于阅读的书库；</li>
+                            <li>珍藏国学经典；</li>
+                            <li>传播国学经典。</li>
+                        </ol>
+                    </p>
+                    <p>书库更新中，更新消息与版本会在我的微博中发布。</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
@@ -160,11 +165,13 @@
 </body>
 <script>
   document.onkeydown = function (e) {
-    if (e.key == 'a') {
-      document.getElementById('about').click();
-    }
-    if (e.key == 'd') {
-      document.getElementById('summary').click();
+    if(!e.ctrlKey){
+      if (e.key == 'a') {
+        document.getElementById('about').click();
+      }
+      if (e.key == 'd') {
+        document.getElementById('summary').click();
+      }
     }
   };
 </script>

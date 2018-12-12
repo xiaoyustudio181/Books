@@ -64,7 +64,6 @@
                     links += '<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
                   }
                 </script>
-
             </div>
         </div>
     </div>
@@ -86,11 +85,13 @@
 
   //热键
   document.onkeydown = function (e) {
-    if (e.key == 's') {//返回
-      document.getElementById('back').click();
-    }
-    if (e.key == 'd') {//全书一览
-      document.getElementById('all').click();
+    if(!e.ctrlKey){
+      if (e.key == 's') {//返回
+        document.getElementById('back').click();
+      }
+      if (e.key == 'd') {//全书一览
+        document.getElementById('all').click();
+      }
     }
   };
 </script>

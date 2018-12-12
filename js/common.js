@@ -31,16 +31,18 @@ $(function () {
   /***********************************************************************/
 //热键
   document.onkeydown = function (e) {
-    if (e.key == 's') {
-      document.getElementById('back').click();
-    }
-    if (e.key == 'a') {
-      document.getElementById('previous').click();
-    }
-    if (e.key == 'd') {
-      document.getElementById('next').click();
+    if(!e.ctrlKey){
+      if (e.key == 's') {
+        document.getElementById('back').click();
+      }
+      if (e.key == 'a') {
+        document.getElementById('previous').click();
+      }
+      if (e.key == 'd') {
+        document.getElementById('next').click();
+      }
+
     }
   };
-  /***********************************************************************/
 })
 ;

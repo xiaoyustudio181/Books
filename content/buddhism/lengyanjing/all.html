@@ -63,14 +63,17 @@
 
   //快捷键
   document.onkeydown = function (e) {
-    if (e.key === 's') {//返回
-      document.getElementById('back').click();
-    }
-    if (e.key === 'a') {//折叠所有
-      document.getElementById('close_all').click();
-    }
-    if (e.key === 'd') {//展开所有
-      document.getElementById('open_all').click();
+    if(!e.ctrlKey){
+      if (e.key === 's') {//返回
+        document.getElementById('back').click();
+      }
+      if (e.key === 'a') {//折叠所有
+        document.getElementById('close_all').click();
+      }
+      if (e.key === 'd') {//展开所有
+        document.getElementById('open_all').click();
+      }
+
     }
   };
 </script>

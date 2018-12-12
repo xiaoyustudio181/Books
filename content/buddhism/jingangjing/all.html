@@ -39,8 +39,10 @@
 <script>
   //快捷键
   document.onkeydown = function (e) {
-    if (e.key === 's') {//返回
-      document.getElementById('back').click();
+    if(!e.ctrlKey){
+      if (e.key === 's') {//返回
+        document.getElementById('back').click();
+      }
     }
   };
 </script>
