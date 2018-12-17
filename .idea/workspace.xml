@@ -10,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="273" column="3" lean-forward="true" selection-start-line="273" selection-start-column="3" selection-end-line="273" selection-end-column="3" />
+            <state relative-caret-position="1204">
+              <caret line="927" column="4" lean-forward="true" selection-start-line="927" selection-start-column="4" selection-end-line="927" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -34,11 +34,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>回头对弟子们说：“注上水</find>
-      <find>在家众，首先应顾虑到经济生活的正常，因为有</find>
-      <find>、无镇嗔</find>
-      <find>到三处观，即五蕴观，六处观、六界观</find>
-      <find>23</find>
       <find>。一切有为法的本性是空寂的</find>
       <find>无相</find>
       <find>对于离镇的无量心解脱</find>
@@ -64,6 +59,11 @@
       <find>佛教有“三法印”、“四圣谛”、“</find>
       <find>translation:&quot;&quot;</find>
       <find>钱来山</find>
+      <find>。</find>
+      <find>猫猫</find>
+      <find>嚻</find>
+      <find>嚣</find>
+      <find>北百二十里，曰少山，其</find>
     </findStrings>
     <replaceStrings>
       <replace>id='next'&gt;下一章</replace>
@@ -451,18 +451,22 @@
       <workItem from="1544711356904" duration="1714000" />
       <workItem from="1544750258606" duration="446000" />
       <workItem from="1544792850575" duration="1684000" />
-      <workItem from="1544966834716" duration="3657000" />
+      <workItem from="1544966834716" duration="4025000" />
+      <workItem from="1545020104878" duration="1705000" />
+      <workItem from="1545024540882" duration="47000" />
+      <workItem from="1545047973986" duration="37000" />
+      <workItem from="1545056435677" duration="1948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477154000" />
+    <option name="totallyTimeSpent" value="481259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17596567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08637339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -845,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="273" column="3" lean-forward="true" selection-start-line="273" selection-start-column="3" selection-end-line="273" selection-end-column="3" />
+        <state relative-caret-position="1204">
+          <caret line="927" column="4" lean-forward="true" selection-start-line="927" selection-start-column="4" selection-end-line="927" selection-end-column="4" />
           <folding />
         </state>
       </provider>
