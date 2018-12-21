@@ -10,30 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="1400" column="13" lean-forward="false" selection-start-line="1400" selection-start-column="13" selection-end-line="1400" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="135" column="63" lean-forward="true" selection-start-line="135" selection-start-column="63" selection-end-line="135" selection-end-column="63" />
-              <folding>
-                <element signature="e#6136#6143#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,9 +151,9 @@
         <option value="$PROJECT_DIR$/../新建文件夹/Books/css/common.css" />
         <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
+        <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
         <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
       </list>
     </option>
   </component>
@@ -193,7 +170,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -237,8 +214,7 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shanhaijing" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
@@ -451,18 +427,20 @@
       <workItem from="1545047973986" duration="37000" />
       <workItem from="1545056435677" duration="2702000" />
       <workItem from="1545143556889" duration="750000" />
-      <workItem from="1545184762259" duration="323000" />
+      <workItem from="1545184762259" duration="854000" />
+      <workItem from="1545224438880" duration="1734000" />
+      <workItem from="1545267224386" duration="23000" />
+      <workItem from="1545355085242" duration="670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="483086000" />
+    <option name="totallyTimeSpent" value="486044000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17328326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1362661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -829,28 +807,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="1489" column="14" lean-forward="true" selection-start-line="1489" selection-start-column="14" selection-end-line="1489" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2784">
-          <caret line="111" column="196" lean-forward="true" selection-start-line="111" selection-start-column="196" selection-end-line="111" selection-end-column="196" />
+        <state relative-caret-position="137">
+          <caret line="109" column="17" lean-forward="false" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="135" column="63" lean-forward="true" selection-start-line="135" selection-start-column="63" selection-end-line="135" selection-end-column="63" />
+        <state relative-caret-position="155">
+          <caret line="145" column="42" lean-forward="false" selection-start-line="145" selection-start-column="42" selection-end-line="145" selection-end-column="42" />
           <folding>
             <element signature="e#6136#6143#1" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="1400" column="13" lean-forward="false" selection-start-line="1400" selection-start-column="13" selection-end-line="1400" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
