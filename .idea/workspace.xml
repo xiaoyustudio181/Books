@@ -10,7 +10,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="134" column="40" lean-forward="true" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
+              <folding>
+                <element signature="e#6259#6266#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="friendship.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/else/friendship.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/content/confucianism/zhongyong/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/main.html" />
@@ -152,8 +174,9 @@
         <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
-        <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/summary/index.html" />
+        <option value="$PROJECT_DIR$/content/else/friendship.html" />
       </list>
     </option>
   </component>
@@ -235,19 +258,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Books\content\else" />
+      <recent name="E:\xampp\htdocs\Books\content\buddhism" />
+      <recent name="E:\xampp\htdocs\Books\content\else\shanhaijing" />
+      <recent name="E:\xampp\htdocs\Books\content\summary\fofagailun" />
+      <recent name="E:\xampp\htdocs\Books\content\zhongyong" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\xampp\htdocs\Books\content\else" />
       <recent name="E:\xampp\htdocs\Books\content\buddhism" />
       <recent name="E:\xampp\htdocs\Books\content\confucianism" />
       <recent name="E:\xampp\htdocs\Books\content\taoism" />
       <recent name="E:\xampp\htdocs\Books\content" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\xampp\htdocs\Books\content\buddhism" />
-      <recent name="E:\xampp\htdocs\Books\content\else\shanhaijing" />
-      <recent name="E:\xampp\htdocs\Books\content\summary\fofagailun" />
-      <recent name="E:\xampp\htdocs\Books\content\zhongyong" />
-      <recent name="E:\xampp\htdocs\Books\content\daxue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -431,16 +454,20 @@
       <workItem from="1545224438880" duration="1734000" />
       <workItem from="1545267224386" duration="23000" />
       <workItem from="1545355085242" duration="670000" />
+      <workItem from="1545440973321" duration="178000" />
+      <workItem from="1545462485735" duration="4168000" />
+      <workItem from="1545489921872" duration="1567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="486044000" />
+    <option name="totallyTimeSpent" value="491957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1362661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14109442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -477,13 +504,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/buddhism/huayanjing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="2844" column="3109" lean-forward="false" selection-start-line="2844" selection-start-column="3109" selection-end-line="2844" selection-end-column="3109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="635">
@@ -816,19 +836,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="109" column="17" lean-forward="false" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        <state relative-caret-position="360">
+          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="145" column="42" lean-forward="false" selection-start-line="145" selection-start-column="42" selection-end-line="145" selection-end-column="42" />
+        <state relative-caret-position="192">
+          <caret line="134" column="40" lean-forward="true" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
           <folding>
-            <element signature="e#6136#6143#1" expanded="true" />
+            <element signature="e#6259#6266#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/friendship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
