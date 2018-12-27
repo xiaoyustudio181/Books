@@ -13,7 +13,7 @@
         }
     </style>
     <script src="../../../js/jquery-3.0.0.min.js"></script>
-    <script src="../../../js/common.js"></script>
+    <script src="../../../js/common2.js"></script>
 </head>
 <body>
 <div id="menu">
@@ -39,10 +39,17 @@
 <script>
   var search = location.search;
   search = search.substr(1);
-  var datum = data[search - 1];
-  $('.jumbotron h1').text(datum.title);
-  $('title').text($('title').text()+' - '+datum.title);
-  $('.title').text(datum.title2);
+  var temp=search.split(',');
+
+  var chapter_num=temp[0];
+  var datum_num=temp[1];
+
+  chapter=data[chapter_num-1];
+  datum=chapter.data[datum_num-1];
+
+  $('title').text($('title').text()+' - '+chapter.title);
+  $('.jumbotron h1').text(chapter.title);
+  $('.title').text(datum.title);
   $('.content').text('　　'+datum.content);
 </script>
 </html>

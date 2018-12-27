@@ -10,50 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="2131" column="20" lean-forward="true" selection-start-line="2131" selection-start-column="20" selection-end-line="2131" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/all.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="catalog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/catalog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-              <folding>
-                <marker date="1545875506793" expanded="true" signature="2378:2390" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,8 +23,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>答言：</find>
-      <find>言：</find>
       <find>言：　　</find>
       <find>皆有</find>
       <find>如来智慧</find>
@@ -96,9 +51,10 @@
       <find>chapter_cou</find>
       <find>　　</find>
       <find>　　</find>
+      <find>倚帝</find>
+      <find></find>
     </findStrings>
     <replaceStrings>
-      <replace>next'&gt;下一</replace>
       <replace>id='previous'&gt;上一</replace>
       <replace>id='next'&gt;下一</replace>
       <replace>id='back'&gt;返回</replace>
@@ -128,6 +84,7 @@
       <replace>向</replace>
       <replace>]</replace>
       <replace>\n　　</replace>
+      <replace>[卤比]</replace>
     </replaceStrings>
     <dirStrings>
       <dir>E:\xampp\htdocs\Books\pages\huangdi</dir>
@@ -146,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/buddhism/jingangjing/all.html" />
-        <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/catalog.html" />
         <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/catalog.html" />
@@ -158,8 +113,6 @@
         <option value="$PROJECT_DIR$/content/confucianism/zhongyong/all.html" />
         <option value="$PROJECT_DIR$/content/else/sunzibingfa/all.html" />
         <option value="$PROJECT_DIR$/content/else/sunzibingfa/catalog.html" />
-        <option value="$PROJECT_DIR$/content/summary/fofagailun/all.html" />
-        <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/all.html" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/kangcangzi/all.html" />
@@ -170,9 +123,6 @@
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/data.js" />
         <option value="$PROJECT_DIR$/../新建文件夹/Books/css/common.css" />
         <option value="$PROJECT_DIR$/css/common.css" />
-        <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
-        <option value="$PROJECT_DIR$/content/else/friendship.html" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data-.js" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/catalog_arrange.html" />
@@ -192,11 +142,18 @@
         <option value="$PROJECT_DIR$/content/taoism/huangdi/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/huangdi/main.html" />
         <option value="$PROJECT_DIR$/content/taoism/huangdi/data.js" />
-        <option value="$PROJECT_DIR$/content/else/shanhaijing/all.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/catalog.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/main.html" />
         <option value="$PROJECT_DIR$/content/taoism/liezi/catalog.html" />
+        <option value="$PROJECT_DIR$/content/else/friendship.html" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/main.html" />
+        <option value="$PROJECT_DIR$/../old_Books/Books/content/summary/fofagailun/all.html" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/all.html" />
+        <option value="$PROJECT_DIR$/content/else/shanhaijing/all.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -213,7 +170,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -233,8 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,32 +208,14 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shanhaijing" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lengyanjing" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -292,19 +231,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Books\content\summary\fofagailun" />
+      <recent name="E:\xampp\htdocs\Books\content\else\shanhaijing" />
+      <recent name="E:\xampp\htdocs\Books\content\taoism\huangdi" />
+      <recent name="E:\xampp\htdocs\Books\content\taoism\wenzi" />
+      <recent name="E:\xampp\htdocs\Books\content\taoism\liezi" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\xampp\htdocs\Books\content\else\shanhaijing" />
       <recent name="E:\xampp\htdocs\Books\content" />
       <recent name="E:\xampp\htdocs\Books\content\taoism" />
       <recent name="E:\xampp\htdocs\Books\content\else" />
       <recent name="E:\xampp\htdocs\Books\content\buddhism" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\xampp\htdocs\Books\content\else\shanhaijing" />
-      <recent name="E:\xampp\htdocs\Books\content\taoism\huangdi" />
-      <recent name="E:\xampp\htdocs\Books\content\taoism\wenzi" />
-      <recent name="E:\xampp\htdocs\Books\content\taoism\liezi" />
-      <recent name="E:\xampp\htdocs\Books\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -504,18 +443,18 @@
       <workItem from="1545786024475" duration="997000" />
       <workItem from="1545807582582" duration="1735000" />
       <workItem from="1545834081390" duration="6259000" />
-      <workItem from="1545872007732" duration="4986000" />
+      <workItem from="1545872007732" duration="5004000" />
+      <workItem from="1545917230814" duration="4124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="517751000" />
+    <option name="totallyTimeSpent" value="521893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14002146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14002146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -555,81 +494,10 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/taoism/kangcangzi/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/laozi/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="75" column="5" lean-forward="false" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../新建文件夹/Books/css/common.css" />
-    <entry file="file://$PROJECT_DIR$/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="268" column="358" lean-forward="false" selection-start-line="268" selection-start-column="358" selection-end-line="268" selection-end-column="358" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/kangcangzi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="156" column="28" lean-forward="false" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/else/friendship.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="62" column="26" lean-forward="false" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data-.js" />
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/catalog-.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/old/data.js" />
-    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/catalog_arrange.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/catalog_arrange.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data--.js" />
     <entry file="file://G:/git_space/Web-Frontend/JavaScript/string.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -646,19 +514,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/common1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common1.js" />
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="1326" column="650" lean-forward="false" selection-start-line="1326" selection-start-column="650" selection-end-line="1326" selection-end-column="650" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,47 +558,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-565">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data-.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data-.js" />
     <entry file="file://$PROJECT_DIR$/content/taoism/laozi/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="47" column="9" lean-forward="false" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/catalog-.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data--.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/catalog-.html" />
+    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data--.js" />
     <entry file="file://$PROJECT_DIR$/content/taoism/liezi/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,23 +582,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/catalog_arrange.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/catalog_arrange.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding>
-            <marker date="1545874435520" expanded="true" signature="2376:2388" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,23 +604,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog_arrange.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog_arrange.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,25 +619,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <marker date="1545874923838" expanded="true" signature="2380:2392" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog-.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1440">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog-.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/guanyin/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-72">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,11 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="57" column="303" lean-forward="false" selection-start-line="57" selection-start-column="303" selection-end-line="57" selection-end-column="303" />
-          <folding>
-            <element signature="e#15#20435#0" expanded="false" />
-            <element signature="e#44#20431#0" expanded="false" />
-            <element signature="e#52#2209#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -868,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,182 +669,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="315" column="4" lean-forward="true" selection-start-line="315" selection-start-column="4" selection-end-line="315" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/catalog-.html" />
+    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/friendship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="42" column="53" lean-forward="false" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="6" column="819" lean-forward="false" selection-start-line="6" selection-start-column="819" selection-end-line="6" selection-end-column="819" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding>
-            <element signature="e#15#11554#0" expanded="false" />
-            <element signature="e#44#11550#0" expanded="false" />
-            <element signature="e#52#1026#0" expanded="false" />
-            <element signature="e#1034#1695#0" expanded="false" />
-            <element signature="e#1703#2939#0" expanded="false" />
-            <element signature="e#2947#4128#0" expanded="false" />
-            <element signature="e#4136#4836#0" expanded="false" />
-            <element signature="e#4844#5262#0" expanded="false" />
-            <element signature="e#5270#5841#0" expanded="false" />
-            <element signature="e#5849#6837#0" expanded="false" />
-            <element signature="e#6845#7835#0" expanded="false" />
-            <element signature="e#7843#8137#0" expanded="false" />
-            <element signature="e#8145#8636#0" expanded="false" />
-            <element signature="e#8644#9823#0" expanded="false" />
-            <element signature="e#9831#10285#0" expanded="false" />
-            <element signature="e#10293#11543#0" expanded="false" />
-            <element signature="e#11558#30900#0" expanded="false" />
-            <element signature="e#11587#30896#0" expanded="false" />
-            <element signature="e#11595#13022#0" expanded="false" />
-            <element signature="e#13030#13458#0" expanded="false" />
-            <element signature="e#13466#14775#0" expanded="false" />
-            <element signature="e#14783#15674#0" expanded="false" />
-            <element signature="e#15682#16244#0" expanded="false" />
-            <element signature="e#16252#18476#0" expanded="false" />
-            <element signature="e#18484#19410#0" expanded="false" />
-            <element signature="e#19418#20155#0" expanded="false" />
-            <element signature="e#20163#20974#0" expanded="false" />
-            <element signature="e#20982#21598#0" expanded="false" />
-            <element signature="e#21606#21920#0" expanded="false" />
-            <element signature="e#21928#22731#0" expanded="false" />
-            <element signature="e#22739#24533#0" expanded="false" />
-            <element signature="e#24541#25629#0" expanded="false" />
-            <element signature="e#25637#26305#0" expanded="false" />
-            <element signature="e#26313#26650#0" expanded="false" />
-            <element signature="e#26658#27375#0" expanded="false" />
-            <element signature="e#27383#28979#0" expanded="false" />
-            <element signature="e#28987#29493#0" expanded="false" />
-            <element signature="e#29501#29908#0" expanded="false" />
-            <element signature="e#29916#30889#0" expanded="false" />
-            <element signature="e#30904#40494#0" expanded="false" />
-            <element signature="e#30934#40490#0" expanded="false" />
-            <element signature="e#30942#33455#0" expanded="false" />
-            <element signature="e#33463#34293#0" expanded="false" />
-            <element signature="e#34301#35381#0" expanded="false" />
-            <element signature="e#35389#36200#0" expanded="false" />
-            <element signature="e#36208#37060#0" expanded="false" />
-            <element signature="e#37068#38088#0" expanded="false" />
-            <element signature="e#38096#39156#0" expanded="false" />
-            <element signature="e#39164#39989#0" expanded="false" />
-            <element signature="e#39997#40483#0" expanded="false" />
-            <element signature="e#40498#52428#0" expanded="false" />
-            <element signature="e#40527#52424#0" expanded="false" />
-            <element signature="e#40535#41843#0" expanded="false" />
-            <element signature="e#41851#42735#0" expanded="false" />
-            <element signature="e#42743#43394#0" expanded="false" />
-            <element signature="e#43402#43941#0" expanded="false" />
-            <element signature="e#43949#44895#0" expanded="false" />
-            <element signature="e#44903#45546#0" expanded="false" />
-            <element signature="e#45554#46285#0" expanded="false" />
-            <element signature="e#46293#47017#0" expanded="false" />
-            <element signature="e#47025#47415#0" expanded="false" />
-            <element signature="e#47423#47809#0" expanded="false" />
-            <element signature="e#47817#48691#0" expanded="false" />
-            <element signature="e#48699#49625#0" expanded="false" />
-            <element signature="e#49633#51268#0" expanded="false" />
-            <element signature="e#51276#51779#0" expanded="false" />
-            <element signature="e#51787#52417#0" expanded="false" />
-            <element signature="e#52432#69388#0" expanded="false" />
-            <element signature="e#52461#69384#0" expanded="false" />
-            <element signature="e#52469#55967#0" expanded="false" />
-            <element signature="e#55975#57043#0" expanded="false" />
-            <element signature="e#57051#57331#0" expanded="false" />
-            <element signature="e#57339#57768#0" expanded="false" />
-            <element signature="e#57776#59173#0" expanded="false" />
-            <element signature="e#59181#59816#0" expanded="false" />
-            <element signature="e#59824#60278#0" expanded="false" />
-            <element signature="e#60286#61125#0" expanded="false" />
-            <element signature="e#61133#61854#0" expanded="false" />
-            <element signature="e#61862#62772#0" expanded="false" />
-            <element signature="e#62780#63479#0" expanded="false" />
-            <element signature="e#63487#63958#0" expanded="false" />
-            <element signature="e#63966#65145#0" expanded="false" />
-            <element signature="e#65153#66163#0" expanded="false" />
-            <element signature="e#66171#67266#0" expanded="false" />
-            <element signature="e#67274#69003#0" expanded="false" />
-            <element signature="e#69011#69377#0" expanded="false" />
-            <element signature="e#69392#80194#0" expanded="false" />
-            <element signature="e#69421#80190#0" expanded="false" />
-            <element signature="e#69429#70257#0" expanded="false" />
-            <element signature="e#70265#71890#0" expanded="false" />
-            <element signature="e#71898#74107#0" expanded="false" />
-            <element signature="e#74115#74468#0" expanded="false" />
-            <element signature="e#74476#74980#0" expanded="false" />
-            <element signature="e#74988#75871#0" expanded="false" />
-            <element signature="e#75879#76465#0" expanded="false" />
-            <element signature="e#76473#77301#0" expanded="false" />
-            <element signature="e#77309#77909#0" expanded="false" />
-            <element signature="e#77917#78749#0" expanded="false" />
-            <element signature="e#78757#79663#0" expanded="false" />
-            <element signature="e#79671#79955#0" expanded="false" />
-            <element signature="e#79963#80183#0" expanded="false" />
-            <element signature="e#80198#94799#0" expanded="false" />
-            <element signature="e#80227#94795#0" expanded="false" />
-            <element signature="e#80235#81218#0" expanded="false" />
-            <element signature="e#81226#82135#0" expanded="false" />
-            <element signature="e#82143#82681#0" expanded="false" />
-            <element signature="e#82689#82897#0" expanded="false" />
-            <element signature="e#82905#83199#0" expanded="false" />
-            <element signature="e#83207#83531#0" expanded="false" />
-            <element signature="e#83539#84596#0" expanded="false" />
-            <element signature="e#84604#86566#0" expanded="false" />
-            <element signature="e#86574#87697#0" expanded="false" />
-            <element signature="e#87705#88414#0" expanded="false" />
-            <element signature="e#88422#89362#0" expanded="false" />
-            <element signature="e#89370#90986#0" expanded="false" />
-            <element signature="e#90994#91569#0" expanded="false" />
-            <element signature="e#91577#92119#0" expanded="false" />
-            <element signature="e#92127#92855#0" expanded="false" />
-            <element signature="e#92863#93998#0" expanded="false" />
-            <element signature="e#94006#94788#0" expanded="false" />
-            <element signature="e#94803#112812#0" expanded="false" />
-            <element signature="e#94832#112808#0" expanded="false" />
-            <element signature="e#94840#95208#0" expanded="false" />
-            <element signature="e#95216#95891#0" expanded="false" />
-            <element signature="e#95899#96273#0" expanded="false" />
-            <element signature="e#96281#96684#0" expanded="false" />
-            <element signature="e#96692#97015#0" expanded="false" />
-            <element signature="e#97023#97347#0" expanded="false" />
-            <element signature="e#97355#97901#0" expanded="false" />
-            <element signature="e#97909#99062#0" expanded="false" />
-            <element signature="e#99070#99404#0" expanded="false" />
-            <element signature="e#99412#100111#0" expanded="false" />
-            <element signature="e#100119#100751#0" expanded="false" />
-            <element signature="e#100759#101307#0" expanded="false" />
-            <element signature="e#101315#102065#0" expanded="false" />
-            <element signature="e#102073#102718#0" expanded="false" />
-            <element signature="e#102726#103196#0" expanded="false" />
-            <element signature="e#103204#104109#0" expanded="false" />
-            <element signature="e#104117#104465#0" expanded="false" />
-            <element signature="e#104473#104820#0" expanded="false" />
-            <element signature="e#104828#105195#0" expanded="false" />
-            <element signature="e#105203#105914#0" expanded="false" />
-            <element signature="e#105922#106513#0" expanded="false" />
-            <element signature="e#106521#106977#0" expanded="false" />
-            <element signature="e#106985#107511#0" expanded="false" />
-            <element signature="e#107519#107726#0" expanded="false" />
-            <element signature="e#107734#109006#0" expanded="false" />
-            <element signature="e#109014#109289#0" expanded="false" />
-            <element signature="e#109297#109510#0" expanded="false" />
-            <element signature="e#109518#110282#0" expanded="false" />
-            <element signature="e#110290#110636#0" expanded="false" />
-            <element signature="e#110644#111158#0" expanded="false" />
-            <element signature="e#111166#111468#0" expanded="false" />
-            <element signature="e#111476#111663#0" expanded="false" />
-            <element signature="e#111671#111958#0" expanded="false" />
-            <element signature="e#111966#112254#0" expanded="false" />
-            <element signature="e#112262#112529#0" expanded="false" />
-            <element signature="e#112537#112802#0" expanded="false" />
+            <marker date="1545918351703" expanded="true" signature="2380:2392" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/catalog-.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,20 +724,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/catalog.html">
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <marker date="1545875633274" expanded="true" signature="2376:2388" ph="..." />
-          </folding>
+        <state relative-caret-position="611">
+          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../old_Books/Books/content/summary/fofagailun/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../old_Books/Books/content/summary/fofagailun/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="2131" column="20" lean-forward="true" selection-start-line="2131" selection-start-column="20" selection-end-line="2131" selection-end-column="20" />
+        <state relative-caret-position="464">
+          <caret line="641" column="11" lean-forward="false" selection-start-line="641" selection-start-column="11" selection-end-line="641" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/all.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="32" column="90" lean-forward="false" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="146" column="46" lean-forward="true" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/lengyanjing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
