@@ -31,38 +31,35 @@
 
                 <script src="data.js"></script>
                 <script>
-                  var datum = null;
-                  var title = '';
-                  var chapter_counter = 0;
-                  var links = '';
+                  var count_chapter=1;
 
-                  for (var i = 0; i < data.length; i++) {
-                    datum = data[i];
-                    if (datum.title !== title && i !== 0 || i === (data.length - 1)) {//上一章完结
-                      chapter_counter++;
-                      if (i === (data.length - 1)) {//最后一章
-                        links += '<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
-                      }
-                      document.write('<div class="panel panel-default">\n' +
-                          '                    <div  class="panel-heading" role="tab" id="num' + chapter_counter + '">\n' +
-                          '                        <h4 class="panel-title">\n' +
-                          '                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse' + chapter_counter + '" aria-expanded="false" aria-controls="collapse1" class="collapsed num' + chapter_counter + '">\n' +
-                          '                                ' + title + '\n' +
-                          '                            </a>\n' +
-                          '                        </h4>\n' +
-                          '                    </div>\n' +
-                          '                    <div id="collapse' + chapter_counter + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="" aria-expanded="false" style="height: 0px;">\n' +
-                          '                        <div class="panel-body">\n' +
-                          '                            <div class="list-group">\n' + links +
-                          '                            </div>\n' +
-                          '                        </div>\n' +
-                          '                    </div>\n' +
-                          '                </div>');
-                      links = '';
-                    }
-                    title = datum.title;
-                    links += '<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title2 + '</a>\n';
-                  }
+                  data.forEach(function (chapter) {
+                    var count_datum=1;
+                    var chapter_title=chapter.title;
+                    var html_links='';
+
+                    chapter.data.forEach(function (datum) {
+                      html_links+='<a href="main.html?'+count_chapter+',' + count_datum + '" class="list-group-item">' + datum.title + '</a>\n';
+                      count_datum++;
+                    });
+
+                    document.write('<div class="panel panel-default">\n' +
+                      '                    <div  class="panel-heading" role="tab" id="num' + count_chapter + '">\n' +
+                      '                        <h4 class="panel-title">\n' +
+                      '                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse' + count_chapter + '" aria-expanded="false" aria-controls="collapse1" class="collapsed num' + count_chapter + '">\n' +
+                      '                                ' + chapter_title + '\n' +
+                      '                            </a>\n' +
+                      '                        </h4>\n' +
+                      '                    </div>\n' +
+                      '                    <div id="collapse' + count_chapter + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="" aria-expanded="false" style="height: 0px;">\n' +
+                      '                        <div class="panel-body">\n' +
+                      '                            <div class="list-group">\n' + html_links +
+                      '                            </div>\n' +
+                      '                        </div>\n' +
+                      '                    </div>\n' +
+                      '                </div>');
+                    count_chapter++;
+                  });
                 </script>
             </div>
         </div>
@@ -73,7 +70,7 @@
 
 <script>
   var titles = [];
-  for (var i = 1; i <= chapter_counter; i++) {
+  for (var i = 1; i <= count_chapter-1; i++) {
     titles.push('num' + i);
   }
   //绑定点击事件
