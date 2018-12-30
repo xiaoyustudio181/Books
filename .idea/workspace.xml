@@ -14,8 +14,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="119" column="58" lean-forward="false" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="58" />
+            <state relative-caret-position="24">
+              <caret line="129" column="18" lean-forward="false" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,6 @@
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/data.js" />
         <option value="$PROJECT_DIR$/../新建文件夹/Books/css/common.css" />
         <option value="$PROJECT_DIR$/css/common.css" />
-        <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data-.js" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/catalog_arrange.html" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/all.html" />
@@ -165,6 +164,7 @@
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/summary/index.html" />
       </list>
     </option>
   </component>
@@ -201,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,20 +218,12 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="guanyin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -460,18 +453,21 @@
       <workItem from="1546045512416" duration="4239000" />
       <workItem from="1546090056141" duration="2821000" />
       <workItem from="1546095315388" duration="2338000" />
-      <workItem from="1546130007539" duration="2244000" />
+      <workItem from="1546130007539" duration="2300000" />
+      <workItem from="1546132471461" duration="261000" />
+      <workItem from="1546132746430" duration="5000" />
+      <workItem from="1546155096625" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533794000" />
+    <option name="totallyTimeSpent" value="534195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18347639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19152361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -511,7 +507,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/else/shanhaijing/catalog_arrange.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data--.js" />
     <entry file="file://G:/git_space/Web-Frontend/JavaScript/string.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -786,14 +781,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="36" column="347" lean-forward="false" selection-start-line="36" selection-start-column="347" selection-end-line="36" selection-end-column="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="119" column="58" lean-forward="false" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="58" />
+        <state relative-caret-position="24">
+          <caret line="129" column="18" lean-forward="false" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="65" />
           <folding />
         </state>
       </provider>
