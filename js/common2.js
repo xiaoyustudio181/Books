@@ -3,10 +3,10 @@ $(function () {
   /***********************************************************************/
   //展开与折叠（原文）按钮的功能
   $('.open_content').on('click', function () {
-    if ($(this).text() === '显示原文') {
-      $(this).text('隐藏原文');
+    if ($(this).text() === '显示原文(w)') {
+      $(this).text('隐藏原文(w)');
     } else {
-      $(this).text('显示原文');
+      $(this).text('显示原文(w)');
     }
     $(this).parent().next().slideToggle(100);
   });
@@ -47,7 +47,12 @@ $(function () {
       if (e.key == 'd') {
         document.getElementById('next').click();
       }
-
+      if(e.key == 'w'){
+        var temp=document.getElementsByClassName('open_content');
+        if(temp.length !== 0){
+          temp[0].click();
+        }
+      }
     }
   };
 })
