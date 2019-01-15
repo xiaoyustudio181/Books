@@ -6,30 +6,28 @@
     <style>
         @import "../../../dist/css/bootstrap.min.css";
         @import "../../../css/common.css";
-
-        .head {
-            border-top: 2px solid;
-            border-bottom: 2px solid;
-        }
+        @import "../../../css/main.css";
     </style>
     <script src="../../../js/jquery-3.0.0.min.js"></script>
-    <script src="../../../js/common.js"></script>
+    <script src="../../../js/common2.js"></script>
 </head>
 <body>
 <div id="menu">
     <p><a href="catalog.html" class="btn btn-default" id='back'>返回目录(S)</a></p>
-    <p><a class="btn btn-default" id='previous'>上一篇(A)</a></p>
-    <p><a class="btn btn-default" id='next'>下一篇(D)</a></p>
+    <p><a class="btn btn-default" id='previous'>上一节(A)</a></p>
+    <p><a class="btn btn-default" id='next'>下一节(D)</a></p>
 </div>
 <div class="container">
     <div class="jumbotron">
         <h1>　</h1>
     </div>
     <div class="row">
-        <div class="col-sm-1"></div>
+        <div class="col-sm-1 myfont"></div>
         <div class="col-sm-10 myfont">
-            <p class="head">原文</p>
-            <p class="content pre-line"></p>
+            <p class="title">　</p>
+            <p class="head">原文<span class="open_content">显示原文(w)</span></p>
+            <p class="content"></p>
+            <p class="pre-line"></p>
         </div>
     </div>
 </div>
@@ -38,9 +36,18 @@
 <script>
   var search = location.search;
   search = search.substr(1);
-  var datum = data[search - 1];
-  $('title').text($('title').text()+' - '+datum.title);
-  $('.jumbotron h1').text(datum.title);
-  $('.content.pre-line').text('　　'+datum.content);
+  var temp=search.split(',');
+
+  var chapter_num=temp[0];
+  var datum_num=temp[1];
+
+  chapter=data[chapter_num-1];
+  datum=chapter.data[datum_num-1];
+
+  $('title').text($('title').text()+' - '+chapter.title);
+  $('.jumbotron h1').text(chapter.title);
+  $('.title').text(datum.title);
+  $('.content').text('　　'+datum.content);
+  $('.pre-line').text('[译文]\n　　'+datum.translation);
 </script>
 </html>

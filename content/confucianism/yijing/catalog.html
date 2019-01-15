@@ -6,6 +6,10 @@
     <style>
         @import "../../../dist/css/bootstrap.min.css";
         @import "../../../css/common.css";
+
+        .panel-heading {
+            cursor: pointer;
+        }
     </style>
     <script src="../../../js/jquery-3.0.0.min.js"></script>
     <script src="../../../dist/js/bootstrap.min.js"></script>
@@ -19,34 +23,73 @@
     <div class="jumbotron">
         <h1>易经</h1>
     </div>
+
     <div class="row">
         <div class="col-sm-2"></div>
         <div class="col-sm-8">
-            <div class="list-group">
+            <div class="panel-group" role="tablist" aria-multiselectable="true">
+
                 <script src="data.js"></script>
                 <script>
-                  var datum = null;
-                  for (var i = 0; i < data.length; i++) {
-                    datum = data[i];
-                    document.write('<a href="main.html?' + (i + 1) + '" class="list-group-item">' + datum.title + '</a>');
-                  }
+                  var count_chapter=1;
+
+                  data.forEach(function (chapter) {
+                    var count_datum=1;
+                    var chapter_title=chapter.title;
+                    var html_links='';
+
+                    chapter.data.forEach(function (datum) {
+                      html_links+='<a href="main.html?'+count_chapter+',' + count_datum + '" class="list-group-item">' + datum.title + '</a>\n';
+                      count_datum++;
+                    });
+
+                    document.write('<div class="panel panel-default">\n' +
+                      '                    <div  class="panel-heading" role="tab" id="num' + count_chapter + '">\n' +
+                      '                        <h4 class="panel-title">\n' +
+                      '                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse' + count_chapter + '" aria-expanded="false" aria-controls="collapse1" class="collapsed num' + count_chapter + '">\n' +
+                      '                                ' + chapter_title + '\n' +
+                      '                            </a>\n' +
+                      '                        </h4>\n' +
+                      '                    </div>\n' +
+                      '                    <div id="collapse' + count_chapter + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="" aria-expanded="false" style="height: 0px;">\n' +
+                      '                        <div class="panel-body">\n' +
+                      '                            <div class="list-group">\n' + html_links +
+                      '                            </div>\n' +
+                      '                        </div>\n' +
+                      '                    </div>\n' +
+                      '                </div>');
+                    count_chapter++;
+                  });
                 </script>
             </div>
         </div>
     </div>
 </div>
+
 </body>
+
 <script>
-    //快捷键
-    document.onkeydown=function (e){
-      if(!e.ctrlKey){
-        if(e.key=='s'){//返回
-          document.getElementById('back').click();
-        }
-        if(e.key=='d'){//全书一览
-          document.getElementById('all').click();
-        }
+  var titles = [];
+  for (var i = 1; i <= count_chapter-1; i++) {
+    titles.push('num' + i);
+  }
+  //绑定点击事件
+  titles.forEach(function (title) {
+    document.getElementById(title).addEventListener('click', function () {
+      $('a.' + title).trigger('click');
+    });
+  });
+
+  //热键
+  document.onkeydown = function (e) {
+    if(!e.ctrlKey){
+      if (e.key == 's') {//返回
+        document.getElementById('back').click();
       }
-    };
+      if (e.key == 'd') {//全书一览
+        document.getElementById('all').click();
+      }
+    }
+  };
 </script>
 </html>
