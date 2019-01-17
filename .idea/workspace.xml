@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/confucianism/yijing/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="63" column="59" lean-forward="false" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+            <state relative-caret-position="576">
+              <caret line="211" column="15" lean-forward="false" selection-start-line="211" selection-start-column="15" selection-end-line="211" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="170" column="42" lean-forward="false" selection-start-line="170" selection-start-column="29" selection-end-line="170" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -34,8 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>过著「无我我所，无守护者</find>
-      <find>佛教有“三法印”、“四圣谛”、“</find>
       <find>translation:&quot;&quot;</find>
       <find>钱来山</find>
       <find>。</find>
@@ -64,6 +72,8 @@
       <find>五，</find>
       <find>环狗</find>
       <find>高，得到成功。</find>
+      <find>陷阶中去却不</find>
+      <find>，形而上与形而下</find>
     </findStrings>
     <replaceStrings>
       <replace>返回书库(S)</replace>
@@ -114,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/taoism/laozi/all.html" />
         <option value="$PROJECT_DIR$/content/taoism/laozi/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/liezi/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/data.js" />
@@ -143,7 +152,6 @@
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
-        <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/content/else/friendship.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/main.html" />
         <option value="$PROJECT_DIR$/content/else/sunzibingfa/main.html" />
@@ -163,6 +171,8 @@
         <option value="$PROJECT_DIR$/content/confucianism/yijing/main.html" />
         <option value="$PROJECT_DIR$/content/confucianism/yijing/all.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
+        <option value="$PROJECT_DIR$/content/confucianism/zhongyong/data.js" />
+        <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/content/confucianism/yijing/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
       </list>
@@ -181,7 +191,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -230,6 +240,13 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="confucianism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zhongyong" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -238,6 +255,12 @@
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="shanhaijing" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -502,15 +525,16 @@
       <workItem from="1547567154035" duration="188000" />
       <workItem from="1547600288055" duration="337000" />
       <workItem from="1547654355547" duration="880000" />
-      <workItem from="1547686457053" duration="408000" />
+      <workItem from="1547686457053" duration="2595000" />
+      <workItem from="1547732698310" duration="6591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="573348000" />
+    <option name="totallyTimeSpent" value="582126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17274678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -553,7 +577,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog_arrange.html" />
     <entry file="file://$PROJECT_DIR$/content/taoism/huangdi/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -817,13 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="92" column="195" lean-forward="true" selection-start-line="92" selection-start-column="195" selection-end-line="92" selection-end-column="195" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/daxue/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -866,18 +882,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/content/confucianism/zhongyong/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="170" column="42" lean-forward="false" selection-start-line="170" selection-start-column="42" selection-end-line="170" selection-end-column="42" />
+        <state relative-caret-position="294">
+          <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="102" column="234" lean-forward="true" selection-start-line="102" selection-start-column="234" selection-end-line="102" selection-end-column="234" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/yijing/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="63" column="59" lean-forward="false" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+        <state relative-caret-position="576">
+          <caret line="211" column="15" lean-forward="false" selection-start-line="211" selection-start-column="15" selection-end-line="211" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="170" column="42" lean-forward="false" selection-start-line="170" selection-start-column="29" selection-end-line="170" selection-end-column="42" />
           <folding />
         </state>
       </provider>
