@@ -34,8 +34,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="168" column="25" lean-forward="true" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
+            <state relative-caret-position="456">
+              <caret line="92" column="105" lean-forward="false" selection-start-line="92" selection-start-column="105" selection-end-line="93" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -201,7 +201,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -535,15 +535,15 @@
       <workItem from="1547909919294" duration="740000" />
       <workItem from="1547994822533" duration="1542000" />
       <workItem from="1548038266515" duration="876000" />
-      <workItem from="1548069197846" duration="1803000" />
+      <workItem from="1548069197846" duration="2329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="589461000" />
+    <option name="totallyTimeSpent" value="589987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.152897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -916,8 +916,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="168" column="25" lean-forward="true" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
+        <state relative-caret-position="456">
+          <caret line="92" column="105" lean-forward="false" selection-start-line="92" selection-start-column="105" selection-end-line="93" selection-end-column="66" />
           <folding />
         </state>
       </provider>
