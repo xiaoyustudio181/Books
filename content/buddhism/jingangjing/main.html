@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>金刚般若波罗蜜经</title>
+    <title>金刚经</title>
     <style>
         @import "../../../dist/css/bootstrap.min.css";
         @import "../../../css/common.css";
@@ -43,6 +43,7 @@
   var search = location.search;
   search = search.substr(1);
   var datum = data[search - 1];
+  $('title').text($('title').text()+' - '+datum.title);
   $('.jumbotron h1').text(datum.title);
   $('.content.pre-line').text('　　'+datum.content);
 </script>
