@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,11 +35,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>五，</find>
-      <find>环狗</find>
-      <find>高，得到成功。</find>
-      <find>陷阶中去却不</find>
-      <find>，形而上与形而下</find>
       <find>君于</find>
       <find>「</find>
       <find>八，儒术与道术共慧。</find>
@@ -65,6 +60,11 @@
       <find>自在等所围绕，悉已住于灌顶地，充满十方诸世界。或有见此三千界，种种庄严如妙喜，阿</find>
       <find>“得见法”说。“佛说：若人生百岁，不见生灭法，不如生一日，而能得见之。”——《付法藏因缘经·卷第二》。“人生在世，有生一日死者，有生十年死者，有生百年死者。一日死者，如一息得道；十年百年死者，如历久得道。”——《关尹子·宇》。</find>
       <find>28</find>
+      <find>、“三无漏学”等属于“德”的</find>
+      <find>阿含经 瑜伽论 摄大乘论 解脱道论</find>
+      <find>的[自相]，普遍的[共相]</find>
+      <find>这四大派，为佛教学派的大</find>
+      <find>典只有四部杂含经与一部般若经，这也就是佛陀灭度</find>
     </findStrings>
     <replaceStrings>
       <replace>上一章(A)</replace>
@@ -160,12 +160,12 @@
         <option value="$PROJECT_DIR$/content/else/friendship.html" />
         <option value="$PROJECT_DIR$/content/confucianism/yijing/data.js" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
-        <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/zhongyong/data.js" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/huayanjing/data.js" />
-        <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
+        <option value="$PROJECT_DIR$/content/summary/index.html" />
       </list>
     </option>
   </component>
@@ -182,7 +182,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
@@ -203,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -211,11 +212,28 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fofagailun" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -510,16 +528,17 @@
       <workItem from="1550725946236" duration="437000" />
       <workItem from="1550799864672" duration="285000" />
       <workItem from="1550800740796" duration="801000" />
+      <workItem from="1551228443897" duration="2039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="633048000" />
+    <option name="totallyTimeSpent" value="635087000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21137339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21405579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -868,13 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="270" column="2982" lean-forward="true" selection-start-line="270" selection-start-column="2982" selection-end-line="270" selection-end-column="2982" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/zhongyong/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -896,18 +908,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/summary/fofagailun/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="45" column="752" lean-forward="false" selection-start-line="45" selection-start-column="752" selection-end-line="45" selection-end-column="752" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/summary/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="340" column="56" lean-forward="true" selection-start-line="340" selection-start-column="56" selection-end-line="340" selection-end-column="56" />
+        <state relative-caret-position="342">
+          <caret line="118" column="152" lean-forward="true" selection-start-line="118" selection-start-column="152" selection-end-line="118" selection-end-column="152" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="171" column="31" lean-forward="true" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
+        <state relative-caret-position="456">
+          <caret line="172" column="38" lean-forward="false" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
           <folding />
         </state>
       </provider>
