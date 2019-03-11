@@ -26,8 +26,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="174" column="38" lean-forward="false" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+            <state relative-caret-position="395">
+              <caret line="116" column="62" lean-forward="false" selection-start-line="116" selection-start-column="62" selection-end-line="119" selection-end-column="101" />
               <folding>
                 <element signature="e#7796#7803#1" expanded="true" />
               </folding>
@@ -539,12 +539,12 @@
       <workItem from="1551660788766" duration="138000" />
       <workItem from="1551833641595" duration="2587000" />
       <workItem from="1552138632454" duration="712000" />
-      <workItem from="1552317753375" duration="627000" />
+      <workItem from="1552317753375" duration="831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="639713000" />
+    <option name="totallyTimeSpent" value="639917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -937,8 +937,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="174" column="38" lean-forward="false" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+        <state relative-caret-position="395">
+          <caret line="116" column="62" lean-forward="false" selection-start-line="116" selection-start-column="62" selection-end-line="119" selection-end-column="101" />
           <folding>
             <element signature="e#7796#7803#1" expanded="true" />
           </folding>
