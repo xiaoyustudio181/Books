@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>故道白云 - 全书</title>
+    <style>
+        @import "../../../dist/css/bootstrap.min.css";
+        @import "../../../css/common.css";
+        @import "../../../css/all2.css";
+    </style>
+    <script src="../../../js/jquery-3.0.0.min.js"></script>
+</head>
+<body>
+<div id="menu">
+    <p><a href="./catalog.html" class="btn btn-default" id="back">返回目录(S)</a></p>
+</div>
+<div class="container">
+    <div class="jumbotron">
+        <h1>故道白云</h1>
+    </div>
+    <div class="myfont">
+        <script src="data.js"></script>
+        <script>
+          var datum = null;
+          for (var i = 0; i < data.length; i++) {
+            datum = data[i];
+            document.write('<div class="row">\n' +
+                '            <div class="col-sm-1"></div>\n' +
+                '            <div class="col-sm-10">\n' +
+                '                <p class="chapter"> ' + datum.title + ' </p>\n' +
+                '                <p class="content">　　' + datum.content + '</p>\n' +
+                '            </div>\n' +
+                '        </div>');
+          }
+        </script>
+    </div>
+</div>
+</body>
+<script>
+  //快捷键
+  document.onkeydown = function (e) {
+    if(!e.ctrlKey){
+      if (e.key === 's') {//返回
+        document.getElementById('back').click();
+      }
+    }
+  };
+</script>
+</html>
