@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="174" column="38" lean-forward="false" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+              <caret line="171" column="27" lean-forward="false" selection-start-line="171" selection-start-column="27" selection-end-line="171" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -46,7 +46,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>五十二</find>
       <find>」</find>
       <find>』</find>
       <find>不</find>
@@ -76,6 +75,7 @@
       <find>引、监督、清醒，用本能留存的觉悟。</find>
       <find>后者属于圣哲</find>
       <find>“我的家庭</find>
+      <find>所有的比丘业</find>
     </findStrings>
     <replaceStrings>
       <replace>目录(S)</replace>
@@ -175,8 +175,8 @@
         <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/content/buddhism/fotuozhuan/catalog.html" />
-        <option value="$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js" />
       </list>
     </option>
   </component>
@@ -229,7 +229,8 @@
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -544,12 +545,12 @@
       <workItem from="1553133428526" duration="183000" />
       <workItem from="1553214814300" duration="178000" />
       <workItem from="1553382743576" duration="21000" />
-      <workItem from="1553644905681" duration="2303000" />
+      <workItem from="1553644905681" duration="3129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="646956000" />
+    <option name="totallyTimeSpent" value="647782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -925,14 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="1063" column="87" lean-forward="true" selection-start-line="1063" selection-start-column="87" selection-end-line="1063" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/fotuozhuan/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -941,10 +934,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="2907" column="78" lean-forward="false" selection-start-line="2907" selection-start-column="78" selection-end-line="2907" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="174" column="38" lean-forward="false" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+          <caret line="171" column="27" lean-forward="false" selection-start-line="171" selection-start-column="27" selection-end-line="171" selection-end-column="27" />
           <folding />
         </state>
       </provider>
