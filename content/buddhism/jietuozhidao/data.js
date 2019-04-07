@@ -109,7 +109,7 @@ var data = [
     ]
   },
   {
-    title: '第一章　四谛总说',
+    title: '四谛总说',
     data: [
       {
         title: '四谛总说',
@@ -149,7 +149,7 @@ var data = [
     ]
   },
   {
-    title: '第二章　苦谛',
+    title: '苦谛',
     data: [
       {
         title: '苦谛',
@@ -178,7 +178,7 @@ var data = [
     ]
   },
   {
-    title: '第三章　集谛',
+    title: '集谛',
     data: [
       {
         title: '缘起的定义',
@@ -211,7 +211,7 @@ var data = [
     ]
   },
   {
-    title: '第四章　灭谛',
+    title: '灭谛',
     data: [
       {
         title: '解脱者的境界',
@@ -232,7 +232,7 @@ var data = [
     ]
   },
   {
-    title: '第五章　道谛',
+    title: '道谛',
     data: [
       {
         title: '八正道体证诸法',
