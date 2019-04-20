@@ -23,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="598" column="19" lean-forward="true" selection-start-line="598" selection-start-column="19" selection-end-line="598" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="174" column="38" lean-forward="false" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+            <state relative-caret-position="16896">
+              <caret line="598" column="19" lean-forward="false" selection-start-line="598" selection-start-column="19" selection-end-line="598" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -56,7 +46,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>（</find>
       <find>离形名”说。道术讲“能忘道，乃能</find>
       <find>节省略说明的内容在《佛法概论》、《</find>
       <find>此总结</find>
@@ -86,6 +75,7 @@
       <find>这样去做了，那一种舍的体验才是如实</find>
       <find>曰∶“神何由降？明何由出？</find>
       <find>苦　　如病(果)</find>
+      <find>消灭痛苦</find>
     </findStrings>
     <replaceStrings>
       <replace>目录(S)</replace>
@@ -177,7 +167,6 @@
         <option value="$PROJECT_DIR$/content/summary/index.html" />
         <option value="$PROJECT_DIR$/css/common.css" />
         <option value="$PROJECT_DIR$/content/buddhism/fotuozhuan/catalog.html" />
-        <option value="$PROJECT_DIR$/content/summary.html" />
         <option value="$PROJECT_DIR$/content/buddhism/jietuozhidao/main.html" />
         <option value="$PROJECT_DIR$/content/buddhism/jietuozhidao/catalog.html" />
         <option value="$PROJECT_DIR$/content/friendship.html" />
@@ -187,6 +176,7 @@
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/summary.html" />
       </list>
     </option>
   </component>
@@ -223,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -232,10 +221,16 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -568,17 +563,18 @@
       <workItem from="1555471284392" duration="121000" />
       <workItem from="1555634714696" duration="255000" />
       <workItem from="1555635039972" duration="25000" />
+      <workItem from="1555720138365" duration="757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="657364000" />
+    <option name="totallyTimeSpent" value="658121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1303648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13197425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -885,13 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/jietuozhidao/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -955,10 +944,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js">
+    <entry file="file://$PROJECT_DIR$/content/summary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="598" column="19" lean-forward="true" selection-start-line="598" selection-start-column="19" selection-end-line="598" selection-end-column="19" />
+        <state relative-caret-position="504">
+          <caret line="67" column="326" lean-forward="true" selection-start-line="67" selection-start-column="326" selection-end-line="67" selection-end-column="326" />
           <folding />
         </state>
       </provider>
@@ -967,6 +956,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="174" column="38" lean-forward="false" selection-start-line="174" selection-start-column="38" selection-end-line="174" selection-end-column="38" />
+          <folding>
+            <element signature="e#7752#7759#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16896">
+          <caret line="598" column="19" lean-forward="false" selection-start-line="598" selection-start-column="19" selection-end-line="598" selection-end-column="19" />
           <folding />
         </state>
       </provider>
