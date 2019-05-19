@@ -23,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -31,6 +31,26 @@
               <folding>
                 <element signature="e#7737#7744#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="489" column="98" lean-forward="true" selection-start-line="489" selection-start-column="98" selection-end-line="489" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/buddhism/fofagailun/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="149" column="1820" lean-forward="false" selection-start-line="149" selection-start-column="1820" selection-end-line="149" selection-end-column="1820" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,7 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>后者属于圣哲</find>
       <find>“我的家庭</find>
       <find>所有的比丘业</find>
       <find>》</find>
@@ -78,6 +97,7 @@
       <find>（</find>
       <find>“聋盲见”说。“下士闻道，大笑之”(老子·第四十一章)。“知不知，尚矣；不知知，病也。圣人不病，以其病病。夫唯病病，是以不病”(老子·第七十一章)。“瞽者无以与乎文章之观，聋者无以与乎钟鼓之声。岂唯形骸有聋盲哉？夫知亦有之”(庄子·逍遥游)。“皇子以为无此物，传之者妄。萧叔曰：‘皇子果</find>
       <find>渊源</find>
+      <find>缘起支性是杂染的。世间的，</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -172,13 +192,13 @@
         <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/huangdi/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/yijing/data.js" />
-        <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/xinjing.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
         <option value="$PROJECT_DIR$/content/else/sunzibingfa/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/content/summary.html" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
+        <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
       </list>
     </option>
   </component>
@@ -215,6 +235,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,21 +253,19 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fofagailun" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -597,17 +617,18 @@
       <workItem from="1557791730777" duration="1657000" />
       <workItem from="1557883871971" duration="494000" />
       <workItem from="1558015797134" duration="505000" />
+      <workItem from="1558307923342" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="682588000" />
+    <option name="totallyTimeSpent" value="682798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14377682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14592275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -942,20 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="489" column="98" lean-forward="true" selection-start-line="489" selection-start-column="98" selection-end-line="489" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/fofagailun/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="279" column="3229" lean-forward="true" selection-start-line="279" selection-start-column="3229" selection-end-line="279" selection-end-column="3230" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/huayanjing/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
@@ -988,7 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="1291" column="120" lean-forward="true" selection-start-line="1291" selection-start-column="120" selection-end-line="1291" selection-end-column="120" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,6 +1005,22 @@
           <folding>
             <element signature="e#7737#7744#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="489" column="98" lean-forward="true" selection-start-line="489" selection-start-column="98" selection-end-line="489" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/fofagailun/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="149" column="1820" lean-forward="false" selection-start-line="149" selection-start-column="1820" selection-end-line="149" selection-end-column="1820" />
+          <folding />
         </state>
       </provider>
     </entry>
