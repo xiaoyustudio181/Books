@@ -38,8 +38,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="197" column="296" lean-forward="false" selection-start-line="197" selection-start-column="296" selection-end-line="197" selection-end-column="296" />
+            <state relative-caret-position="470">
+              <caret line="211" column="274" lean-forward="true" selection-start-line="211" selection-start-column="274" selection-end-line="211" selection-end-column="274" />
               <folding />
             </state>
           </provider>
@@ -68,7 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>引用</find>
       <find>30</find>
       <find>万物与我为一。”(庄子·齐物论)</find>
       <find>（有时）大国谦下以会聚</find>
@@ -98,6 +97,7 @@
       <find>巳不足</find>
       <find>巳</find>
       <find>　　　虽复百千生，终不堕恶趣。</find>
+      <find>辨者不能说服</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -196,9 +196,9 @@
         <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/data.js" />
-        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js" />
+        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
       </list>
     </option>
   </component>
@@ -654,12 +654,12 @@
       <workItem from="1565488488714" duration="59000" />
       <workItem from="1565657279458" duration="34000" />
       <workItem from="1565870461628" duration="648000" />
-      <workItem from="1565919405183" duration="434000" />
+      <workItem from="1565919405183" duration="891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="695332000" />
+    <option name="totallyTimeSpent" value="695789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1049,8 +1049,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="197" column="296" lean-forward="false" selection-start-line="197" selection-start-column="296" selection-end-line="197" selection-end-column="296" />
+        <state relative-caret-position="470">
+          <caret line="211" column="274" lean-forward="true" selection-start-line="211" selection-start-column="274" selection-end-line="211" selection-end-column="274" />
           <folding />
         </state>
       </provider>
