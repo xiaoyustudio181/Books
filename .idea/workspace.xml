@@ -38,8 +38,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="222" column="158" lean-forward="false" selection-start-line="222" selection-start-column="158" selection-end-line="222" selection-end-column="158" />
+            <state relative-caret-position="318">
+              <caret line="227" column="104" lean-forward="false" selection-start-line="227" selection-start-column="104" selection-end-line="227" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -68,7 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>30</find>
       <find>万物与我为一。”(庄子·齐物论)</find>
       <find>（有时）大国谦下以会聚</find>
       <find>(</find>
@@ -98,6 +97,7 @@
       <find>巳</find>
       <find>　　　虽复百千生，终不堕恶趣。</find>
       <find>辨者不能说服</find>
+      <find>每曰</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -235,8 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,6 +270,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -656,17 +656,18 @@
       <workItem from="1565870461628" duration="648000" />
       <workItem from="1565919405183" duration="989000" />
       <workItem from="1566176811919" duration="245000" />
+      <workItem from="1566255207538" duration="534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="696132000" />
+    <option name="totallyTimeSpent" value="696666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2247854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22800429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1050,8 +1051,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="222" column="158" lean-forward="false" selection-start-line="222" selection-start-column="158" selection-end-line="222" selection-end-column="158" />
+        <state relative-caret-position="318">
+          <caret line="227" column="104" lean-forward="false" selection-start-line="227" selection-start-column="104" selection-end-line="227" selection-end-column="104" />
           <folding />
         </state>
       </provider>
