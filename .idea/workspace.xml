@@ -26,8 +26,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="282" column="24" lean-forward="false" selection-start-line="282" selection-start-column="24" selection-end-line="282" selection-end-column="24" />
+            <state relative-caret-position="8160">
+              <caret line="337" column="268" lean-forward="false" selection-start-line="337" selection-start-column="268" selection-end-line="337" selection-end-column="268" />
               <folding />
             </state>
           </provider>
@@ -36,8 +36,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="133" column="73" lean-forward="false" selection-start-line="133" selection-start-column="73" selection-end-line="133" selection-end-column="73" />
+            <state relative-caret-position="744">
+              <caret line="170" column="17" lean-forward="false" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -56,11 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>（</find>
-      <find>“聋盲见”说。“下士闻道，大笑之”(老子·第四十一章)。“知不知，尚矣；不知知，病也。圣人不病，以其病病。夫唯病病，是以不病”(老子·第七十一章)。“瞽者无以与乎文章之观，聋者无以与乎钟鼓之声。岂唯形骸有聋盲哉？夫知亦有之”(庄子·逍遥游)。“皇子以为无此物，传之者妄。萧叔曰：‘皇子果</find>
-      <find>渊源</find>
-      <find>缘起支性是杂染的。世间的，</find>
-      <find>恶鬼</find>
       <find>b、彼彼喜乐爱：未来欲得的</find>
       <find>道德盛则鬼神助信。《亢仓子·用道》</find>
       <find>生命比起来哪一样亲切？生</find>
@@ -86,6 +81,11 @@
       <find>(这样做就可以算是尽孝了。</find>
       <find>会、新发现、</find>
       <find>把这孝悌的道理施于政事</find>
+      <find>就不会去享受的</find>
+      <find>人们的错误，总是与他那个集团的人所犯错误性质是一样的。所以，考察一个人所犯的错误，就可以知道他没有仁德了。</find>
+      <find>）</find>
+      <find>士有志于(学习和实行圣人的)道理，但又以自己吃穿得不好为耻辱，对这种人，是不值得与他谈论道的。读书人立志于追求真埋，但又以穿破衣、吃粗糙的饭食为耻，这种人就不值得和他谈论真理了。</find>
+      <find>以后，也是可以预先知道的</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -179,13 +179,13 @@
         <option value="$PROJECT_DIR$/content/summary.html" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/main.html" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/all.html" />
-        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/catalog.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/main.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/all.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/catalog.html" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/data.js" />
       </list>
     </option>
@@ -203,7 +203,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -223,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,7 +260,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -661,17 +661,19 @@
       <workItem from="1567733083384" duration="13186000" />
       <workItem from="1567822268985" duration="1726000" />
       <workItem from="1567902000522" duration="3713000" />
+      <workItem from="1567983131254" duration="4170000" />
+      <workItem from="1568030836693" duration="4209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="737058000" />
+    <option name="totallyTimeSpent" value="745437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15182403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15611587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1007,14 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="282" column="24" lean-forward="false" selection-start-line="282" selection-start-column="24" selection-end-line="282" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -1047,14 +1041,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8160">
+          <caret line="337" column="268" lean-forward="false" selection-start-line="337" selection-start-column="268" selection-end-line="337" selection-end-column="268" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="133" column="73" lean-forward="false" selection-start-line="133" selection-start-column="73" selection-end-line="133" selection-end-column="73" />
+        <state relative-caret-position="744">
+          <caret line="170" column="17" lean-forward="false" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
           <folding />
         </state>
       </provider>
