@@ -36,8 +36,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="170" column="17" lean-forward="false" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
+            <state relative-caret-position="486">
+              <caret line="241" column="24" lean-forward="false" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -56,11 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>b、彼彼喜乐爱：未来欲得的</find>
-      <find>道德盛则鬼神助信。《亢仓子·用道》</find>
-      <find>生命比起来哪一样亲切？生</find>
-      <find>喋喋</find>
-      <find>邪佞之入都惧怕他，因为他</find>
       <find>但沙子和石头污染了它．人的本性</find>
       <find>包惠群</find>
       <find>。归结到根本，功成而不据功为已有</find>
@@ -86,6 +81,11 @@
       <find>）</find>
       <find>士有志于(学习和实行圣人的)道理，但又以自己吃穿得不好为耻辱，对这种人，是不值得与他谈论道的。读书人立志于追求真埋，但又以穿破衣、吃粗糙的饭食为耻，这种人就不值得和他谈论真理了。</find>
       <find>以后，也是可以预先知道的</find>
+      <find>享受“贫困和卑</find>
+      <find>的途径摆税它们</find>
+      <find>则，在颠沛流离的时也和</find>
+      <find>人有仁德，但没有囗才</find>
+      <find>孔子对子贡说：“你和颜回相比，个</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -223,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,6 +259,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,17 +663,19 @@
       <workItem from="1567902000522" duration="3713000" />
       <workItem from="1567983131254" duration="4170000" />
       <workItem from="1568030836693" duration="4209000" />
+      <workItem from="1568072398982" duration="2757000" />
+      <workItem from="1568077498382" duration="2478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="745437000" />
+    <option name="totallyTimeSpent" value="750672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15611587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16040772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1054,8 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="170" column="17" lean-forward="false" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
+        <state relative-caret-position="486">
+          <caret line="241" column="24" lean-forward="false" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
           <folding />
         </state>
       </provider>
