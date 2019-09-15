@@ -26,8 +26,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8160">
-              <caret line="337" column="268" lean-forward="false" selection-start-line="337" selection-start-column="268" selection-end-line="337" selection-end-column="268" />
+            <state relative-caret-position="120">
+              <caret line="342" column="90" lean-forward="true" selection-start-line="342" selection-start-column="90" selection-end-line="342" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -36,8 +36,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="241" column="24" lean-forward="false" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
+            <state relative-caret-position="678">
+              <caret line="395" column="11" lean-forward="false" selection-start-line="395" selection-start-column="11" selection-end-line="395" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -56,11 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>但沙子和石头污染了它．人的本性</find>
-      <find>包惠群</find>
-      <find>。归结到根本，功成而不据功为已有</find>
-      <find>庆辛</find>
-      <find>神早已被外物所牵累，早巳</find>
       <find>一付</find>
       <find>以财务为例</find>
       <find>方也是裉遥远</find>
@@ -78,7 +73,6 @@
       <find>把这孝悌的道理施于政事</find>
       <find>就不会去享受的</find>
       <find>人们的错误，总是与他那个集团的人所犯错误性质是一样的。所以，考察一个人所犯的错误，就可以知道他没有仁德了。</find>
-      <find>）</find>
       <find>士有志于(学习和实行圣人的)道理，但又以自己吃穿得不好为耻辱，对这种人，是不值得与他谈论道的。读书人立志于追求真埋，但又以穿破衣、吃粗糙的饭食为耻，这种人就不值得和他谈论真理了。</find>
       <find>以后，也是可以预先知道的</find>
       <find>享受“贫困和卑</find>
@@ -86,6 +80,12 @@
       <find>则，在颠沛流离的时也和</find>
       <find>人有仁德，但没有囗才</find>
       <find>孔子对子贡说：“你和颜回相比，个</find>
+      <find>口才</find>
+      <find>约：”仲弓说：“如果态度严</find>
+      <find>）</find>
+      <find>'端木赐呀，通情达</find>
+      <find>陷人井中</find>
+      <find>孔子所谨慎小心对待的事有三件．斋戒，战争，疾病。</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -223,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,7 +259,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -665,17 +665,21 @@
       <workItem from="1568030836693" duration="4209000" />
       <workItem from="1568072398982" duration="2757000" />
       <workItem from="1568077498382" duration="2478000" />
+      <workItem from="1568158733283" duration="713000" />
+      <workItem from="1568199880919" duration="4555000" />
+      <workItem from="1568258166067" duration="2568000" />
+      <workItem from="1568510089505" duration="3907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="750672000" />
+    <option name="totallyTimeSpent" value="762415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16040772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16899142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1048,16 +1052,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8160">
-          <caret line="337" column="268" lean-forward="false" selection-start-line="337" selection-start-column="268" selection-end-line="337" selection-end-column="268" />
+        <state relative-caret-position="120">
+          <caret line="342" column="90" lean-forward="true" selection-start-line="342" selection-start-column="90" selection-end-line="342" selection-end-column="90" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="241" column="24" lean-forward="false" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
+        <state relative-caret-position="678">
+          <caret line="395" column="11" lean-forward="false" selection-start-line="395" selection-start-column="11" selection-end-line="395" selection-end-column="11" />
           <folding />
         </state>
       </provider>
