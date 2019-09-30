@@ -26,8 +26,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10608">
-              <caret line="438" column="8" lean-forward="false" selection-start-line="438" selection-start-column="8" selection-end-line="438" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="442" column="240" lean-forward="false" selection-start-line="442" selection-start-column="240" selection-end-line="442" selection-end-column="240" />
               <folding />
             </state>
           </provider>
@@ -36,18 +36,28 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="785" column="62" lean-forward="false" selection-start-line="785" selection-start-column="62" selection-end-line="785" selection-end-column="62" />
+            <state relative-caret-position="342">
+              <caret line="791" column="24" lean-forward="false" selection-start-line="791" selection-start-column="24" selection-end-line="791" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/taoism/laozi/data.js">
+      <file leaf-file-name="summary.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/summary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="226" column="42" lean-forward="false" selection-start-line="226" selection-start-column="42" selection-end-line="226" selection-end-column="42" />
+            <state relative-caret-position="384">
+              <caret line="77" column="247" lean-forward="false" selection-start-line="77" selection-start-column="247" selection-end-line="77" selection-end-column="247" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="170" column="34" lean-forward="false" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -66,19 +76,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>会、新发现、</find>
-      <find>把这孝悌的道理施于政事</find>
-      <find>就不会去享受的</find>
-      <find>人们的错误，总是与他那个集团的人所犯错误性质是一样的。所以，考察一个人所犯的错误，就可以知道他没有仁德了。</find>
-      <find>士有志于(学习和实行圣人的)道理，但又以自己吃穿得不好为耻辱，对这种人，是不值得与他谈论道的。读书人立志于追求真埋，但又以穿破衣、吃粗糙的饭食为耻，这种人就不值得和他谈论真理了。</find>
-      <find>以后，也是可以预先知道的</find>
-      <find>享受“贫困和卑</find>
-      <find>的途径摆税它们</find>
-      <find>则，在颠沛流离的时也和</find>
-      <find>人有仁德，但没有囗才</find>
-      <find>孔子对子贡说：“你和颜回相比，个</find>
-      <find>口才</find>
-      <find>约：”仲弓说：“如果态度严</find>
       <find>）</find>
       <find>'端木赐呀，通情达</find>
       <find>陷人井中</find>
@@ -96,6 +93,19 @@
       <find>”把持它的人，就会看见它的小的，</find>
       <find>回答。 南宫适</find>
       <find>，所有有道的人不这样做。</find>
+      <find>能不以勤劳相劝勉吗</find>
+      <find>！他呀！” 问到管</find>
+      <find>的人。” 问到</find>
+      <find>相粮</find>
+      <find>佛法三法印“无常、无我、涅槃(无生)”[36]揭示了宇宙真理与解脱之</find>
+      <find>26</find>
+      <find>夫物芸芸，各归其根。归根曰「静」，</find>
+      <find>无为而尊者，天道也；有为而累者，人道也。主者，天道</find>
+      <find>从事于道者，同于道；德者，同于德；失者，同于失</find>
+      <find>是通性(因果同一性)，是必然</find>
+      <find>大道废，有仁义；智慧出，有大伪；六亲不和，有孝慈；</find>
+      <find>、宇宙即幻，合于“有生于无”的道理</find>
+      <find>梦饮酒者，旦而哭泣；梦哭泣者，旦而田</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -184,19 +194,19 @@
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js" />
-        <option value="$PROJECT_DIR$/content/summary.html" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/main.html" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/catalog.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/main.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/all.html" />
-        <option value="$PROJECT_DIR$/content/confucianism/lunyu/catalog.html" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
+        <option value="$PROJECT_DIR$/content/taoism/laozi/data.js" />
+        <option value="$PROJECT_DIR$/content/confucianism/lunyu/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/data.js" />
-        <option value="$PROJECT_DIR$/content/taoism/laozi/data.js" />
+        <option value="$PROJECT_DIR$/content/summary.html" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -234,6 +244,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,24 +257,10 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="laozi" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -685,28 +682,32 @@
       <workItem from="1569506889576" duration="470000" />
       <workItem from="1569634053750" duration="1962000" />
       <workItem from="1569713370138" duration="1544000" />
-      <workItem from="1569766654542" duration="59000" />
+      <workItem from="1569766654542" duration="1806000" />
+      <workItem from="1569768737691" duration="6000" />
+      <workItem from="1569768770482" duration="2000" />
+      <workItem from="1569810695829" duration="1730000" />
+      <workItem from="1569854876219" duration="1787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="781118000" />
+    <option name="totallyTimeSpent" value="786390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09549356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09978541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -990,13 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/summary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="263" column="16" lean-forward="true" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/duihuaji/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="755">
@@ -1018,24 +1012,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="84" column="60" lean-forward="true" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1060,26 +1040,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/laozi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="226" column="42" lean-forward="false" selection-start-line="226" selection-start-column="42" selection-end-line="226" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10608">
-          <caret line="438" column="8" lean-forward="false" selection-start-line="438" selection-start-column="8" selection-end-line="438" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="442" column="240" lean-forward="false" selection-start-line="442" selection-start-column="240" selection-end-line="442" selection-end-column="240" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="785" column="62" lean-forward="false" selection-start-line="785" selection-start-column="62" selection-end-line="785" selection-end-column="62" />
+        <state relative-caret-position="342">
+          <caret line="791" column="24" lean-forward="false" selection-start-line="791" selection-start-column="24" selection-end-line="791" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/laozi/data.js">
+    <entry file="file://$PROJECT_DIR$/content/summary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="226" column="42" lean-forward="false" selection-start-line="226" selection-start-column="42" selection-end-line="226" selection-end-column="42" />
+        <state relative-caret-position="384">
+          <caret line="77" column="247" lean-forward="false" selection-start-line="77" selection-start-column="247" selection-end-line="77" selection-end-column="247" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="170" column="34" lean-forward="false" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
           <folding />
         </state>
       </provider>
