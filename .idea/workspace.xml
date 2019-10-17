@@ -23,11 +23,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="442" column="240" lean-forward="false" selection-start-line="442" selection-start-column="240" selection-end-line="442" selection-end-column="240" />
+            <state relative-caret-position="294">
+              <caret line="505" column="8" lean-forward="true" selection-start-line="505" selection-start-column="8" selection-end-line="505" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/taoism/laozi/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/taoism/guanyin/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="65" column="97" lean-forward="false" selection-start-line="65" selection-start-column="97" selection-end-line="65" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -46,8 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>品如风，小人的品如草。</find>
-      <find>唯的呢？如果不</find>
       <find>气之所自生者如摇箑得风。彼</find>
       <find>”把持它的人，就会看见它的小的，</find>
       <find>回答。 南宫适</find>
@@ -76,6 +94,8 @@
       <find>。” 孔子说：“坐！我</find>
       <find>险呀！” 孔子下车</find>
       <find>？” 子夏听到</find>
+      <find>老子说：“自天子以下至于庶民百姓，各</find>
+      <find>还从来波有过啊</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -170,13 +190,13 @@
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/catalog.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/main.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/all.html" />
-        <option value="$PROJECT_DIR$/content/taoism/laozi/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/catalog.html" />
-        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/summary.html" />
-        <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
+        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
+        <option value="$PROJECT_DIR$/content/taoism/laozi/data.js" />
       </list>
     </option>
   </component>
@@ -224,6 +244,19 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="laozi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -661,16 +694,23 @@
       <workItem from="1569936799478" duration="3126000" />
       <workItem from="1570072490472" duration="147000" />
       <workItem from="1570154668066" duration="11316000" />
+      <workItem from="1570360525844" duration="1875000" />
+      <workItem from="1570410303556" duration="354000" />
+      <workItem from="1570583436909" duration="811000" />
+      <workItem from="1570933340122" duration="743000" />
+      <workItem from="1571191787335" duration="1694000" />
+      <workItem from="1571322770204" duration="640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803024000" />
+    <option name="totallyTimeSpent" value="809141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10407725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.112124465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1006,13 +1046,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/laozi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="226" column="42" lean-forward="false" selection-start-line="226" selection-start-column="42" selection-end-line="226" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1027,19 +1060,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/guanyin/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="553">
           <caret line="1084" column="39" lean-forward="false" selection-start-line="1084" selection-start-column="39" selection-end-line="1084" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,14 +1071,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="167" column="31" lean-forward="false" selection-start-line="167" selection-start-column="31" selection-end-line="167" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/guanyin/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="65" column="97" lean-forward="false" selection-start-line="65" selection-start-column="97" selection-end-line="65" selection-end-column="97" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="442" column="240" lean-forward="false" selection-start-line="442" selection-start-column="240" selection-end-line="442" selection-end-column="240" />
+        <state relative-caret-position="294">
+          <caret line="505" column="8" lean-forward="true" selection-start-line="505" selection-start-column="8" selection-end-line="505" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/laozi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding />
         </state>
       </provider>
