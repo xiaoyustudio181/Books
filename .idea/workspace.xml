@@ -26,30 +26,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="624" column="190" lean-forward="false" selection-start-line="624" selection-start-column="190" selection-end-line="624" selection-end-column="190" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4056">
-              <caret line="169" column="31" lean-forward="false" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
-              <folding>
-                <element signature="e#7726#7733#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="player.html" pinned="false" current-in-tab="false">
-        <entry file="file://F:/hiphop 分解视频/player.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="294">
+              <caret line="789" column="478" lean-forward="false" selection-start-line="789" selection-start-column="478" selection-end-line="789" selection-end-column="478" />
               <folding />
             </state>
           </provider>
@@ -68,14 +46,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>。” 孔子说：“坐！我</find>
-      <find>险呀！” 孔子下车</find>
-      <find>？” 子夏听到</find>
-      <find>老子说：“自天子以下至于庶民百姓，各</find>
-      <find>还从来波有过啊</find>
-      <find>洞察一句话的含义。</find>
-      <find>体内阴阳两气失调入</find>
-      <find>听于无声，获得所见所闻。飞乌</find>
       <find>活，在当时的社会环境中，可说是非常适当的辨法。</find>
       <find>不循规规</find>
       <find>“纯白就好像染了污黑，广大的德就好像不足。”只</find>
@@ -98,6 +68,14 @@
       <find>少智者，不为人所劳，少能者，不为人所役</find>
       <find>闻道之后，有所为有所执者，</find>
       <find>非有道不可言，不可言即道，</find>
+      <find>近的人喜悦，远方的</find>
+      <find>动前来。与人民同欲即</find>
+      <find>所善长的工具适合于他</find>
+      <find>老子说：善于治理国家的人，不改变旧有的东西，不改变固有的规律。发怒而用兵是违背道德的，兵这个东西是凶恶不祥之器，争斗是人民所以动乱的原因。兵谋违背道德，好用凶恶不祥之器，来治理人民的动乱，可以说是到了违背的顶点啊。不加祸于人就不能祸及自己，所以，不如摧毁凶锐之器，和解其纷争，与天下万物和光同尘。人之本性，都认为自己好而嫉妒不如别人，认为自已好则争强好胜之心就产生，嫉妒不如别人怨恨争斗就产生。怨恨争斗就会使心意迷乱而逆气，所以古代圣明的君主退却争斗怨恨，争斗怨恨不产生就会使心意得治而气顺。所以说：“不标榜贤能，使人民不争求功名。”</find>
+      <find>而相互不能自己，就不和谐</find>
+      <find>离身而去。于天地</find>
+      <find>去了所善长的职业就会变得</find>
+      <find>不可以奉为作人</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -148,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/buddhism/huayanjing/main.html" />
-        <option value="$PROJECT_DIR$/content/buddhism/dizangjing/all.html" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/catalog.html" />
         <option value="$PROJECT_DIR$/content/buddhism/dizangjing/main.html" />
         <option value="$PROJECT_DIR$/content/buddhism/yaoshijing.html" />
@@ -193,11 +169,13 @@
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/catalog.html" />
         <option value="$PROJECT_DIR$/content/confucianism/lunyu/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/laozi/data.js" />
-        <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
         <option value="F:/hiphop 分解视频/player.html" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
         <option value="$PROJECT_DIR$/content/summary.html" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
+        <option value="F:/我的街舞/player.html" />
+        <option value="G:/GenerateCodes/Generate.html" />
         <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
       </list>
     </option>
@@ -215,7 +193,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -236,7 +214,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,10 +226,24 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="buddhism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fofagailun" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -710,18 +701,28 @@
       <workItem from="1572918893553" duration="3539000" />
       <workItem from="1573215312699" duration="1500000" />
       <workItem from="1573353196943" duration="93000" />
-      <workItem from="1573427090140" duration="167000" />
+      <workItem from="1573427090140" duration="229000" />
+      <workItem from="1573953534176" duration="623000" />
+      <workItem from="1574118612375" duration="456000" />
+      <workItem from="1574260229452" duration="158000" />
+      <workItem from="1574641821193" duration="653000" />
+      <workItem from="1574985717377" duration="1692000" />
+      <workItem from="1575597954676" duration="13000" />
+      <workItem from="1575848499572" duration="74000" />
+      <workItem from="1576023618116" duration="468000" />
+      <workItem from="1576111188867" duration="456000" />
+      <workItem from="1576283316693" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829145000" />
+    <option name="totallyTimeSpent" value="834911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15236051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17381974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -761,20 +762,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/all.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/dizangjing/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-325">
@@ -1064,13 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/buddhism/fofagailun/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="223" column="1705" lean-forward="false" selection-start-line="223" selection-start-column="1705" selection-end-line="223" selection-end-column="1705" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/guanyin/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1085,28 +1065,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://F:/hiphop 分解视频/player.html" />
+    <entry file="file://F:/我的街舞/player.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4056">
-          <caret line="169" column="31" lean-forward="false" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
-          <folding>
-            <element signature="e#7726#7733#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/hiphop 分解视频/player.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="168">
+          <caret line="175" column="36" lean-forward="true" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/buddhism/fofagailun/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="171" column="74" lean-forward="false" selection-start-line="171" selection-start-column="74" selection-end-line="171" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/GenerateCodes/Generate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" column="64" lean-forward="true" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="624" column="190" lean-forward="false" selection-start-line="624" selection-start-column="190" selection-end-line="624" selection-end-column="190" />
+        <state relative-caret-position="294">
+          <caret line="789" column="478" lean-forward="false" selection-start-line="789" selection-start-column="478" selection-end-line="789" selection-end-column="478" />
           <folding />
         </state>
       </provider>
