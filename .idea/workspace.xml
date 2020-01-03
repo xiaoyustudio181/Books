@@ -22,28 +22,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="814" column="801" lean-forward="false" selection-start-line="814" selection-start-column="801" selection-end-line="814" selection-end-column="801" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="172" column="50" lean-forward="false" selection-start-line="172" selection-start-column="50" selection-end-line="172" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,14 +35,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>曰：五行之运，因精有魂，因魂有神，因神有意，因意有魄，因魄有精。五行回环不已，所以我之伪心流转造化，几亿万岁，未有穷极，然核芽相生，不知其几万株，天地虽大，不能芽空中之核。雌卵相生，不知其几万禽，阴阳虽妙，不能卵无雄之雌。惟其来于我者，皆摄之以一息，则变物为我，无物非我，所谓五行者，孰能变之？</find>
-      <find>吸气以养精，如金生水，吸</find>
-      <find>流者舟也，所以流之者是水非舟</find>
-      <find>天下之理，小不制而至于大，大不制而至于不可制，故能制一情者，可以成德，能忘一情者，可以契道。</find>
-      <find>可以忘我</find>
-      <find>关尹子曰：世之人，以我思异彼思彼思异我思分人我者，殊不知梦中人亦我思异彼思。彼思异我思，孰为我，孰为人。世之人，以我痛异彼痛彼痛异我痛分人我者，殊不知梦中人亦我痛异彼痛，彼痛异我痛，孰为我，孰为人。爪发不痛，手足不思，亦我也，岂可以思痛异之。世之人，以独见者为梦，同见者为觉，殊不知精之所结，亦有一人独见于昼</find>
-      <find>犹弃发可换，所以分形，</find>
-      <find>天下之理轻者易化，重</find>
       <find>的混沌状态。是无</find>
       <find>有之在彼，无之在此，鼓不桴则不鸣，</find>
       <find>亦不见远，闻</find>
@@ -86,6 +57,14 @@
       <find>姓一样。郑国发生了饥荒，列于</find>
       <find>不凡与邻近国家</find>
       <find>是的”</find>
+      <find>☆</find>
+      <find>同与道</find>
+      <find>老子曰：治理大国，不可以</find>
+      <find>就承受了天和地殖之德，</find>
+      <find>所以善于审察自身的人，不去责备别人，</find>
+      <find>酉姓送给你，</find>
+      <find>涤渊</find>
+      <find>贤能的人做得太过分：不贤的人根本做不到。</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -144,7 +123,6 @@
         <option value="$PROJECT_DIR$/content/buddhism/lengyanjing/main.html" />
         <option value="$PROJECT_DIR$/1.html" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/catalog.html" />
-        <option value="$PROJECT_DIR$/content/confucianism/zhongyong/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/huayanjing/data.js" />
         <option value="$PROJECT_DIR$/content/summary/fofagailun/data.js" />
         <option value="$PROJECT_DIR$/content/else/friendship.html" />
@@ -184,9 +162,10 @@
         <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
         <option value="F:/我的街舞/player.html" />
         <option value="G:/GenerateCodes/Generate.html" />
-        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/liezi/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
+        <option value="$PROJECT_DIR$/content/taoism/wenzi/data.js" />
+        <option value="$PROJECT_DIR$/content/confucianism/zhongyong/data.js" />
       </list>
     </option>
   </component>
@@ -223,8 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,14 +220,14 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="confucianism" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="confucianism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zhongyong" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -726,17 +705,22 @@
       <workItem from="1576970966181" duration="1280000" />
       <workItem from="1577283076035" duration="169000" />
       <workItem from="1577318601029" duration="622000" />
+      <workItem from="1577401106309" duration="703000" />
+      <workItem from="1577579042721" duration="683000" />
+      <workItem from="1577661583794" duration="1209000" />
+      <workItem from="1577838236486" duration="722000" />
+      <workItem from="1577924099138" duration="643000" />
+      <workItem from="1578011884219" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="837279000" />
+    <option name="totallyTimeSpent" value="841447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18293992" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19903433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -900,13 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/confucianism/zhongyong/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="218" column="18" lean-forward="true" selection-start-line="218" selection-start-column="18" selection-end-line="218" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1101,18 +1078,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
+    <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="814" column="801" lean-forward="false" selection-start-line="814" selection-start-column="801" selection-end-line="814" selection-end-column="801" />
+        <state relative-caret-position="755">
+          <caret line="177" column="17" lean-forward="false" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
+    <entry file="file://$PROJECT_DIR$/content/confucianism/zhongyong/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="172" column="50" lean-forward="false" selection-start-line="172" selection-start-column="50" selection-end-line="172" selection-end-column="50" />
+        <state relative-caret-position="198">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/wenzi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="884" column="1752" lean-forward="true" selection-start-line="884" selection-start-column="1752" selection-end-line="884" selection-end-column="1752" />
           <folding />
         </state>
       </provider>
