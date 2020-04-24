@@ -26,8 +26,8 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/else/guiguzi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="216" column="20" lean-forward="true" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="216" column="20" lean-forward="false" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -56,8 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>，故久德交者，则有是非贤愚矣。故或合或离，事交者合则离。</find>
-      <find>用之当，桔梗芣卫生之，</find>
       <find>事言有理，</find>
       <find>少智者，不为人所劳，少能者，不为人所役</find>
       <find>闻道之后，有所为有所执者，</find>
@@ -86,6 +84,8 @@
       <find>凡是体道之人，都堵塞邪辟的</find>
       <find>守信的人，我信任他；不守信的人，我也信任他，这就可是人人守信。</find>
       <find>乌兽虫蛇，皆为民害</find>
+      <find>如。所以，善于指挥的作战的人所造成的有利态势，就像将</find>
+      <find>退而不可追者</find>
     </findStrings>
     <replaceStrings>
       <replace>content:&quot;</replace>
@@ -160,7 +160,6 @@
         <option value="$PROJECT_DIR$/content/confucianism/yijing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/xinjing.html" />
         <option value="$PROJECT_DIR$/content/else/shanhaijing/data.js" />
-        <option value="$PROJECT_DIR$/content/else/sunzibingfa/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/zaahanjing/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/jietuozhidao/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/duihuaji/main.html" />
@@ -187,6 +186,7 @@
         <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
         <option value="$PROJECT_DIR$/content/else/guiguzi/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
+        <option value="$PROJECT_DIR$/content/else/sunzibingfa/data.js" />
       </list>
     </option>
   </component>
@@ -223,6 +223,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,21 +241,19 @@
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Books" type="b2602c69:ProjectViewProjectNode" />
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="else" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sunzibingfa" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -751,17 +751,19 @@
       <workItem from="1580470545983" duration="698000" />
       <workItem from="1580646722923" duration="268000" />
       <workItem from="1581203916894" duration="234000" />
+      <workItem from="1583403977821" duration="1000" />
+      <workItem from="1584418534487" duration="902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="846413000" />
+    <option name="totallyTimeSpent" value="847316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25804722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26555794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1012,13 +1014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/else/sunzibingfa/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="84" column="90" lean-forward="true" selection-start-line="84" selection-start-column="90" selection-end-line="84" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/lunyu/all.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -1134,8 +1129,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/else/guiguzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="216" column="20" lean-forward="true" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="216" column="20" lean-forward="false" selection-start-line="216" selection-start-column="20" selection-end-line="216" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/else/sunzibingfa/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
           <folding />
         </state>
       </provider>
