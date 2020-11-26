@@ -26,39 +26,9 @@
       <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/confucianism/shijing/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9072">
+            <state relative-caret-position="16224">
               <caret line="676" column="29" lean-forward="false" selection-start-line="676" selection-start-column="29" selection-end-line="676" selection-end-column="29" />
-              <folding>
-                <element signature="e#15#7041#0" expanded="false" />
-                <element signature="e#15885#16085#0" expanded="false" />
-                <element signature="e#16089#16289#0" expanded="false" />
-                <element signature="e#16293#16493#0" expanded="false" />
-                <element signature="e#16497#16697#0" expanded="false" />
-                <element signature="e#16701#16901#0" expanded="false" />
-                <element signature="e#16905#17105#0" expanded="false" />
-                <element signature="e#17109#17309#0" expanded="false" />
-                <element signature="e#17313#17513#0" expanded="false" />
-                <element signature="e#17517#17717#0" expanded="false" />
-                <element signature="e#17721#17921#0" expanded="false" />
-                <element signature="e#17925#18125#0" expanded="false" />
-                <element signature="e#18129#18329#0" expanded="false" />
-                <element signature="e#18333#18533#0" expanded="false" />
-                <element signature="e#18537#18737#0" expanded="false" />
-                <element signature="e#18741#18941#0" expanded="false" />
-                <element signature="e#18945#19145#0" expanded="false" />
-                <element signature="e#19149#19349#0" expanded="false" />
-                <element signature="e#19353#19553#0" expanded="false" />
-                <element signature="e#19557#19757#0" expanded="false" />
-                <element signature="e#19761#19961#0" expanded="false" />
-                <element signature="e#19965#20165#0" expanded="false" />
-                <element signature="e#20169#20369#0" expanded="false" />
-                <element signature="e#20373#20573#0" expanded="false" />
-                <element signature="e#20577#20777#0" expanded="false" />
-                <element signature="e#20781#20981#0" expanded="false" />
-                <element signature="e#20985#21185#0" expanded="false" />
-                <element signature="e#21189#21389#0" expanded="false" />
-                <element signature="e#21393#21593#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,11 +55,21 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="190" column="45" lean-forward="false" selection-start-line="190" selection-start-column="45" selection-end-line="190" selection-end-column="45" />
+            <state relative-caret-position="179">
+              <caret line="172" column="25" lean-forward="true" selection-start-line="172" selection-start-column="25" selection-end-line="172" selection-end-column="25" />
               <folding>
                 <element signature="e#8026#8033#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="37" column="807" lean-forward="false" selection-start-line="37" selection-start-column="807" selection-end-line="37" selection-end-column="807" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +87,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>不凡与邻近国家</find>
       <find>是的”</find>
       <find>☆</find>
       <find>同与道</find>
@@ -137,6 +116,7 @@
       <find>市集、水牛</find>
       <find>我是坚强的！我要靠自己！」从</find>
       <find>十种如金刚大乘誓愿心。若诸菩萨安住此法，则得如来金刚性无上大神通智</find>
+      <find>的人也会跟他们一样有老师哩。</find>
     </findStrings>
     <replaceStrings>
       <replace>，</replace>
@@ -218,7 +198,6 @@
         <option value="$PROJECT_DIR$/content/else/guiguzi/main.html" />
         <option value="$PROJECT_DIR$/content/else/guiguzi/catalog.html" />
         <option value="$PROJECT_DIR$/content/else/guiguzi/all.html" />
-        <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/content/else/sunzibingfa/data.js" />
         <option value="$PROJECT_DIR$/content/else/guiguzi/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/jinrenming/all.html" />
@@ -237,6 +216,7 @@
         <option value="$PROJECT_DIR$/content/confucianism/shijing/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/guanyin/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/kangcangzi/data.js" />
+        <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
@@ -274,7 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,11 +272,19 @@
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -830,17 +817,20 @@
       <workItem from="1606140721414" duration="645000" />
       <workItem from="1606145464736" duration="232000" />
       <workItem from="1606145922966" duration="6000" />
+      <workItem from="1606229653777" duration="130000" />
+      <workItem from="1606395673842" duration="37000" />
+      <workItem from="1606396358674" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="857728000" />
+    <option name="totallyTimeSpent" value="857907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24195279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25160944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1052,13 +1042,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="616" lean-forward="true" selection-start-line="6" selection-start-column="616" selection-end-line="6" selection-end-column="616" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/else/guiguzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -1194,39 +1177,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/confucianism/shijing/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9072">
+        <state relative-caret-position="16224">
           <caret line="676" column="29" lean-forward="false" selection-start-line="676" selection-start-column="29" selection-end-line="676" selection-end-column="29" />
-          <folding>
-            <element signature="e#15#7041#0" expanded="false" />
-            <element signature="e#15885#16085#0" expanded="false" />
-            <element signature="e#16089#16289#0" expanded="false" />
-            <element signature="e#16293#16493#0" expanded="false" />
-            <element signature="e#16497#16697#0" expanded="false" />
-            <element signature="e#16701#16901#0" expanded="false" />
-            <element signature="e#16905#17105#0" expanded="false" />
-            <element signature="e#17109#17309#0" expanded="false" />
-            <element signature="e#17313#17513#0" expanded="false" />
-            <element signature="e#17517#17717#0" expanded="false" />
-            <element signature="e#17721#17921#0" expanded="false" />
-            <element signature="e#17925#18125#0" expanded="false" />
-            <element signature="e#18129#18329#0" expanded="false" />
-            <element signature="e#18333#18533#0" expanded="false" />
-            <element signature="e#18537#18737#0" expanded="false" />
-            <element signature="e#18741#18941#0" expanded="false" />
-            <element signature="e#18945#19145#0" expanded="false" />
-            <element signature="e#19149#19349#0" expanded="false" />
-            <element signature="e#19353#19553#0" expanded="false" />
-            <element signature="e#19557#19757#0" expanded="false" />
-            <element signature="e#19761#19961#0" expanded="false" />
-            <element signature="e#19965#20165#0" expanded="false" />
-            <element signature="e#20169#20369#0" expanded="false" />
-            <element signature="e#20373#20573#0" expanded="false" />
-            <element signature="e#20577#20777#0" expanded="false" />
-            <element signature="e#20781#20981#0" expanded="false" />
-            <element signature="e#20985#21185#0" expanded="false" />
-            <element signature="e#21189#21389#0" expanded="false" />
-            <element signature="e#21393#21593#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,10 +1200,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="37" column="807" lean-forward="false" selection-start-line="37" selection-start-column="807" selection-end-line="37" selection-end-column="807" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="190" column="45" lean-forward="false" selection-start-line="190" selection-start-column="45" selection-end-line="190" selection-end-column="45" />
+        <state relative-caret-position="179">
+          <caret line="172" column="25" lean-forward="true" selection-start-line="172" selection-start-column="25" selection-end-line="172" selection-end-column="25" />
           <folding>
             <element signature="e#8026#8033#1" expanded="true" />
           </folding>
