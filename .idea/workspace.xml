@@ -23,52 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/confucianism/shijing/data.js">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16224">
-              <caret line="676" column="29" lean-forward="false" selection-start-line="676" selection-start-column="29" selection-end-line="676" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/kangcangzi/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="e#13#1399#0" expanded="false" />
-                <element signature="e#1403#2173#0" expanded="false" />
-                <element signature="e#4318#5288#0" expanded="false" />
-                <element signature="e#5292#5956#0" expanded="false" />
-                <element signature="e#5960#7310#0" expanded="false" />
-                <element signature="e#7314#8914#0" expanded="false" />
-                <element signature="e#8918#10281#0" expanded="false" />
-                <element signature="e#10285#11329#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="176" column="31" lean-forward="false" selection-start-line="176" selection-start-column="31" selection-end-line="176" selection-end-column="31" />
-              <folding>
-                <element signature="e#8026#8033#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="37" column="807" lean-forward="false" selection-start-line="37" selection-start-column="807" selection-end-line="37" selection-end-column="807" />
+            <state relative-caret-position="342">
+              <caret line="512" column="582" lean-forward="true" selection-start-line="512" selection-start-column="582" selection-end-line="512" selection-end-column="582" />
               <folding />
             </state>
           </provider>
@@ -87,8 +46,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>是的”</find>
-      <find>☆</find>
       <find>同与道</find>
       <find>老子曰：治理大国，不可以</find>
       <find>就承受了天和地殖之德，</find>
@@ -117,6 +74,8 @@
       <find>我是坚强的！我要靠自己！」从</find>
       <find>十种如金刚大乘誓愿心。若诸菩萨安住此法，则得如来金刚性无上大神通智</find>
       <find>的人也会跟他们一样有老师哩。</find>
+      <find>晏婴向管仲询问养生之道。管仲说</find>
+      <find>我所说的养生。’管</find>
     </findStrings>
     <replaceStrings>
       <replace>，</replace>
@@ -205,7 +164,6 @@
         <option value="$PROJECT_DIR$/content/taoism/jinrenming/catalog.html" />
         <option value="$PROJECT_DIR$/content/taoism/jinrenming/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/fofagailun/data.js" />
-        <option value="$PROJECT_DIR$/content/taoism/liezi/data.js" />
         <option value="$PROJECT_DIR$/content/buddhism/xinjing.html" />
         <option value="$PROJECT_DIR$/content/buddhism/fotuozhuan/data.js" />
         <option value="$PROJECT_DIR$/content/confucianism/shijing/all.html" />
@@ -218,6 +176,7 @@
         <option value="$PROJECT_DIR$/content/taoism/kangcangzi/data.js" />
         <option value="$PROJECT_DIR$/content/taoism/zhuangzi/data.js" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/content/taoism/liezi/data.js" />
       </list>
     </option>
   </component>
@@ -254,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -279,12 +237,20 @@
               <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="liezi" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Books" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="taoism" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="zhuangzi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -824,27 +790,29 @@
       <workItem from="1606545906159" duration="62000" />
       <workItem from="1606545998814" duration="562000" />
       <workItem from="1606546960274" duration="568000" />
+      <workItem from="1607592190566" duration="13000" />
+      <workItem from="1607676700757" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="859800000" />
+    <option name="totallyTimeSpent" value="860026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17381974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995381" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1088,13 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="221" column="226" lean-forward="false" selection-start-line="221" selection-start-column="226" selection-end-line="221" selection-end-column="226" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/buddhism/zaahanjing/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1179,17 +1140,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/confucianism/shijing/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16224">
-          <caret line="676" column="29" lean-forward="false" selection-start-line="676" selection-start-column="29" selection-end-line="676" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/taoism/zhuangzi/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
+        <state relative-caret-position="755">
           <caret line="37" column="807" lean-forward="false" selection-start-line="37" selection-start-column="807" selection-end-line="37" selection-end-column="807" />
           <folding />
         </state>
@@ -1197,8 +1150,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="176" column="31" lean-forward="false" selection-start-line="176" selection-start-column="31" selection-end-line="176" selection-end-column="31" />
+        <state relative-caret-position="72">
+          <caret line="163" column="8" lean-forward="false" selection-start-line="163" selection-start-column="8" selection-end-line="163" selection-end-column="8" />
           <folding>
             <element signature="e#8026#8033#1" expanded="true" />
           </folding>
@@ -1219,6 +1172,22 @@
             <element signature="e#8918#10281#0" expanded="false" />
             <element signature="e#10285#11329#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/confucianism/shijing/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="676" column="29" lean-forward="false" selection-start-line="676" selection-start-column="29" selection-end-line="676" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/taoism/liezi/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="512" column="582" lean-forward="true" selection-start-line="512" selection-start-column="582" selection-end-line="512" selection-end-column="582" />
+          <folding />
         </state>
       </provider>
     </entry>
