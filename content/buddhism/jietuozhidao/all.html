@@ -12,6 +12,7 @@
 </head>
 <body>
 <div id="menu">
+    <p><a href="../../../home.html" class="btn btn-default" id='back2'>返回书库(F)</a></p>
     <p><a href="./catalog.html" class="btn btn-default" id="back">返回目录(S)</a></p>
 </div>
 <div class="container">
@@ -44,6 +45,9 @@
     if(!e.ctrlKey){
       if (e.key === 's') {//返回
         document.getElementById('back').click();
+      }
+      if (e.key === 'f') {//返回
+        document.getElementById('back2').click();
       }
     }
   };

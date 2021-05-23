@@ -41,6 +41,9 @@ $(function () {
       if (e.key == 's') {
         document.getElementById('back').click();
       }
+      if (e.key === 'f') {//返回
+        document.getElementById('back2').click();
+      }
       if (e.key == 'a') {
         document.getElementById('previous').click();
       }
